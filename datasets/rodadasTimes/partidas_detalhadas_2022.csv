@@ -1,0 +1,761 @@
+rodada,turno,data,time,adversario,gols_marcados,gols_sofridos,condicao
+1,1º Turno,10/04/2022,America-MG,Avai,0,1,Visitante
+2,1º Turno,16/04/2022,America-MG,Juventude,4,1,Mandante
+3,1º Turno,24/04/2022,America-MG,Santos,0,3,Visitante
+4,1º Turno,30/04/2022,America-MG,Athletico-PR,1,0,Mandante
+5,1º Turno,07/05/2022,America-MG,Atletico-MG,2,1,Visitante
+6,1º Turno,15/05/2022,America-MG,Coritiba,0,1,Visitante
+7,1º Turno,21/05/2022,America-MG,Botafogo-RJ,1,1,Mandante
+8,1º Turno,29/05/2022,America-MG,Corinthians,1,1,Visitante
+9,1º Turno,04/06/2022,America-MG,Cuiaba,2,1,Mandante
+10,1º Turno,08/06/2022,America-MG,Ceara,0,2,Mandante
+11,1º Turno,12/06/2022,America-MG,Sao Paulo,0,1,Visitante
+12,1º Turno,15/06/2022,America-MG,Fluminense,0,0,Mandante
+13,1º Turno,19/06/2022,America-MG,Fortaleza,0,1,Visitante
+14,1º Turno,25/06/2022,America-MG,Flamengo,0,3,Visitante
+15,1º Turno,03/07/2022,America-MG,Goias,1,0,Mandante
+16,1º Turno,11/07/2022,America-MG,Internacional,0,1,Visitante
+17,1º Turno,17/07/2022,America-MG,Bragantino,0,3,Mandante
+18,1º Turno,21/07/2022,America-MG,Palmeiras,0,1,Mandante
+19,1º Turno,24/07/2022,America-MG,Atletico-GO,1,0,Visitante
+20,2º Turno,31/07/2022,America-MG,Avai,3,1,Mandante
+21,2º Turno,06/08/2022,America-MG,Juventude,1,0,Visitante
+22,2º Turno,14/08/2022,America-MG,Santos,1,0,Mandante
+23,2º Turno,21/08/2022,America-MG,Athletico-PR,1,1,Visitante
+24,2º Turno,28/08/2022,America-MG,Atletico-MG,1,1,Mandante
+25,2º Turno,03/09/2022,America-MG,Coritiba,2,0,Mandante
+26,2º Turno,11/09/2022,America-MG,Botafogo-RJ,0,0,Visitante
+27,2º Turno,18/09/2022,America-MG,Corinthians,1,0,Mandante
+28,2º Turno,28/09/2022,America-MG,Cuiaba,1,2,Visitante
+29,2º Turno,01/10/2022,America-MG,Ceara,2,1,Visitante
+30,2º Turno,06/10/2022,America-MG,Sao Paulo,1,2,Mandante
+31,2º Turno,09/10/2022,America-MG,Fluminense,2,0,Visitante
+32,2º Turno,15/10/2022,America-MG,Fortaleza,1,2,Mandante
+33,2º Turno,22/10/2022,America-MG,Flamengo,1,2,Mandante
+34,2º Turno,26/10/2022,America-MG,Goias,2,2,Visitante
+35,2º Turno,02/11/2022,America-MG,Internacional,1,0,Mandante
+36,2º Turno,05/11/2022,America-MG,Bragantino,4,1,Visitante
+37,2º Turno,09/11/2022,America-MG,Palmeiras,1,2,Visitante
+38,2º Turno,13/11/2022,America-MG,Atletico-GO,1,1,Mandante
+1,1º Turno,10/04/2022,Athletico-PR,Sao Paulo,0,4,Visitante
+2,1º Turno,17/04/2022,Athletico-PR,Atletico-MG,0,1,Mandante
+3,1º Turno,23/04/2022,Athletico-PR,Flamengo,1,0,Mandante
+4,1º Turno,30/04/2022,Athletico-PR,America-MG,0,1,Visitante
+5,1º Turno,07/05/2022,Athletico-PR,Ceara,1,0,Mandante
+6,1º Turno,14/05/2022,Athletico-PR,Fluminense,1,2,Visitante
+7,1º Turno,22/05/2022,Athletico-PR,Avai,2,1,Mandante
+8,1º Turno,29/05/2022,Athletico-PR,Cuiaba,1,0,Visitante
+9,1º Turno,04/06/2022,Athletico-PR,Santos,2,2,Mandante
+10,1º Turno,08/06/2022,Athletico-PR,Juventude,3,1,Visitante
+11,1º Turno,12/06/2022,Athletico-PR,Fortaleza,0,0,Visitante
+12,1º Turno,15/06/2022,Athletico-PR,Corinthians,1,1,Mandante
+13,1º Turno,19/06/2022,Athletico-PR,Coritiba,1,0,Visitante
+14,1º Turno,25/06/2022,Athletico-PR,Bragantino,4,2,Mandante
+15,1º Turno,02/07/2022,Athletico-PR,Palmeiras,2,0,Visitante
+16,1º Turno,09/07/2022,Athletico-PR,Goias,1,2,Visitante
+17,1º Turno,16/07/2022,Athletico-PR,Internacional,0,0,Mandante
+18,1º Turno,20/07/2022,Athletico-PR,Atletico-GO,4,1,Mandante
+19,1º Turno,23/07/2022,Athletico-PR,Botafogo-RJ,0,2,Visitante
+20,2º Turno,31/07/2022,Athletico-PR,Sao Paulo,1,0,Mandante
+21,2º Turno,07/08/2022,Athletico-PR,Atletico-MG,3,2,Visitante
+22,2º Turno,14/08/2022,Athletico-PR,Flamengo,0,5,Visitante
+23,2º Turno,21/08/2022,Athletico-PR,America-MG,1,1,Mandante
+24,2º Turno,27/08/2022,Athletico-PR,Ceara,0,0,Visitante
+25,2º Turno,03/09/2022,Athletico-PR,Fluminense,1,0,Mandante
+26,2º Turno,11/09/2022,Athletico-PR,Avai,1,1,Visitante
+27,2º Turno,18/09/2022,Athletico-PR,Cuiaba,2,2,Mandante
+28,2º Turno,27/09/2022,Athletico-PR,Santos,0,2,Visitante
+29,2º Turno,01/10/2022,Athletico-PR,Juventude,2,0,Mandante
+30,2º Turno,05/10/2022,Athletico-PR,Fortaleza,1,1,Mandante
+31,2º Turno,08/10/2022,Athletico-PR,Corinthians,1,2,Visitante
+32,2º Turno,16/10/2022,Athletico-PR,Coritiba,1,0,Mandante
+33,2º Turno,22/10/2022,Athletico-PR,Bragantino,2,4,Visitante
+34,2º Turno,25/10/2022,Athletico-PR,Palmeiras,1,3,Mandante
+35,2º Turno,02/11/2022,Athletico-PR,Goias,3,2,Mandante
+36,2º Turno,05/11/2022,Athletico-PR,Internacional,0,2,Visitante
+37,2º Turno,09/11/2022,Athletico-PR,Atletico-GO,1,1,Visitante
+38,2º Turno,13/11/2022,Athletico-PR,Botafogo-RJ,3,0,Mandante
+1,1º Turno,09/04/2022,Atletico-GO,Flamengo,1,1,Mandante
+2,1º Turno,17/04/2022,Atletico-GO,Bragantino,0,4,Visitante
+3,1º Turno,24/04/2022,Atletico-GO,Botafogo-RJ,1,1,Mandante
+4,1º Turno,30/04/2022,Atletico-GO,Cuiaba,1,1,Visitante
+5,1º Turno,08/05/2022,Atletico-GO,Goias,0,1,Mandante
+6,1º Turno,14/05/2022,Atletico-GO,Atletico-MG,0,2,Visitante
+7,1º Turno,21/05/2022,Atletico-GO,Coritiba,2,0,Mandante
+8,1º Turno,30/05/2022,Atletico-GO,Internacional,1,1,Visitante
+9,1º Turno,04/06/2022,Atletico-GO,Corinthians,0,1,Mandante
+10,1º Turno,08/06/2022,Atletico-GO,Avai,2,1,Mandante
+11,1º Turno,11/06/2022,Atletico-GO,Fluminense,2,0,Visitante
+12,1º Turno,16/06/2022,Atletico-GO,Palmeiras,2,4,Visitante
+13,1º Turno,19/06/2022,Atletico-GO,Juventude,3,1,Mandante
+14,1º Turno,26/06/2022,Atletico-GO,Ceara,1,1,Visitante
+15,1º Turno,03/07/2022,Atletico-GO,Sao Paulo,1,2,Mandante
+16,1º Turno,10/07/2022,Atletico-GO,Santos,0,1,Visitante
+17,1º Turno,17/07/2022,Atletico-GO,Fortaleza,0,1,Mandante
+18,1º Turno,20/07/2022,Atletico-GO,Athletico-PR,1,4,Visitante
+19,1º Turno,24/07/2022,Atletico-GO,America-MG,0,1,Mandante
+20,2º Turno,30/07/2022,Atletico-GO,Flamengo,1,4,Visitante
+21,2º Turno,06/08/2022,Atletico-GO,Bragantino,2,1,Mandante
+22,2º Turno,13/08/2022,Atletico-GO,Botafogo-RJ,0,0,Visitante
+23,2º Turno,21/08/2022,Atletico-GO,Cuiaba,1,1,Mandante
+24,2º Turno,27/08/2022,Atletico-GO,Goias,1,2,Visitante
+25,2º Turno,04/09/2022,Atletico-GO,Atletico-MG,0,2,Mandante
+26,2º Turno,11/09/2022,Atletico-GO,Coritiba,0,2,Visitante
+27,2º Turno,19/09/2022,Atletico-GO,Internacional,1,2,Mandante
+28,2º Turno,28/09/2022,Atletico-GO,Corinthians,1,2,Visitante
+29,2º Turno,01/10/2022,Atletico-GO,Avai,2,1,Visitante
+30,2º Turno,05/10/2022,Atletico-GO,Fluminense,3,2,Mandante
+31,2º Turno,10/10/2022,Atletico-GO,Palmeiras,1,1,Mandante
+32,2º Turno,16/10/2022,Atletico-GO,Juventude,1,1,Visitante
+33,2º Turno,23/10/2022,Atletico-GO,Ceara,1,0,Mandante
+34,2º Turno,27/10/2022,Atletico-GO,Sao Paulo,1,2,Visitante
+35,2º Turno,02/11/2022,Atletico-GO,Santos,2,3,Mandante
+36,2º Turno,06/11/2022,Atletico-GO,Fortaleza,1,1,Visitante
+37,2º Turno,09/11/2022,Atletico-GO,Athletico-PR,1,1,Mandante
+38,2º Turno,13/11/2022,Atletico-GO,America-MG,1,1,Visitante
+1,1º Turno,10/04/2022,Atletico-MG,Internacional,2,0,Mandante
+2,1º Turno,17/04/2022,Atletico-MG,Athletico-PR,1,0,Visitante
+3,1º Turno,23/04/2022,Atletico-MG,Coritiba,2,2,Mandante
+4,1º Turno,30/04/2022,Atletico-MG,Goias,2,2,Visitante
+5,1º Turno,07/05/2022,Atletico-MG,America-MG,1,2,Mandante
+6,1º Turno,14/05/2022,Atletico-MG,Atletico-GO,2,0,Mandante
+7,1º Turno,11/05/2022,Atletico-MG,Bragantino,1,1,Visitante
+8,1º Turno,29/05/2022,Atletico-MG,Avai,2,1,Mandante
+9,1º Turno,05/06/2022,Atletico-MG,Palmeiras,0,0,Visitante
+10,1º Turno,08/06/2022,Atletico-MG,Fluminense,3,5,Visitante
+11,1º Turno,11/06/2022,Atletico-MG,Santos,1,1,Mandante
+12,1º Turno,15/06/2022,Atletico-MG,Ceara,0,0,Visitante
+13,1º Turno,19/06/2022,Atletico-MG,Flamengo,2,0,Mandante
+14,1º Turno,25/06/2022,Atletico-MG,Fortaleza,3,2,Mandante
+15,1º Turno,02/07/2022,Atletico-MG,Juventude,2,1,Visitante
+16,1º Turno,10/07/2022,Atletico-MG,Sao Paulo,0,0,Mandante
+17,1º Turno,17/07/2022,Atletico-MG,Botafogo-RJ,1,0,Visitante
+18,1º Turno,21/07/2022,Atletico-MG,Cuiaba,1,1,Visitante
+19,1º Turno,24/07/2022,Atletico-MG,Corinthians,1,2,Mandante
+20,2º Turno,31/07/2022,Atletico-MG,Internacional,0,3,Visitante
+21,2º Turno,07/08/2022,Atletico-MG,Athletico-PR,2,3,Mandante
+22,2º Turno,14/08/2022,Atletico-MG,Coritiba,1,0,Visitante
+23,2º Turno,20/08/2022,Atletico-MG,Goias,0,1,Mandante
+24,2º Turno,28/08/2022,Atletico-MG,America-MG,1,1,Visitante
+25,2º Turno,04/09/2022,Atletico-MG,Atletico-GO,2,0,Visitante
+26,2º Turno,07/09/2022,Atletico-MG,Bragantino,1,1,Mandante
+27,2º Turno,17/09/2022,Atletico-MG,Avai,0,1,Visitante
+28,2º Turno,28/09/2022,Atletico-MG,Palmeiras,0,1,Mandante
+29,2º Turno,01/10/2022,Atletico-MG,Fluminense,2,0,Mandante
+30,2º Turno,05/10/2022,Atletico-MG,Santos,2,1,Visitante
+31,2º Turno,09/10/2022,Atletico-MG,Ceara,0,0,Mandante
+32,2º Turno,15/10/2022,Atletico-MG,Flamengo,0,1,Visitante
+33,2º Turno,24/10/2022,Atletico-MG,Fortaleza,0,0,Visitante
+34,2º Turno,27/10/2022,Atletico-MG,Juventude,1,0,Mandante
+35,2º Turno,01/11/2022,Atletico-MG,Sao Paulo,2,2,Visitante
+36,2º Turno,07/11/2022,Atletico-MG,Botafogo-RJ,0,2,Mandante
+37,2º Turno,10/11/2022,Atletico-MG,Cuiaba,3,0,Mandante
+38,2º Turno,13/11/2022,Atletico-MG,Corinthians,1,0,Visitante
+1,1º Turno,10/04/2022,Avai,America-MG,1,0,Mandante
+2,1º Turno,16/04/2022,Avai,Corinthians,0,3,Visitante
+3,1º Turno,25/04/2022,Avai,Goias,3,2,Mandante
+4,1º Turno,01/05/2022,Avai,Internacional,0,0,Visitante
+5,1º Turno,09/05/2022,Avai,Coritiba,2,1,Mandante
+6,1º Turno,15/05/2022,Avai,Juventude,1,2,Mandante
+7,1º Turno,22/05/2022,Avai,Athletico-PR,1,2,Visitante
+8,1º Turno,29/05/2022,Avai,Atletico-MG,1,2,Visitante
+9,1º Turno,04/06/2022,Avai,Sao Paulo,1,1,Mandante
+10,1º Turno,08/06/2022,Avai,Atletico-GO,1,2,Visitante
+11,1º Turno,13/06/2022,Avai,Botafogo-RJ,1,0,Visitante
+12,1º Turno,16/06/2022,Avai,Fortaleza,3,2,Mandante
+13,1º Turno,19/06/2022,Avai,Fluminense,0,2,Visitante
+14,1º Turno,26/06/2022,Avai,Palmeiras,2,2,Mandante
+15,1º Turno,03/07/2022,Avai,Cuiaba,1,2,Mandante
+16,1º Turno,09/07/2022,Avai,Bragantino,0,4,Visitante
+17,1º Turno,16/07/2022,Avai,Santos,1,0,Mandante
+18,1º Turno,19/07/2022,Avai,Ceara,0,1,Visitante
+19,1º Turno,24/07/2022,Avai,Flamengo,1,2,Mandante
+20,2º Turno,31/07/2022,Avai,America-MG,1,3,Visitante
+21,2º Turno,06/08/2022,Avai,Corinthians,1,1,Mandante
+22,2º Turno,13/08/2022,Avai,Goias,1,1,Visitante
+23,2º Turno,22/08/2022,Avai,Internacional,0,1,Mandante
+24,2º Turno,27/08/2022,Avai,Coritiba,0,1,Visitante
+25,2º Turno,03/09/2022,Avai,Juventude,1,1,Visitante
+26,2º Turno,11/09/2022,Avai,Athletico-PR,1,1,Mandante
+27,2º Turno,17/09/2022,Avai,Atletico-MG,1,0,Mandante
+28,2º Turno,25/09/2022,Avai,Sao Paulo,0,4,Visitante
+29,2º Turno,01/10/2022,Avai,Atletico-GO,1,2,Mandante
+30,2º Turno,06/10/2022,Avai,Botafogo-RJ,1,2,Mandante
+31,2º Turno,09/10/2022,Avai,Fortaleza,0,2,Visitante
+32,2º Turno,16/10/2022,Avai,Fluminense,0,3,Mandante
+33,2º Turno,22/10/2022,Avai,Palmeiras,0,3,Visitante
+34,2º Turno,27/10/2022,Avai,Cuiaba,0,1,Visitante
+35,2º Turno,02/11/2022,Avai,Bragantino,1,2,Mandante
+36,2º Turno,05/11/2022,Avai,Santos,1,1,Visitante
+37,2º Turno,09/11/2022,Avai,Ceara,2,0,Mandante
+38,2º Turno,12/11/2022,Avai,Flamengo,2,1,Visitante
+1,1º Turno,10/04/2022,Botafogo-RJ,Corinthians,1,3,Mandante
+2,1º Turno,17/04/2022,Botafogo-RJ,Ceara,3,1,Visitante
+3,1º Turno,24/04/2022,Botafogo-RJ,Atletico-GO,1,1,Visitante
+4,1º Turno,01/05/2022,Botafogo-RJ,Juventude,1,1,Mandante
+5,1º Turno,08/05/2022,Botafogo-RJ,Flamengo,1,0,Visitante
+6,1º Turno,15/05/2022,Botafogo-RJ,Fortaleza,3,1,Mandante
+7,1º Turno,21/05/2022,Botafogo-RJ,America-MG,1,1,Visitante
+8,1º Turno,29/05/2022,Botafogo-RJ,Coritiba,0,1,Visitante
+9,1º Turno,06/06/2022,Botafogo-RJ,Goias,1,2,Mandante
+10,1º Turno,09/06/2022,Botafogo-RJ,Palmeiras,0,4,Visitante
+11,1º Turno,13/06/2022,Botafogo-RJ,Avai,0,1,Mandante
+12,1º Turno,16/06/2022,Botafogo-RJ,Sao Paulo,1,0,Mandante
+13,1º Turno,19/06/2022,Botafogo-RJ,Internacional,3,2,Visitante
+14,1º Turno,26/06/2022,Botafogo-RJ,Fluminense,0,1,Mandante
+15,1º Turno,04/07/2022,Botafogo-RJ,Bragantino,1,0,Visitante
+16,1º Turno,10/07/2022,Botafogo-RJ,Cuiaba,0,2,Visitante
+17,1º Turno,17/07/2022,Botafogo-RJ,Atletico-MG,0,1,Mandante
+18,1º Turno,20/07/2022,Botafogo-RJ,Santos,0,2,Visitante
+19,1º Turno,23/07/2022,Botafogo-RJ,Athletico-PR,2,0,Mandante
+20,2º Turno,30/07/2022,Botafogo-RJ,Corinthians,0,1,Visitante
+21,2º Turno,06/08/2022,Botafogo-RJ,Ceara,1,1,Mandante
+22,2º Turno,13/08/2022,Botafogo-RJ,Atletico-GO,0,0,Mandante
+23,2º Turno,21/08/2022,Botafogo-RJ,Juventude,2,2,Visitante
+24,2º Turno,28/08/2022,Botafogo-RJ,Flamengo,0,1,Mandante
+25,2º Turno,04/09/2022,Botafogo-RJ,Fortaleza,3,1,Visitante
+26,2º Turno,11/09/2022,Botafogo-RJ,America-MG,0,0,Mandante
+27,2º Turno,17/09/2022,Botafogo-RJ,Coritiba,2,0,Mandante
+28,2º Turno,28/09/2022,Botafogo-RJ,Goias,1,0,Visitante
+29,2º Turno,03/10/2022,Botafogo-RJ,Palmeiras,1,3,Mandante
+30,2º Turno,06/10/2022,Botafogo-RJ,Avai,2,1,Visitante
+31,2º Turno,09/10/2022,Botafogo-RJ,Sao Paulo,1,0,Visitante
+32,2º Turno,16/10/2022,Botafogo-RJ,Internacional,0,1,Mandante
+33,2º Turno,23/10/2022,Botafogo-RJ,Fluminense,2,2,Visitante
+34,2º Turno,26/10/2022,Botafogo-RJ,Bragantino,2,1,Mandante
+35,2º Turno,01/11/2022,Botafogo-RJ,Cuiaba,0,2,Mandante
+36,2º Turno,07/11/2022,Botafogo-RJ,Atletico-MG,2,0,Visitante
+37,2º Turno,10/11/2022,Botafogo-RJ,Santos,3,0,Mandante
+38,2º Turno,13/11/2022,Botafogo-RJ,Athletico-PR,0,3,Visitante
+1,1º Turno,11/04/2022,Bragantino,Juventude,2,2,Visitante
+2,1º Turno,17/04/2022,Bragantino,Atletico-GO,4,0,Mandante
+3,1º Turno,23/04/2022,Bragantino,Sao Paulo,1,1,Mandante
+4,1º Turno,30/04/2022,Bragantino,Ceara,1,0,Visitante
+5,1º Turno,08/05/2022,Bragantino,Corinthians,0,1,Mandante
+6,1º Turno,14/05/2022,Bragantino,Palmeiras,0,2,Visitante
+7,1º Turno,11/05/2022,Bragantino,Atletico-MG,1,1,Mandante
+8,1º Turno,28/05/2022,Bragantino,Goias,1,1,Visitante
+9,1º Turno,05/06/2022,Bragantino,Internacional,0,2,Mandante
+10,1º Turno,08/06/2022,Bragantino,Flamengo,1,0,Mandante
+11,1º Turno,11/06/2022,Bragantino,Cuiaba,1,1,Visitante
+12,1º Turno,15/06/2022,Bragantino,Coritiba,4,2,Mandante
+13,1º Turno,18/06/2022,Bragantino,Santos,2,2,Visitante
+14,1º Turno,25/06/2022,Bragantino,Athletico-PR,2,4,Visitante
+15,1º Turno,04/07/2022,Bragantino,Botafogo-RJ,0,1,Mandante
+16,1º Turno,09/07/2022,Bragantino,Avai,4,0,Mandante
+17,1º Turno,17/07/2022,Bragantino,America-MG,3,0,Visitante
+18,1º Turno,20/07/2022,Bragantino,Fortaleza,2,1,Mandante
+19,1º Turno,24/07/2022,Bragantino,Fluminense,1,2,Visitante
+20,2º Turno,31/07/2022,Bragantino,Juventude,1,0,Mandante
+21,2º Turno,06/08/2022,Bragantino,Atletico-GO,1,2,Visitante
+22,2º Turno,14/08/2022,Bragantino,Sao Paulo,0,3,Visitante
+23,2º Turno,21/08/2022,Bragantino,Ceara,1,1,Mandante
+24,2º Turno,29/08/2022,Bragantino,Corinthians,0,1,Visitante
+25,2º Turno,03/09/2022,Bragantino,Palmeiras,2,2,Mandante
+26,2º Turno,07/09/2022,Bragantino,Atletico-MG,1,1,Visitante
+27,2º Turno,18/09/2022,Bragantino,Goias,1,1,Mandante
+28,2º Turno,28/09/2022,Bragantino,Internacional,0,0,Visitante
+29,2º Turno,01/10/2022,Bragantino,Flamengo,1,4,Visitante
+30,2º Turno,05/10/2022,Bragantino,Cuiaba,2,1,Mandante
+31,2º Turno,09/10/2022,Bragantino,Coritiba,1,2,Visitante
+32,2º Turno,17/10/2022,Bragantino,Santos,0,2,Mandante
+33,2º Turno,22/10/2022,Bragantino,Athletico-PR,4,2,Mandante
+34,2º Turno,26/10/2022,Bragantino,Botafogo-RJ,1,2,Visitante
+35,2º Turno,02/11/2022,Bragantino,Avai,2,1,Visitante
+36,2º Turno,05/11/2022,Bragantino,America-MG,1,4,Mandante
+37,2º Turno,09/11/2022,Bragantino,Fortaleza,0,6,Visitante
+38,2º Turno,13/11/2022,Bragantino,Fluminense,0,1,Mandante
+1,1º Turno,09/04/2022,Ceara,Palmeiras,3,2,Visitante
+2,1º Turno,17/04/2022,Ceara,Botafogo-RJ,1,3,Mandante
+3,1º Turno,01/06/2022,Ceara,Fortaleza,1,0,Visitante
+4,1º Turno,30/04/2022,Ceara,Bragantino,0,1,Mandante
+5,1º Turno,07/05/2022,Ceara,Athletico-PR,0,1,Visitante
+6,1º Turno,14/05/2022,Ceara,Flamengo,2,2,Mandante
+7,1º Turno,21/05/2022,Ceara,Santos,0,0,Visitante
+8,1º Turno,28/05/2022,Ceara,Sao Paulo,2,2,Visitante
+9,1º Turno,04/06/2022,Ceara,Coritiba,1,1,Mandante
+10,1º Turno,08/06/2022,Ceara,America-MG,2,0,Visitante
+11,1º Turno,12/06/2022,Ceara,Goias,1,1,Visitante
+12,1º Turno,15/06/2022,Ceara,Atletico-MG,0,0,Mandante
+13,1º Turno,18/06/2022,Ceara,Cuiaba,0,0,Visitante
+14,1º Turno,26/06/2022,Ceara,Atletico-GO,1,1,Mandante
+15,1º Turno,02/07/2022,Ceara,Internacional,1,1,Mandante
+16,1º Turno,09/07/2022,Ceara,Fluminense,1,2,Visitante
+17,1º Turno,16/07/2022,Ceara,Corinthians,3,1,Mandante
+18,1º Turno,19/07/2022,Ceara,Avai,1,0,Mandante
+19,1º Turno,24/07/2022,Ceara,Juventude,0,1,Visitante
+20,2º Turno,30/07/2022,Ceara,Palmeiras,1,2,Mandante
+21,2º Turno,06/08/2022,Ceara,Botafogo-RJ,1,1,Visitante
+22,2º Turno,14/08/2022,Ceara,Fortaleza,0,1,Mandante
+23,2º Turno,21/08/2022,Ceara,Bragantino,1,1,Visitante
+24,2º Turno,27/08/2022,Ceara,Athletico-PR,0,0,Mandante
+25,2º Turno,04/09/2022,Ceara,Flamengo,1,1,Visitante
+26,2º Turno,10/09/2022,Ceara,Santos,2,1,Mandante
+27,2º Turno,18/09/2022,Ceara,Sao Paulo,0,2,Mandante
+28,2º Turno,28/09/2022,Ceara,Coritiba,0,1,Visitante
+29,2º Turno,01/10/2022,Ceara,America-MG,1,2,Mandante
+30,2º Turno,05/10/2022,Ceara,Goias,1,1,Mandante
+31,2º Turno,09/10/2022,Ceara,Atletico-MG,0,0,Visitante
+32,2º Turno,16/10/2022,Ceara,Cuiaba,1,1,Mandante
+33,2º Turno,23/10/2022,Ceara,Atletico-GO,0,1,Visitante
+34,2º Turno,26/10/2022,Ceara,Internacional,1,2,Visitante
+35,2º Turno,31/10/2022,Ceara,Fluminense,0,1,Mandante
+36,2º Turno,05/11/2022,Ceara,Corinthians,0,1,Visitante
+37,2º Turno,09/11/2022,Ceara,Avai,0,2,Visitante
+38,2º Turno,13/11/2022,Ceara,Juventude,4,1,Mandante
+1,1º Turno,10/04/2022,Corinthians,Botafogo-RJ,3,1,Visitante
+2,1º Turno,16/04/2022,Corinthians,Avai,3,0,Mandante
+3,1º Turno,23/04/2022,Corinthians,Palmeiras,0,3,Visitante
+4,1º Turno,01/05/2022,Corinthians,Fortaleza,1,0,Mandante
+5,1º Turno,08/05/2022,Corinthians,Bragantino,1,0,Visitante
+6,1º Turno,14/05/2022,Corinthians,Internacional,2,2,Visitante
+7,1º Turno,22/05/2022,Corinthians,Sao Paulo,1,1,Mandante
+8,1º Turno,29/05/2022,Corinthians,America-MG,1,1,Mandante
+9,1º Turno,04/06/2022,Corinthians,Atletico-GO,1,0,Visitante
+10,1º Turno,07/06/2022,Corinthians,Cuiaba,0,1,Visitante
+11,1º Turno,11/06/2022,Corinthians,Juventude,2,0,Mandante
+12,1º Turno,15/06/2022,Corinthians,Athletico-PR,1,1,Visitante
+13,1º Turno,19/06/2022,Corinthians,Goias,1,0,Mandante
+14,1º Turno,25/06/2022,Corinthians,Santos,0,0,Mandante
+15,1º Turno,02/07/2022,Corinthians,Fluminense,0,4,Visitante
+16,1º Turno,10/07/2022,Corinthians,Flamengo,1,0,Mandante
+17,1º Turno,16/07/2022,Corinthians,Ceara,1,3,Visitante
+18,1º Turno,20/07/2022,Corinthians,Coritiba,3,1,Mandante
+19,1º Turno,24/07/2022,Corinthians,Atletico-MG,2,1,Visitante
+20,2º Turno,30/07/2022,Corinthians,Botafogo-RJ,1,0,Mandante
+21,2º Turno,06/08/2022,Corinthians,Avai,1,1,Visitante
+22,2º Turno,13/08/2022,Corinthians,Palmeiras,0,1,Mandante
+23,2º Turno,21/08/2022,Corinthians,Fortaleza,0,1,Visitante
+24,2º Turno,29/08/2022,Corinthians,Bragantino,1,0,Mandante
+25,2º Turno,04/09/2022,Corinthians,Internacional,2,2,Mandante
+26,2º Turno,11/09/2022,Corinthians,Sao Paulo,1,1,Visitante
+27,2º Turno,18/09/2022,Corinthians,America-MG,0,1,Visitante
+28,2º Turno,28/09/2022,Corinthians,Atletico-GO,2,1,Mandante
+29,2º Turno,01/10/2022,Corinthians,Cuiaba,2,0,Mandante
+30,2º Turno,04/10/2022,Corinthians,Juventude,2,2,Visitante
+31,2º Turno,08/10/2022,Corinthians,Athletico-PR,2,1,Mandante
+32,2º Turno,29/10/2022,Corinthians,Goias,0,0,Visitante
+33,2º Turno,22/10/2022,Corinthians,Santos,1,0,Visitante
+34,2º Turno,26/10/2022,Corinthians,Fluminense,0,2,Mandante
+35,2º Turno,02/11/2022,Corinthians,Flamengo,2,1,Visitante
+36,2º Turno,05/11/2022,Corinthians,Ceara,1,0,Mandante
+37,2º Turno,09/11/2022,Corinthians,Coritiba,2,2,Visitante
+38,2º Turno,13/11/2022,Corinthians,Atletico-MG,0,1,Mandante
+1,1º Turno,10/04/2022,Coritiba,Goias,3,0,Mandante
+2,1º Turno,17/04/2022,Coritiba,Santos,1,2,Visitante
+3,1º Turno,23/04/2022,Coritiba,Atletico-MG,2,2,Visitante
+4,1º Turno,01/05/2022,Coritiba,Fluminense,3,2,Mandante
+5,1º Turno,09/05/2022,Coritiba,Avai,1,2,Visitante
+6,1º Turno,15/05/2022,Coritiba,America-MG,1,0,Mandante
+7,1º Turno,21/05/2022,Coritiba,Atletico-GO,0,2,Visitante
+8,1º Turno,29/05/2022,Coritiba,Botafogo-RJ,1,0,Mandante
+9,1º Turno,04/06/2022,Coritiba,Ceara,1,1,Visitante
+10,1º Turno,09/06/2022,Coritiba,Sao Paulo,1,1,Mandante
+11,1º Turno,12/06/2022,Coritiba,Palmeiras,0,2,Mandante
+12,1º Turno,15/06/2022,Coritiba,Bragantino,2,4,Visitante
+13,1º Turno,19/06/2022,Coritiba,Athletico-PR,0,1,Mandante
+14,1º Turno,24/06/2022,Coritiba,Internacional,0,3,Visitante
+15,1º Turno,03/07/2022,Coritiba,Fortaleza,2,1,Mandante
+16,1º Turno,10/07/2022,Coritiba,Juventude,2,2,Mandante
+17,1º Turno,16/07/2022,Coritiba,Flamengo,0,2,Visitante
+18,1º Turno,20/07/2022,Coritiba,Corinthians,1,3,Visitante
+19,1º Turno,25/07/2022,Coritiba,Cuiaba,1,0,Mandante
+20,2º Turno,30/07/2022,Coritiba,Goias,0,1,Visitante
+21,2º Turno,08/08/2022,Coritiba,Santos,1,2,Mandante
+22,2º Turno,14/08/2022,Coritiba,Atletico-MG,0,1,Mandante
+23,2º Turno,20/08/2022,Coritiba,Fluminense,2,5,Visitante
+24,2º Turno,27/08/2022,Coritiba,Avai,1,0,Mandante
+25,2º Turno,03/09/2022,Coritiba,America-MG,0,2,Visitante
+26,2º Turno,11/09/2022,Coritiba,Atletico-GO,2,0,Mandante
+27,2º Turno,17/09/2022,Coritiba,Botafogo-RJ,0,2,Visitante
+28,2º Turno,28/09/2022,Coritiba,Ceara,1,0,Mandante
+29,2º Turno,20/10/2022,Coritiba,Sao Paulo,1,3,Visitante
+30,2º Turno,06/10/2022,Coritiba,Palmeiras,0,4,Visitante
+31,2º Turno,09/10/2022,Coritiba,Bragantino,2,1,Mandante
+32,2º Turno,16/10/2022,Coritiba,Athletico-PR,0,1,Visitante
+33,2º Turno,23/10/2022,Coritiba,Internacional,1,1,Mandante
+34,2º Turno,27/10/2022,Coritiba,Fortaleza,1,3,Visitante
+35,2º Turno,02/11/2022,Coritiba,Juventude,1,0,Visitante
+36,2º Turno,06/11/2022,Coritiba,Flamengo,1,0,Mandante
+37,2º Turno,09/11/2022,Coritiba,Corinthians,2,2,Mandante
+38,2º Turno,13/11/2022,Coritiba,Cuiaba,1,2,Visitante
+1,1º Turno,10/04/2022,Cuiaba,Fortaleza,1,0,Visitante
+2,1º Turno,16/04/2022,Cuiaba,Fluminense,0,1,Mandante
+3,1º Turno,24/04/2022,Cuiaba,Juventude,1,0,Visitante
+4,1º Turno,30/04/2022,Cuiaba,Atletico-GO,1,1,Mandante
+5,1º Turno,08/05/2022,Cuiaba,Santos,1,4,Visitante
+6,1º Turno,15/05/2022,Cuiaba,Sao Paulo,1,2,Visitante
+7,1º Turno,21/05/2022,Cuiaba,Internacional,1,1,Mandante
+8,1º Turno,29/05/2022,Cuiaba,Athletico-PR,0,1,Mandante
+9,1º Turno,04/06/2022,Cuiaba,America-MG,1,2,Visitante
+10,1º Turno,07/06/2022,Cuiaba,Corinthians,1,0,Mandante
+11,1º Turno,11/06/2022,Cuiaba,Bragantino,1,1,Mandante
+12,1º Turno,15/06/2022,Cuiaba,Flamengo,0,2,Visitante
+13,1º Turno,18/06/2022,Cuiaba,Ceara,0,0,Mandante
+14,1º Turno,26/06/2022,Cuiaba,Goias,0,1,Visitante
+15,1º Turno,03/07/2022,Cuiaba,Avai,2,1,Visitante
+16,1º Turno,10/07/2022,Cuiaba,Botafogo-RJ,2,0,Mandante
+17,1º Turno,18/07/2022,Cuiaba,Palmeiras,0,1,Visitante
+18,1º Turno,21/07/2022,Cuiaba,Atletico-MG,1,1,Mandante
+19,1º Turno,25/07/2022,Cuiaba,Coritiba,0,1,Visitante
+20,2º Turno,31/07/2022,Cuiaba,Fortaleza,0,1,Mandante
+21,2º Turno,07/08/2022,Cuiaba,Fluminense,0,1,Visitante
+22,2º Turno,13/08/2022,Cuiaba,Juventude,1,0,Mandante
+23,2º Turno,21/08/2022,Cuiaba,Atletico-GO,1,1,Visitante
+24,2º Turno,28/08/2022,Cuiaba,Santos,0,0,Mandante
+25,2º Turno,04/09/2022,Cuiaba,Sao Paulo,1,1,Mandante
+26,2º Turno,10/09/2022,Cuiaba,Internacional,0,1,Visitante
+27,2º Turno,18/09/2022,Cuiaba,Athletico-PR,2,2,Visitante
+28,2º Turno,28/09/2022,Cuiaba,America-MG,2,1,Mandante
+29,2º Turno,01/10/2022,Cuiaba,Corinthians,0,2,Visitante
+30,2º Turno,05/10/2022,Cuiaba,Bragantino,1,2,Visitante
+31,2º Turno,08/10/2022,Cuiaba,Flamengo,1,2,Mandante
+32,2º Turno,16/10/2022,Cuiaba,Ceara,1,1,Visitante
+33,2º Turno,23/10/2022,Cuiaba,Goias,1,2,Mandante
+34,2º Turno,27/10/2022,Cuiaba,Avai,1,0,Mandante
+35,2º Turno,01/11/2022,Cuiaba,Botafogo-RJ,2,0,Visitante
+36,2º Turno,06/11/2022,Cuiaba,Palmeiras,1,1,Mandante
+37,2º Turno,10/11/2022,Cuiaba,Atletico-MG,0,3,Visitante
+38,2º Turno,13/11/2022,Cuiaba,Coritiba,2,1,Mandante
+1,1º Turno,09/04/2022,Flamengo,Atletico-GO,1,1,Visitante
+2,1º Turno,17/04/2022,Flamengo,Sao Paulo,3,1,Mandante
+3,1º Turno,23/04/2022,Flamengo,Athletico-PR,0,1,Visitante
+4,1º Turno,20/04/2022,Flamengo,Palmeiras,0,0,Mandante
+5,1º Turno,08/05/2022,Flamengo,Botafogo-RJ,0,1,Mandante
+6,1º Turno,14/05/2022,Flamengo,Ceara,2,2,Visitante
+7,1º Turno,21/05/2022,Flamengo,Goias,1,0,Mandante
+8,1º Turno,29/05/2022,Flamengo,Fluminense,2,1,Visitante
+9,1º Turno,05/06/2022,Flamengo,Fortaleza,1,2,Mandante
+10,1º Turno,08/06/2022,Flamengo,Bragantino,0,1,Visitante
+11,1º Turno,11/06/2022,Flamengo,Internacional,1,3,Visitante
+12,1º Turno,15/06/2022,Flamengo,Cuiaba,2,0,Mandante
+13,1º Turno,19/06/2022,Flamengo,Atletico-MG,0,2,Visitante
+14,1º Turno,25/06/2022,Flamengo,America-MG,3,0,Mandante
+15,1º Turno,02/07/2022,Flamengo,Santos,2,1,Visitante
+16,1º Turno,10/07/2022,Flamengo,Corinthians,0,1,Visitante
+17,1º Turno,16/07/2022,Flamengo,Coritiba,2,0,Mandante
+18,1º Turno,20/07/2022,Flamengo,Juventude,4,0,Mandante
+19,1º Turno,24/07/2022,Flamengo,Avai,2,1,Visitante
+20,2º Turno,30/07/2022,Flamengo,Atletico-GO,4,1,Mandante
+21,2º Turno,06/08/2022,Flamengo,Sao Paulo,2,0,Visitante
+22,2º Turno,14/08/2022,Flamengo,Athletico-PR,5,0,Mandante
+23,2º Turno,21/08/2022,Flamengo,Palmeiras,1,1,Visitante
+24,2º Turno,28/08/2022,Flamengo,Botafogo-RJ,1,0,Visitante
+25,2º Turno,04/09/2022,Flamengo,Ceara,1,1,Mandante
+26,2º Turno,11/09/2022,Flamengo,Goias,1,1,Visitante
+27,2º Turno,18/09/2022,Flamengo,Fluminense,1,2,Mandante
+28,2º Turno,28/09/2022,Flamengo,Fortaleza,2,3,Visitante
+29,2º Turno,01/10/2022,Flamengo,Bragantino,4,1,Mandante
+30,2º Turno,05/10/2022,Flamengo,Internacional,0,0,Mandante
+31,2º Turno,08/10/2022,Flamengo,Cuiaba,2,1,Visitante
+32,2º Turno,15/10/2022,Flamengo,Atletico-MG,1,0,Mandante
+33,2º Turno,22/10/2022,Flamengo,America-MG,2,1,Visitante
+34,2º Turno,25/10/2022,Flamengo,Santos,3,2,Mandante
+35,2º Turno,02/11/2022,Flamengo,Corinthians,1,2,Mandante
+36,2º Turno,06/11/2022,Flamengo,Coritiba,0,1,Visitante
+37,2º Turno,09/11/2022,Flamengo,Juventude,2,2,Visitante
+38,2º Turno,12/11/2022,Flamengo,Avai,1,2,Mandante
+1,1º Turno,09/04/2022,Fluminense,Santos,0,0,Mandante
+2,1º Turno,16/04/2022,Fluminense,Cuiaba,1,0,Visitante
+3,1º Turno,23/04/2022,Fluminense,Internacional,0,1,Mandante
+4,1º Turno,01/05/2022,Fluminense,Coritiba,2,3,Visitante
+5,1º Turno,08/05/2022,Fluminense,Palmeiras,1,1,Visitante
+6,1º Turno,14/05/2022,Fluminense,Athletico-PR,2,1,Mandante
+7,1º Turno,22/05/2022,Fluminense,Fortaleza,1,0,Visitante
+8,1º Turno,29/05/2022,Fluminense,Flamengo,1,2,Mandante
+9,1º Turno,05/06/2022,Fluminense,Juventude,0,1,Visitante
+10,1º Turno,08/06/2022,Fluminense,Atletico-MG,5,3,Mandante
+11,1º Turno,11/06/2022,Fluminense,Atletico-GO,0,2,Mandante
+12,1º Turno,15/06/2022,Fluminense,America-MG,0,0,Visitante
+13,1º Turno,19/06/2022,Fluminense,Avai,2,0,Mandante
+14,1º Turno,26/06/2022,Fluminense,Botafogo-RJ,1,0,Visitante
+15,1º Turno,02/07/2022,Fluminense,Corinthians,4,0,Mandante
+16,1º Turno,09/07/2022,Fluminense,Ceara,2,1,Mandante
+17,1º Turno,17/07/2022,Fluminense,Sao Paulo,2,2,Visitante
+18,1º Turno,20/07/2022,Fluminense,Goias,3,2,Visitante
+19,1º Turno,24/07/2022,Fluminense,Bragantino,2,1,Mandante
+20,2º Turno,01/08/2022,Fluminense,Santos,2,2,Visitante
+21,2º Turno,07/08/2022,Fluminense,Cuiaba,1,0,Mandante
+22,2º Turno,14/08/2022,Fluminense,Internacional,0,3,Visitante
+23,2º Turno,20/08/2022,Fluminense,Coritiba,5,2,Mandante
+24,2º Turno,27/08/2022,Fluminense,Palmeiras,1,1,Mandante
+25,2º Turno,03/09/2022,Fluminense,Athletico-PR,0,1,Visitante
+26,2º Turno,10/09/2022,Fluminense,Fortaleza,2,1,Mandante
+27,2º Turno,18/09/2022,Fluminense,Flamengo,2,1,Visitante
+28,2º Turno,28/09/2022,Fluminense,Juventude,4,0,Mandante
+29,2º Turno,01/10/2022,Fluminense,Atletico-MG,0,2,Visitante
+30,2º Turno,05/10/2022,Fluminense,Atletico-GO,2,3,Visitante
+31,2º Turno,09/10/2022,Fluminense,America-MG,0,2,Mandante
+32,2º Turno,16/10/2022,Fluminense,Avai,3,0,Visitante
+33,2º Turno,23/10/2022,Fluminense,Botafogo-RJ,2,2,Mandante
+34,2º Turno,26/10/2022,Fluminense,Corinthians,2,0,Visitante
+35,2º Turno,31/10/2022,Fluminense,Ceara,1,0,Visitante
+36,2º Turno,05/11/2022,Fluminense,Sao Paulo,3,1,Mandante
+37,2º Turno,09/11/2022,Fluminense,Goias,3,0,Mandante
+38,2º Turno,13/11/2022,Fluminense,Bragantino,1,0,Visitante
+1,1º Turno,10/04/2022,Fortaleza,Cuiaba,0,1,Mandante
+2,1º Turno,17/04/2022,Fortaleza,Internacional,1,2,Visitante
+3,1º Turno,01/06/2022,Fortaleza,Ceara,0,1,Mandante
+4,1º Turno,01/05/2022,Fortaleza,Corinthians,0,1,Visitante
+5,1º Turno,08/05/2022,Fortaleza,Sao Paulo,1,1,Mandante
+6,1º Turno,15/05/2022,Fortaleza,Botafogo-RJ,1,3,Visitante
+7,1º Turno,22/05/2022,Fortaleza,Fluminense,0,1,Mandante
+8,1º Turno,28/05/2022,Fortaleza,Juventude,1,1,Mandante
+9,1º Turno,05/06/2022,Fortaleza,Flamengo,2,1,Visitante
+10,1º Turno,09/06/2022,Fortaleza,Goias,1,1,Mandante
+11,1º Turno,12/06/2022,Fortaleza,Athletico-PR,0,0,Mandante
+12,1º Turno,16/06/2022,Fortaleza,Avai,2,3,Visitante
+13,1º Turno,19/06/2022,Fortaleza,America-MG,1,0,Mandante
+14,1º Turno,25/06/2022,Fortaleza,Atletico-MG,2,3,Visitante
+15,1º Turno,03/07/2022,Fortaleza,Coritiba,1,2,Visitante
+16,1º Turno,10/07/2022,Fortaleza,Palmeiras,0,0,Mandante
+17,1º Turno,17/07/2022,Fortaleza,Atletico-GO,1,0,Visitante
+18,1º Turno,20/07/2022,Fortaleza,Bragantino,1,2,Visitante
+19,1º Turno,24/07/2022,Fortaleza,Santos,0,0,Mandante
+20,2º Turno,31/07/2022,Fortaleza,Cuiaba,1,0,Visitante
+21,2º Turno,07/08/2022,Fortaleza,Internacional,3,0,Mandante
+22,2º Turno,14/08/2022,Fortaleza,Ceara,1,0,Visitante
+23,2º Turno,21/08/2022,Fortaleza,Corinthians,1,0,Mandante
+24,2º Turno,28/08/2022,Fortaleza,Sao Paulo,1,0,Visitante
+25,2º Turno,04/09/2022,Fortaleza,Botafogo-RJ,1,3,Mandante
+26,2º Turno,10/09/2022,Fortaleza,Fluminense,1,2,Visitante
+27,2º Turno,18/09/2022,Fortaleza,Juventude,1,1,Visitante
+28,2º Turno,28/09/2022,Fortaleza,Flamengo,3,2,Mandante
+29,2º Turno,01/10/2022,Fortaleza,Goias,1,0,Visitante
+30,2º Turno,05/10/2022,Fortaleza,Athletico-PR,1,1,Visitante
+31,2º Turno,09/10/2022,Fortaleza,Avai,2,0,Mandante
+32,2º Turno,15/10/2022,Fortaleza,America-MG,2,1,Visitante
+33,2º Turno,24/10/2022,Fortaleza,Atletico-MG,0,0,Mandante
+34,2º Turno,27/10/2022,Fortaleza,Coritiba,3,1,Mandante
+35,2º Turno,02/11/2022,Fortaleza,Palmeiras,0,4,Visitante
+36,2º Turno,06/11/2022,Fortaleza,Atletico-GO,1,1,Mandante
+37,2º Turno,09/11/2022,Fortaleza,Bragantino,6,0,Mandante
+38,2º Turno,13/11/2022,Fortaleza,Santos,2,0,Visitante
+1,1º Turno,10/04/2022,Goias,Coritiba,0,3,Visitante
+2,1º Turno,16/04/2022,Goias,Palmeiras,1,1,Mandante
+3,1º Turno,25/04/2022,Goias,Avai,2,3,Visitante
+4,1º Turno,30/04/2022,Goias,Atletico-MG,2,2,Mandante
+5,1º Turno,08/05/2022,Goias,Atletico-GO,1,0,Visitante
+6,1º Turno,15/05/2022,Goias,Santos,1,0,Mandante
+7,1º Turno,21/05/2022,Goias,Flamengo,0,1,Visitante
+8,1º Turno,28/05/2022,Goias,Bragantino,1,1,Mandante
+9,1º Turno,06/06/2022,Goias,Botafogo-RJ,2,1,Visitante
+10,1º Turno,09/06/2022,Goias,Fortaleza,1,1,Visitante
+11,1º Turno,12/06/2022,Goias,Ceara,1,1,Mandante
+12,1º Turno,15/06/2022,Goias,Internacional,1,2,Mandante
+13,1º Turno,19/06/2022,Goias,Corinthians,0,1,Visitante
+14,1º Turno,26/06/2022,Goias,Cuiaba,1,0,Mandante
+15,1º Turno,03/07/2022,Goias,America-MG,0,1,Visitante
+16,1º Turno,09/07/2022,Goias,Athletico-PR,2,1,Mandante
+17,1º Turno,17/07/2022,Goias,Juventude,0,0,Visitante
+18,1º Turno,20/07/2022,Goias,Fluminense,2,3,Mandante
+19,1º Turno,23/07/2022,Goias,Sao Paulo,3,3,Visitante
+20,2º Turno,30/07/2022,Goias,Coritiba,1,0,Mandante
+21,2º Turno,07/08/2022,Goias,Palmeiras,0,3,Visitante
+22,2º Turno,13/08/2022,Goias,Avai,1,1,Mandante
+23,2º Turno,20/08/2022,Goias,Atletico-MG,1,0,Visitante
+24,2º Turno,27/08/2022,Goias,Atletico-GO,2,1,Mandante
+25,2º Turno,05/09/2022,Goias,Santos,2,1,Visitante
+26,2º Turno,11/09/2022,Goias,Flamengo,1,1,Mandante
+27,2º Turno,18/09/2022,Goias,Bragantino,1,1,Visitante
+28,2º Turno,28/09/2022,Goias,Botafogo-RJ,0,1,Mandante
+29,2º Turno,01/10/2022,Goias,Fortaleza,0,1,Mandante
+30,2º Turno,05/10/2022,Goias,Ceara,1,1,Visitante
+31,2º Turno,09/10/2022,Goias,Internacional,2,4,Visitante
+32,2º Turno,29/10/2022,Goias,Corinthians,0,0,Mandante
+33,2º Turno,23/10/2022,Goias,Cuiaba,2,1,Visitante
+34,2º Turno,26/10/2022,Goias,America-MG,2,2,Mandante
+35,2º Turno,02/11/2022,Goias,Athletico-PR,2,3,Visitante
+36,2º Turno,05/11/2022,Goias,Juventude,1,0,Mandante
+37,2º Turno,09/11/2022,Goias,Fluminense,0,3,Visitante
+38,2º Turno,13/11/2022,Goias,Sao Paulo,0,4,Mandante
+1,1º Turno,10/04/2022,Internacional,Atletico-MG,0,2,Visitante
+2,1º Turno,17/04/2022,Internacional,Fortaleza,2,1,Mandante
+3,1º Turno,23/04/2022,Internacional,Fluminense,1,0,Visitante
+4,1º Turno,01/05/2022,Internacional,Avai,0,0,Mandante
+5,1º Turno,08/05/2022,Internacional,Juventude,1,1,Visitante
+6,1º Turno,14/05/2022,Internacional,Corinthians,2,2,Mandante
+7,1º Turno,21/05/2022,Internacional,Cuiaba,1,1,Visitante
+8,1º Turno,30/05/2022,Internacional,Atletico-GO,1,1,Mandante
+9,1º Turno,05/06/2022,Internacional,Bragantino,2,0,Visitante
+10,1º Turno,08/06/2022,Internacional,Santos,1,1,Visitante
+11,1º Turno,11/06/2022,Internacional,Flamengo,3,1,Mandante
+12,1º Turno,15/06/2022,Internacional,Goias,2,1,Visitante
+13,1º Turno,19/06/2022,Internacional,Botafogo-RJ,2,3,Mandante
+14,1º Turno,24/06/2022,Internacional,Coritiba,3,0,Mandante
+15,1º Turno,02/07/2022,Internacional,Ceara,1,1,Visitante
+16,1º Turno,11/07/2022,Internacional,America-MG,1,0,Mandante
+17,1º Turno,16/07/2022,Internacional,Athletico-PR,0,0,Visitante
+18,1º Turno,20/07/2022,Internacional,Sao Paulo,3,3,Mandante
+19,1º Turno,24/07/2022,Internacional,Palmeiras,1,2,Visitante
+20,2º Turno,31/07/2022,Internacional,Atletico-MG,3,0,Mandante
+21,2º Turno,07/08/2022,Internacional,Fortaleza,0,3,Visitante
+22,2º Turno,14/08/2022,Internacional,Fluminense,3,0,Mandante
+23,2º Turno,22/08/2022,Internacional,Avai,1,0,Visitante
+24,2º Turno,29/08/2022,Internacional,Juventude,4,0,Mandante
+25,2º Turno,04/09/2022,Internacional,Corinthians,2,2,Visitante
+26,2º Turno,10/09/2022,Internacional,Cuiaba,1,0,Mandante
+27,2º Turno,19/09/2022,Internacional,Atletico-GO,2,1,Visitante
+28,2º Turno,28/09/2022,Internacional,Bragantino,0,0,Mandante
+29,2º Turno,01/10/2022,Internacional,Santos,1,0,Mandante
+30,2º Turno,05/10/2022,Internacional,Flamengo,0,0,Visitante
+31,2º Turno,09/10/2022,Internacional,Goias,4,2,Mandante
+32,2º Turno,16/10/2022,Internacional,Botafogo-RJ,1,0,Visitante
+33,2º Turno,23/10/2022,Internacional,Coritiba,1,1,Visitante
+34,2º Turno,26/10/2022,Internacional,Ceara,2,1,Mandante
+35,2º Turno,02/11/2022,Internacional,America-MG,0,1,Visitante
+36,2º Turno,05/11/2022,Internacional,Athletico-PR,2,0,Mandante
+37,2º Turno,08/11/2022,Internacional,Sao Paulo,1,0,Visitante
+38,2º Turno,13/11/2022,Internacional,Palmeiras,3,0,Mandante
+1,1º Turno,11/04/2022,Juventude,Bragantino,2,2,Mandante
+2,1º Turno,16/04/2022,Juventude,America-MG,1,4,Visitante
+3,1º Turno,24/04/2022,Juventude,Cuiaba,0,1,Mandante
+4,1º Turno,01/05/2022,Juventude,Botafogo-RJ,1,1,Visitante
+5,1º Turno,08/05/2022,Juventude,Internacional,1,1,Mandante
+6,1º Turno,15/05/2022,Juventude,Avai,2,1,Visitante
+7,1º Turno,21/05/2022,Juventude,Palmeiras,0,3,Mandante
+8,1º Turno,28/05/2022,Juventude,Fortaleza,1,1,Visitante
+9,1º Turno,05/06/2022,Juventude,Fluminense,1,0,Mandante
+10,1º Turno,08/06/2022,Juventude,Athletico-PR,1,3,Mandante
+11,1º Turno,11/06/2022,Juventude,Corinthians,0,2,Visitante
+12,1º Turno,14/06/2022,Juventude,Santos,1,2,Mandante
+13,1º Turno,19/06/2022,Juventude,Atletico-GO,1,3,Visitante
+14,1º Turno,26/06/2022,Juventude,Sao Paulo,0,0,Visitante
+15,1º Turno,02/07/2022,Juventude,Atletico-MG,1,2,Mandante
+16,1º Turno,10/07/2022,Juventude,Coritiba,2,2,Visitante
+17,1º Turno,17/07/2022,Juventude,Goias,0,0,Mandante
+18,1º Turno,20/07/2022,Juventude,Flamengo,0,4,Visitante
+19,1º Turno,24/07/2022,Juventude,Ceara,1,0,Mandante
+20,2º Turno,31/07/2022,Juventude,Bragantino,0,1,Visitante
+21,2º Turno,06/08/2022,Juventude,America-MG,0,1,Mandante
+22,2º Turno,13/08/2022,Juventude,Cuiaba,0,1,Visitante
+23,2º Turno,21/08/2022,Juventude,Botafogo-RJ,2,2,Mandante
+24,2º Turno,29/08/2022,Juventude,Internacional,0,4,Visitante
+25,2º Turno,03/09/2022,Juventude,Avai,1,1,Mandante
+26,2º Turno,10/09/2022,Juventude,Palmeiras,1,2,Visitante
+27,2º Turno,18/09/2022,Juventude,Fortaleza,1,1,Mandante
+28,2º Turno,28/09/2022,Juventude,Fluminense,0,4,Visitante
+29,2º Turno,01/10/2022,Juventude,Athletico-PR,0,2,Visitante
+30,2º Turno,04/10/2022,Juventude,Corinthians,2,2,Mandante
+31,2º Turno,10/10/2022,Juventude,Santos,1,4,Visitante
+32,2º Turno,16/10/2022,Juventude,Atletico-GO,1,1,Mandante
+33,2º Turno,23/10/2022,Juventude,Sao Paulo,1,2,Mandante
+34,2º Turno,27/10/2022,Juventude,Atletico-MG,0,1,Visitante
+35,2º Turno,02/11/2022,Juventude,Coritiba,0,1,Mandante
+36,2º Turno,05/11/2022,Juventude,Goias,0,1,Visitante
+37,2º Turno,09/11/2022,Juventude,Flamengo,2,2,Mandante
+38,2º Turno,13/11/2022,Juventude,Ceara,1,4,Visitante
+1,1º Turno,09/04/2022,Palmeiras,Ceara,2,3,Mandante
+2,1º Turno,16/04/2022,Palmeiras,Goias,1,1,Visitante
+3,1º Turno,23/04/2022,Palmeiras,Corinthians,3,0,Mandante
+4,1º Turno,20/04/2022,Palmeiras,Flamengo,0,0,Visitante
+5,1º Turno,08/05/2022,Palmeiras,Fluminense,1,1,Mandante
+6,1º Turno,14/05/2022,Palmeiras,Bragantino,2,0,Mandante
+7,1º Turno,21/05/2022,Palmeiras,Juventude,3,0,Visitante
+8,1º Turno,29/05/2022,Palmeiras,Santos,1,0,Visitante
+9,1º Turno,05/06/2022,Palmeiras,Atletico-MG,0,0,Mandante
+10,1º Turno,09/06/2022,Palmeiras,Botafogo-RJ,4,0,Mandante
+11,1º Turno,12/06/2022,Palmeiras,Coritiba,2,0,Visitante
+12,1º Turno,16/06/2022,Palmeiras,Atletico-GO,4,2,Mandante
+13,1º Turno,20/06/2022,Palmeiras,Sao Paulo,2,1,Visitante
+14,1º Turno,26/06/2022,Palmeiras,Avai,2,2,Visitante
+15,1º Turno,02/07/2022,Palmeiras,Athletico-PR,0,2,Mandante
+16,1º Turno,10/07/2022,Palmeiras,Fortaleza,0,0,Visitante
+17,1º Turno,18/07/2022,Palmeiras,Cuiaba,1,0,Mandante
+18,1º Turno,21/07/2022,Palmeiras,America-MG,1,0,Visitante
+19,1º Turno,24/07/2022,Palmeiras,Internacional,2,1,Mandante
+20,2º Turno,30/07/2022,Palmeiras,Ceara,2,1,Visitante
+21,2º Turno,07/08/2022,Palmeiras,Goias,3,0,Mandante
+22,2º Turno,13/08/2022,Palmeiras,Corinthians,1,0,Visitante
+23,2º Turno,21/08/2022,Palmeiras,Flamengo,1,1,Mandante
+24,2º Turno,27/08/2022,Palmeiras,Fluminense,1,1,Visitante
+25,2º Turno,03/09/2022,Palmeiras,Bragantino,2,2,Visitante
+26,2º Turno,10/09/2022,Palmeiras,Juventude,2,1,Mandante
+27,2º Turno,18/09/2022,Palmeiras,Santos,1,0,Mandante
+28,2º Turno,28/09/2022,Palmeiras,Atletico-MG,1,0,Visitante
+29,2º Turno,03/10/2022,Palmeiras,Botafogo-RJ,3,1,Visitante
+30,2º Turno,06/10/2022,Palmeiras,Coritiba,4,0,Mandante
+31,2º Turno,10/10/2022,Palmeiras,Atletico-GO,1,1,Visitante
+32,2º Turno,16/10/2022,Palmeiras,Sao Paulo,0,0,Mandante
+33,2º Turno,22/10/2022,Palmeiras,Avai,3,0,Mandante
+34,2º Turno,25/10/2022,Palmeiras,Athletico-PR,3,1,Visitante
+35,2º Turno,02/11/2022,Palmeiras,Fortaleza,4,0,Mandante
+36,2º Turno,06/11/2022,Palmeiras,Cuiaba,1,1,Visitante
+37,2º Turno,09/11/2022,Palmeiras,America-MG,2,1,Mandante
+38,2º Turno,13/11/2022,Palmeiras,Internacional,0,3,Visitante
+1,1º Turno,09/04/2022,Santos,Fluminense,0,0,Visitante
+2,1º Turno,17/04/2022,Santos,Coritiba,2,1,Mandante
+3,1º Turno,24/04/2022,Santos,America-MG,3,0,Mandante
+4,1º Turno,02/05/2022,Santos,Sao Paulo,1,2,Visitante
+5,1º Turno,08/05/2022,Santos,Cuiaba,4,1,Mandante
+6,1º Turno,15/05/2022,Santos,Goias,0,1,Visitante
+7,1º Turno,21/05/2022,Santos,Ceara,0,0,Mandante
+8,1º Turno,29/05/2022,Santos,Palmeiras,0,1,Mandante
+9,1º Turno,04/06/2022,Santos,Athletico-PR,2,2,Visitante
+10,1º Turno,08/06/2022,Santos,Internacional,1,1,Mandante
+11,1º Turno,11/06/2022,Santos,Atletico-MG,1,1,Visitante
+12,1º Turno,14/06/2022,Santos,Juventude,2,1,Visitante
+13,1º Turno,18/06/2022,Santos,Bragantino,2,2,Mandante
+14,1º Turno,25/06/2022,Santos,Corinthians,0,0,Visitante
+15,1º Turno,02/07/2022,Santos,Flamengo,1,2,Mandante
+16,1º Turno,10/07/2022,Santos,Atletico-GO,1,0,Mandante
+17,1º Turno,16/07/2022,Santos,Avai,0,1,Visitante
+18,1º Turno,20/07/2022,Santos,Botafogo-RJ,2,0,Mandante
+19,1º Turno,24/07/2022,Santos,Fortaleza,0,0,Visitante
+20,2º Turno,01/08/2022,Santos,Fluminense,2,2,Mandante
+21,2º Turno,08/08/2022,Santos,Coritiba,2,1,Visitante
+22,2º Turno,14/08/2022,Santos,America-MG,0,1,Visitante
+23,2º Turno,21/08/2022,Santos,Sao Paulo,1,0,Mandante
+24,2º Turno,28/08/2022,Santos,Cuiaba,0,0,Visitante
+25,2º Turno,05/09/2022,Santos,Goias,1,2,Mandante
+26,2º Turno,10/09/2022,Santos,Ceara,1,2,Visitante
+27,2º Turno,18/09/2022,Santos,Palmeiras,0,1,Visitante
+28,2º Turno,27/09/2022,Santos,Athletico-PR,2,0,Mandante
+29,2º Turno,01/10/2022,Santos,Internacional,0,1,Visitante
+30,2º Turno,05/10/2022,Santos,Atletico-MG,1,2,Mandante
+31,2º Turno,10/10/2022,Santos,Juventude,4,1,Mandante
+32,2º Turno,17/10/2022,Santos,Bragantino,2,0,Visitante
+33,2º Turno,22/10/2022,Santos,Corinthians,0,1,Mandante
+34,2º Turno,25/10/2022,Santos,Flamengo,2,3,Visitante
+35,2º Turno,02/11/2022,Santos,Atletico-GO,3,2,Visitante
+36,2º Turno,05/11/2022,Santos,Avai,1,1,Mandante
+37,2º Turno,10/11/2022,Santos,Botafogo-RJ,0,3,Visitante
+38,2º Turno,13/11/2022,Santos,Fortaleza,0,2,Mandante
+1,1º Turno,10/04/2022,Sao Paulo,Athletico-PR,4,0,Mandante
+2,1º Turno,17/04/2022,Sao Paulo,Flamengo,1,3,Visitante
+3,1º Turno,23/04/2022,Sao Paulo,Bragantino,1,1,Visitante
+4,1º Turno,02/05/2022,Sao Paulo,Santos,2,1,Mandante
+5,1º Turno,08/05/2022,Sao Paulo,Fortaleza,1,1,Visitante
+6,1º Turno,15/05/2022,Sao Paulo,Cuiaba,2,1,Mandante
+7,1º Turno,22/05/2022,Sao Paulo,Corinthians,1,1,Visitante
+8,1º Turno,28/05/2022,Sao Paulo,Ceara,2,2,Mandante
+9,1º Turno,04/06/2022,Sao Paulo,Avai,1,1,Visitante
+10,1º Turno,09/06/2022,Sao Paulo,Coritiba,1,1,Visitante
+11,1º Turno,12/06/2022,Sao Paulo,America-MG,1,0,Mandante
+12,1º Turno,16/06/2022,Sao Paulo,Botafogo-RJ,0,1,Visitante
+13,1º Turno,20/06/2022,Sao Paulo,Palmeiras,1,2,Mandante
+14,1º Turno,26/06/2022,Sao Paulo,Juventude,0,0,Mandante
+15,1º Turno,03/07/2022,Sao Paulo,Atletico-GO,2,1,Visitante
+16,1º Turno,10/07/2022,Sao Paulo,Atletico-MG,0,0,Visitante
+17,1º Turno,17/07/2022,Sao Paulo,Fluminense,2,2,Mandante
+18,1º Turno,20/07/2022,Sao Paulo,Internacional,3,3,Visitante
+19,1º Turno,23/07/2022,Sao Paulo,Goias,3,3,Mandante
+20,2º Turno,31/07/2022,Sao Paulo,Athletico-PR,0,1,Visitante
+21,2º Turno,06/08/2022,Sao Paulo,Flamengo,0,2,Mandante
+22,2º Turno,14/08/2022,Sao Paulo,Bragantino,3,0,Mandante
+23,2º Turno,21/08/2022,Sao Paulo,Santos,0,1,Visitante
+24,2º Turno,28/08/2022,Sao Paulo,Fortaleza,0,1,Mandante
+25,2º Turno,04/09/2022,Sao Paulo,Cuiaba,1,1,Visitante
+26,2º Turno,11/09/2022,Sao Paulo,Corinthians,1,1,Mandante
+27,2º Turno,18/09/2022,Sao Paulo,Ceara,2,0,Visitante
+28,2º Turno,25/09/2022,Sao Paulo,Avai,4,0,Mandante
+29,2º Turno,20/10/2022,Sao Paulo,Coritiba,3,1,Mandante
+30,2º Turno,06/10/2022,Sao Paulo,America-MG,2,1,Visitante
+31,2º Turno,09/10/2022,Sao Paulo,Botafogo-RJ,0,1,Mandante
+32,2º Turno,16/10/2022,Sao Paulo,Palmeiras,0,0,Visitante
+33,2º Turno,23/10/2022,Sao Paulo,Juventude,2,1,Visitante
+34,2º Turno,27/10/2022,Sao Paulo,Atletico-GO,2,1,Mandante
+35,2º Turno,01/11/2022,Sao Paulo,Atletico-MG,2,2,Mandante
+36,2º Turno,05/11/2022,Sao Paulo,Fluminense,1,3,Visitante
+37,2º Turno,08/11/2022,Sao Paulo,Internacional,0,1,Mandante
+38,2º Turno,13/11/2022,Sao Paulo,Goias,4,0,Visitante
