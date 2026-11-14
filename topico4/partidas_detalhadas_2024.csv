@@ -1,0 +1,761 @@
+rodada,turno,data,time,adversario,gols_marcados,gols_sofridos,condicao
+1,1º Turno,14/04/2024,Athletico-PR,Cuiaba,4,0,Mandante
+2,1º Turno,17/04/2024,Athletico-PR,Gremio,0,2,Visitante
+3,1º Turno,21/04/2024,Athletico-PR,Internacional,1,0,Mandante
+4,1º Turno,28/04/2024,Athletico-PR,Juventude,1,1,Visitante
+5,1º Turno,05/05/2024,Athletico-PR,Vasco,1,0,Mandante
+6,1º Turno,12/05/2024,Athletico-PR,Palmeiras,2,0,Visitante
+7,1º Turno,02/06/2024,Athletico-PR,Fortaleza,0,1,Visitante
+8,1º Turno,13/06/2024,Athletico-PR,Criciuma,3,1,Mandante
+9,1º Turno,16/06/2024,Athletico-PR,Flamengo,1,1,Mandante
+10,1º Turno,19/06/2024,Athletico-PR,Botafogo-RJ,1,1,Visitante
+11,1º Turno,23/06/2024,Athletico-PR,Corinthians,1,1,Mandante
+12,1º Turno,26/06/2024,Athletico-PR,Cruzeiro,0,2,Visitante
+13,1º Turno,30/06/2024,Athletico-PR,Vitoria,1,0,Visitante
+14,1º Turno,03/07/2024,Athletico-PR,Sao Paulo,1,2,Mandante
+15,1º Turno,07/07/2024,Athletico-PR,Atletico-GO,2,1,Visitante
+16,1º Turno,10/07/2024,Athletico-PR,Bahia,1,3,Mandante
+17,1º Turno,22/10/2024,Athletico-PR,Fluminense,0,1,Visitante
+18,1º Turno,21/07/2024,Athletico-PR,Bragantino,0,1,Visitante
+19,1º Turno,16/11/2024,Athletico-PR,Atletico-MG,1,0,Mandante
+20,2º Turno,28/07/2024,Athletico-PR,Cuiaba,2,1,Visitante
+21,2º Turno,04/08/2024,Athletico-PR,Gremio,0,2,Mandante
+22,2º Turno,11/08/2024,Athletico-PR,Internacional,2,2,Visitante
+23,2º Turno,18/08/2024,Athletico-PR,Juventude,1,2,Mandante
+24,2º Turno,26/08/2024,Athletico-PR,Vasco,1,2,Visitante
+25,2º Turno,01/09/2024,Athletico-PR,Palmeiras,0,2,Mandante
+26,2º Turno,14/09/2024,Athletico-PR,Fortaleza,1,1,Mandante
+27,2º Turno,22/09/2024,Athletico-PR,Criciuma,0,0,Visitante
+28,2º Turno,29/09/2024,Athletico-PR,Flamengo,0,1,Visitante
+29,2º Turno,05/10/2024,Athletico-PR,Botafogo-RJ,0,1,Mandante
+30,2º Turno,17/10/2024,Athletico-PR,Corinthians,2,5,Visitante
+31,2º Turno,26/10/2024,Athletico-PR,Cruzeiro,3,0,Mandante
+32,2º Turno,02/11/2024,Athletico-PR,Vitoria,1,2,Mandante
+33,2º Turno,09/11/2024,Athletico-PR,Sao Paulo,1,2,Visitante
+34,2º Turno,20/11/2024,Athletico-PR,Atletico-GO,2,0,Mandante
+35,2º Turno,24/11/2024,Athletico-PR,Bahia,1,1,Visitante
+36,2º Turno,01/12/2024,Athletico-PR,Fluminense,1,1,Mandante
+37,2º Turno,05/12/2024,Athletico-PR,Bragantino,1,2,Mandante
+38,2º Turno,08/12/2024,Athletico-PR,Atletico-MG,0,1,Visitante
+1,1º Turno,14/04/2024,Atletico-GO,Flamengo,1,2,Mandante
+2,1º Turno,18/04/2024,Atletico-GO,Botafogo-RJ,0,1,Visitante
+3,1º Turno,21/04/2024,Atletico-GO,Sao Paulo,0,3,Mandante
+4,1º Turno,28/04/2024,Atletico-GO,Internacional,1,1,Visitante
+5,1º Turno,05/06/2024,Atletico-GO,Juventude,0,1,Visitante
+6,1º Turno,12/05/2024,Atletico-GO,Cruzeiro,0,1,Mandante
+7,1º Turno,01/06/2024,Atletico-GO,Vitoria,2,0,Visitante
+8,1º Turno,11/06/2024,Atletico-GO,Corinthians,2,2,Mandante
+9,1º Turno,15/06/2024,Atletico-GO,Fluminense,2,1,Visitante
+10,1º Turno,19/06/2024,Atletico-GO,Criciuma,1,2,Mandante
+11,1º Turno,22/06/2024,Atletico-GO,Cuiaba,0,0,Visitante
+12,1º Turno,26/06/2024,Atletico-GO,Gremio,1,1,Mandante
+13,1º Turno,30/06/2024,Atletico-GO,Atletico-MG,1,1,Visitante
+14,1º Turno,03/07/2024,Atletico-GO,Bragantino,1,3,Visitante
+15,1º Turno,07/07/2024,Atletico-GO,Athletico-PR,1,2,Mandante
+16,1º Turno,11/07/2024,Atletico-GO,Palmeiras,1,3,Visitante
+17,1º Turno,17/07/2024,Atletico-GO,Vasco,0,1,Mandante
+18,1º Turno,21/07/2024,Atletico-GO,Fortaleza,1,3,Visitante
+19,1º Turno,24/07/2024,Atletico-GO,Bahia,1,1,Mandante
+20,2º Turno,28/07/2024,Atletico-GO,Flamengo,0,2,Visitante
+21,2º Turno,03/08/2024,Atletico-GO,Botafogo-RJ,1,4,Mandante
+22,2º Turno,11/08/2024,Atletico-GO,Sao Paulo,0,1,Visitante
+23,2º Turno,18/08/2024,Atletico-GO,Internacional,1,0,Mandante
+24,2º Turno,24/08/2024,Atletico-GO,Juventude,2,1,Mandante
+25,2º Turno,01/09/2024,Atletico-GO,Cruzeiro,1,3,Visitante
+26,2º Turno,14/09/2024,Atletico-GO,Vitoria,0,2,Mandante
+27,2º Turno,21/09/2024,Atletico-GO,Corinthians,0,3,Visitante
+28,2º Turno,29/09/2024,Atletico-GO,Fluminense,1,0,Mandante
+29,2º Turno,03/10/2024,Atletico-GO,Criciuma,0,2,Visitante
+30,2º Turno,18/10/2024,Atletico-GO,Cuiaba,0,0,Mandante
+31,2º Turno,26/10/2024,Atletico-GO,Gremio,1,3,Visitante
+32,2º Turno,06/11/2024,Atletico-GO,Atletico-MG,1,0,Mandante
+33,2º Turno,09/11/2024,Atletico-GO,Bragantino,0,0,Mandante
+34,2º Turno,20/11/2024,Atletico-GO,Athletico-PR,0,2,Visitante
+35,2º Turno,23/11/2024,Atletico-GO,Palmeiras,0,1,Mandante
+36,2º Turno,30/11/2024,Atletico-GO,Vasco,2,2,Visitante
+37,2º Turno,04/12/2024,Atletico-GO,Fortaleza,3,1,Mandante
+38,2º Turno,08/12/2024,Atletico-GO,Bahia,0,2,Visitante
+1,1º Turno,14/04/2024,Atletico-MG,Corinthians,0,0,Visitante
+2,1º Turno,17/04/2024,Atletico-MG,Criciuma,1,1,Mandante
+3,1º Turno,20/04/2024,Atletico-MG,Cruzeiro,3,0,Mandante
+4,1º Turno,27/04/2024,Atletico-MG,Cuiaba,3,0,Visitante
+5,1º Turno,04/05/2024,Atletico-MG,Fluminense,2,2,Visitante
+6,1º Turno,09/10/2024,Atletico-MG,Gremio,2,1,Mandante
+7,1º Turno,02/06/2024,Atletico-MG,Bahia,1,1,Mandante
+8,1º Turno,11/06/2024,Atletico-MG,Bragantino,2,1,Visitante
+9,1º Turno,17/06/2024,Atletico-MG,Palmeiras,0,4,Mandante
+10,1º Turno,20/06/2024,Atletico-MG,Vitoria,2,4,Visitante
+11,1º Turno,23/06/2024,Atletico-MG,Fortaleza,1,1,Mandante
+12,1º Turno,26/06/2024,Atletico-MG,Internacional,2,1,Visitante
+13,1º Turno,30/06/2024,Atletico-MG,Atletico-GO,1,1,Mandante
+14,1º Turno,03/07/2024,Atletico-MG,Flamengo,2,4,Mandante
+15,1º Turno,07/07/2024,Atletico-MG,Botafogo-RJ,0,3,Visitante
+16,1º Turno,11/07/2024,Atletico-MG,Sao Paulo,2,1,Mandante
+17,1º Turno,16/07/2024,Atletico-MG,Juventude,1,1,Visitante
+18,1º Turno,21/07/2024,Atletico-MG,Vasco,2,0,Mandante
+19,1º Turno,16/11/2024,Atletico-MG,Athletico-PR,0,1,Visitante
+20,2º Turno,28/07/2024,Atletico-MG,Corinthians,2,1,Mandante
+21,2º Turno,03/08/2024,Atletico-MG,Criciuma,1,2,Visitante
+22,2º Turno,10/08/2024,Atletico-MG,Cruzeiro,0,0,Visitante
+23,2º Turno,17/08/2024,Atletico-MG,Cuiaba,1,1,Mandante
+24,2º Turno,24/08/2024,Atletico-MG,Fluminense,0,2,Mandante
+25,2º Turno,01/09/2024,Atletico-MG,Gremio,3,2,Visitante
+26,2º Turno,15/09/2024,Atletico-MG,Bahia,0,3,Visitante
+27,2º Turno,22/09/2024,Atletico-MG,Bragantino,3,0,Mandante
+28,2º Turno,28/09/2024,Atletico-MG,Palmeiras,1,2,Visitante
+29,2º Turno,05/10/2024,Atletico-MG,Vitoria,2,2,Mandante
+30,2º Turno,16/10/2024,Atletico-MG,Fortaleza,1,1,Visitante
+31,2º Turno,26/10/2024,Atletico-MG,Internacional,1,3,Mandante
+32,2º Turno,06/11/2024,Atletico-MG,Atletico-GO,0,1,Visitante
+33,2º Turno,13/11/2024,Atletico-MG,Flamengo,0,0,Visitante
+34,2º Turno,20/11/2024,Atletico-MG,Botafogo-RJ,0,0,Mandante
+35,2º Turno,23/11/2024,Atletico-MG,Sao Paulo,2,2,Visitante
+36,2º Turno,26/11/2024,Atletico-MG,Juventude,2,3,Mandante
+37,2º Turno,04/12/2024,Atletico-MG,Vasco,0,2,Visitante
+38,2º Turno,08/12/2024,Atletico-MG,Athletico-PR,1,0,Mandante
+1,1º Turno,13/04/2024,Bahia,Internacional,1,2,Visitante
+2,1º Turno,16/04/2024,Bahia,Fluminense,2,1,Mandante
+3,1º Turno,21/04/2024,Bahia,Vitoria,2,2,Visitante
+4,1º Turno,27/04/2024,Bahia,Gremio,1,0,Mandante
+5,1º Turno,05/05/2024,Bahia,Botafogo-RJ,2,1,Visitante
+6,1º Turno,12/05/2024,Bahia,Bragantino,1,0,Mandante
+7,1º Turno,02/06/2024,Bahia,Atletico-MG,1,1,Visitante
+8,1º Turno,13/06/2024,Bahia,Fortaleza,1,0,Mandante
+9,1º Turno,16/06/2024,Bahia,Criciuma,2,2,Visitante
+10,1º Turno,20/06/2024,Bahia,Flamengo,1,2,Visitante
+11,1º Turno,23/06/2024,Bahia,Cruzeiro,4,1,Mandante
+12,1º Turno,26/06/2024,Bahia,Vasco,2,1,Mandante
+13,1º Turno,30/06/2024,Bahia,Sao Paulo,1,3,Visitante
+14,1º Turno,04/07/2024,Bahia,Juventude,2,0,Mandante
+15,1º Turno,07/07/2024,Bahia,Palmeiras,0,2,Visitante
+16,1º Turno,10/07/2024,Bahia,Athletico-PR,3,1,Visitante
+17,1º Turno,13/07/2024,Bahia,Cuiaba,1,2,Mandante
+18,1º Turno,21/07/2024,Bahia,Corinthians,0,1,Mandante
+19,1º Turno,24/07/2024,Bahia,Atletico-GO,1,1,Visitante
+20,2º Turno,27/07/2024,Bahia,Internacional,1,1,Mandante
+21,2º Turno,04/08/2024,Bahia,Fluminense,0,1,Visitante
+22,2º Turno,11/08/2024,Bahia,Vitoria,2,0,Mandante
+23,2º Turno,17/08/2024,Bahia,Gremio,2,0,Visitante
+24,2º Turno,25/08/2024,Bahia,Botafogo-RJ,0,0,Mandante
+25,2º Turno,01/09/2024,Bahia,Bragantino,1,2,Visitante
+26,2º Turno,15/09/2024,Bahia,Atletico-MG,3,0,Mandante
+27,2º Turno,21/09/2024,Bahia,Fortaleza,1,4,Visitante
+28,2º Turno,29/09/2024,Bahia,Criciuma,1,0,Mandante
+29,2º Turno,05/10/2024,Bahia,Flamengo,0,2,Mandante
+30,2º Turno,18/10/2024,Bahia,Cruzeiro,1,1,Visitante
+31,2º Turno,28/10/2024,Bahia,Vasco,2,3,Visitante
+32,2º Turno,05/11/2024,Bahia,Sao Paulo,0,3,Mandante
+33,2º Turno,09/11/2024,Bahia,Juventude,1,2,Visitante
+34,2º Turno,20/11/2024,Bahia,Palmeiras,1,2,Mandante
+35,2º Turno,24/11/2024,Bahia,Athletico-PR,1,1,Mandante
+36,2º Turno,30/11/2024,Bahia,Cuiaba,2,1,Visitante
+37,2º Turno,03/12/2024,Bahia,Corinthians,0,3,Visitante
+38,2º Turno,08/12/2024,Bahia,Atletico-GO,2,0,Mandante
+1,1º Turno,14/04/2024,Botafogo-RJ,Cruzeiro,2,3,Visitante
+2,1º Turno,18/04/2024,Botafogo-RJ,Atletico-GO,1,0,Mandante
+3,1º Turno,21/04/2024,Botafogo-RJ,Juventude,5,1,Mandante
+4,1º Turno,28/04/2024,Botafogo-RJ,Flamengo,2,0,Visitante
+5,1º Turno,05/05/2024,Botafogo-RJ,Bahia,1,2,Mandante
+6,1º Turno,12/05/2024,Botafogo-RJ,Fortaleza,1,1,Visitante
+7,1º Turno,01/06/2024,Botafogo-RJ,Corinthians,1,0,Visitante
+8,1º Turno,11/06/2024,Botafogo-RJ,Fluminense,1,0,Mandante
+9,1º Turno,16/06/2024,Botafogo-RJ,Gremio,2,1,Visitante
+10,1º Turno,19/06/2024,Botafogo-RJ,Athletico-PR,1,1,Mandante
+11,1º Turno,22/06/2024,Botafogo-RJ,Criciuma,1,2,Visitante
+12,1º Turno,26/06/2024,Botafogo-RJ,Bragantino,2,1,Mandante
+13,1º Turno,29/06/2024,Botafogo-RJ,Vasco,1,1,Visitante
+14,1º Turno,03/07/2024,Botafogo-RJ,Cuiaba,2,1,Visitante
+15,1º Turno,07/07/2024,Botafogo-RJ,Atletico-MG,3,0,Mandante
+16,1º Turno,11/07/2024,Botafogo-RJ,Vitoria,1,0,Visitante
+17,1º Turno,17/07/2024,Botafogo-RJ,Palmeiras,1,0,Mandante
+18,1º Turno,20/07/2024,Botafogo-RJ,Internacional,1,0,Mandante
+19,1º Turno,24/07/2024,Botafogo-RJ,Sao Paulo,2,2,Visitante
+20,2º Turno,27/07/2024,Botafogo-RJ,Cruzeiro,0,3,Mandante
+21,2º Turno,03/08/2024,Botafogo-RJ,Atletico-GO,4,1,Visitante
+22,2º Turno,11/08/2024,Botafogo-RJ,Juventude,2,3,Visitante
+23,2º Turno,18/08/2024,Botafogo-RJ,Flamengo,4,1,Mandante
+24,2º Turno,25/08/2024,Botafogo-RJ,Bahia,0,0,Visitante
+25,2º Turno,31/08/2024,Botafogo-RJ,Fortaleza,2,0,Mandante
+26,2º Turno,14/09/2024,Botafogo-RJ,Corinthians,2,1,Mandante
+27,2º Turno,21/09/2024,Botafogo-RJ,Fluminense,1,0,Visitante
+28,2º Turno,28/09/2024,Botafogo-RJ,Gremio,0,0,Mandante
+29,2º Turno,05/10/2024,Botafogo-RJ,Athletico-PR,1,0,Visitante
+30,2º Turno,18/10/2024,Botafogo-RJ,Criciuma,1,1,Mandante
+31,2º Turno,26/10/2024,Botafogo-RJ,Bragantino,1,0,Visitante
+32,2º Turno,05/11/2024,Botafogo-RJ,Vasco,3,0,Mandante
+33,2º Turno,09/11/2024,Botafogo-RJ,Cuiaba,0,0,Mandante
+34,2º Turno,20/11/2024,Botafogo-RJ,Atletico-MG,0,0,Visitante
+35,2º Turno,23/11/2024,Botafogo-RJ,Vitoria,1,1,Mandante
+36,2º Turno,26/11/2024,Botafogo-RJ,Palmeiras,3,1,Visitante
+37,2º Turno,04/12/2024,Botafogo-RJ,Internacional,1,0,Visitante
+38,2º Turno,08/12/2024,Botafogo-RJ,Sao Paulo,2,1,Mandante
+1,1º Turno,13/04/2024,Bragantino,Fluminense,2,2,Visitante
+2,1º Turno,17/04/2024,Bragantino,Vasco,2,1,Mandante
+3,1º Turno,20/04/2024,Bragantino,Corinthians,1,0,Mandante
+4,1º Turno,28/04/2024,Bragantino,Fortaleza,1,1,Visitante
+5,1º Turno,04/05/2024,Bragantino,Flamengo,1,1,Mandante
+6,1º Turno,12/05/2024,Bragantino,Bahia,0,1,Visitante
+7,1º Turno,01/06/2024,Bragantino,Gremio,2,0,Visitante
+8,1º Turno,11/06/2024,Bragantino,Atletico-MG,1,2,Mandante
+9,1º Turno,15/06/2024,Bragantino,Juventude,2,1,Mandante
+10,1º Turno,20/06/2024,Bragantino,Palmeiras,1,2,Visitante
+11,1º Turno,23/06/2024,Bragantino,Vitoria,2,1,Mandante
+12,1º Turno,26/06/2024,Bragantino,Botafogo-RJ,1,2,Visitante
+13,1º Turno,29/06/2024,Bragantino,Cuiaba,1,1,Visitante
+14,1º Turno,03/07/2024,Bragantino,Atletico-GO,3,1,Mandante
+15,1º Turno,06/07/2024,Bragantino,Sao Paulo,0,2,Visitante
+16,1º Turno,25/09/2024,Bragantino,Internacional,2,2,Mandante
+17,1º Turno,13/07/2024,Bragantino,Cruzeiro,1,2,Visitante
+18,1º Turno,21/07/2024,Bragantino,Athletico-PR,1,0,Mandante
+19,1º Turno,28/08/2024,Bragantino,Criciuma,0,1,Visitante
+20,2º Turno,28/07/2024,Bragantino,Fluminense,0,1,Mandante
+21,2º Turno,03/08/2024,Bragantino,Vasco,2,2,Visitante
+22,2º Turno,10/08/2024,Bragantino,Corinthians,1,1,Visitante
+23,2º Turno,17/08/2024,Bragantino,Fortaleza,1,2,Mandante
+24,2º Turno,25/08/2024,Bragantino,Flamengo,1,2,Visitante
+25,2º Turno,01/09/2024,Bragantino,Bahia,2,1,Mandante
+26,2º Turno,15/09/2024,Bragantino,Gremio,2,2,Mandante
+27,2º Turno,22/09/2024,Bragantino,Atletico-MG,0,3,Visitante
+28,2º Turno,29/09/2024,Bragantino,Juventude,1,1,Visitante
+29,2º Turno,05/10/2024,Bragantino,Palmeiras,0,0,Mandante
+30,2º Turno,19/10/2024,Bragantino,Vitoria,0,1,Visitante
+31,2º Turno,26/10/2024,Bragantino,Botafogo-RJ,0,1,Mandante
+32,2º Turno,02/11/2024,Bragantino,Cuiaba,0,0,Mandante
+33,2º Turno,09/11/2024,Bragantino,Atletico-GO,0,0,Visitante
+34,2º Turno,20/11/2024,Bragantino,Sao Paulo,1,1,Mandante
+35,2º Turno,24/11/2024,Bragantino,Internacional,1,4,Visitante
+36,2º Turno,01/12/2024,Bragantino,Cruzeiro,1,1,Mandante
+37,2º Turno,05/12/2024,Bragantino,Athletico-PR,2,1,Visitante
+38,2º Turno,08/12/2024,Bragantino,Criciuma,5,1,Mandante
+1,1º Turno,14/04/2024,Corinthians,Atletico-MG,0,0,Mandante
+2,1º Turno,17/04/2024,Corinthians,Juventude,0,2,Visitante
+3,1º Turno,20/04/2024,Corinthians,Bragantino,0,1,Visitante
+4,1º Turno,28/04/2024,Corinthians,Fluminense,3,0,Mandante
+5,1º Turno,04/05/2024,Corinthians,Fortaleza,0,0,Mandante
+6,1º Turno,11/05/2024,Corinthians,Flamengo,0,2,Visitante
+7,1º Turno,01/06/2024,Corinthians,Botafogo-RJ,0,1,Mandante
+8,1º Turno,11/06/2024,Corinthians,Atletico-GO,2,2,Visitante
+9,1º Turno,16/06/2024,Corinthians,Sao Paulo,2,2,Mandante
+10,1º Turno,19/06/2024,Corinthians,Internacional,0,1,Visitante
+11,1º Turno,23/06/2024,Corinthians,Athletico-PR,1,1,Visitante
+12,1º Turno,26/06/2024,Corinthians,Cuiaba,1,1,Mandante
+13,1º Turno,01/07/2024,Corinthians,Palmeiras,0,2,Visitante
+14,1º Turno,04/07/2024,Corinthians,Vitoria,3,2,Mandante
+15,1º Turno,07/07/2024,Corinthians,Cruzeiro,0,3,Visitante
+16,1º Turno,10/07/2024,Corinthians,Vasco,0,2,Visitante
+17,1º Turno,16/07/2024,Corinthians,Criciuma,2,1,Mandante
+18,1º Turno,21/07/2024,Corinthians,Bahia,1,0,Visitante
+19,1º Turno,25/07/2024,Corinthians,Gremio,2,2,Mandante
+20,2º Turno,28/07/2024,Corinthians,Atletico-MG,1,2,Visitante
+21,2º Turno,04/08/2024,Corinthians,Juventude,1,1,Mandante
+22,2º Turno,10/08/2024,Corinthians,Bragantino,1,1,Mandante
+23,2º Turno,17/08/2024,Corinthians,Fluminense,0,0,Visitante
+24,2º Turno,25/08/2024,Corinthians,Fortaleza,0,1,Visitante
+25,2º Turno,01/09/2024,Corinthians,Flamengo,2,1,Mandante
+26,2º Turno,14/09/2024,Corinthians,Botafogo-RJ,1,2,Visitante
+27,2º Turno,21/09/2024,Corinthians,Atletico-GO,3,0,Mandante
+28,2º Turno,29/09/2024,Corinthians,Sao Paulo,1,3,Visitante
+29,2º Turno,05/10/2024,Corinthians,Internacional,2,2,Mandante
+30,2º Turno,17/10/2024,Corinthians,Athletico-PR,5,2,Mandante
+31,2º Turno,28/10/2024,Corinthians,Cuiaba,1,0,Visitante
+32,2º Turno,04/11/2024,Corinthians,Palmeiras,2,0,Mandante
+33,2º Turno,09/11/2024,Corinthians,Vitoria,2,1,Visitante
+34,2º Turno,20/11/2024,Corinthians,Cruzeiro,2,1,Mandante
+35,2º Turno,24/11/2024,Corinthians,Vasco,3,1,Mandante
+36,2º Turno,30/11/2024,Corinthians,Criciuma,4,2,Visitante
+37,2º Turno,03/12/2024,Corinthians,Bahia,3,0,Mandante
+38,2º Turno,08/12/2024,Corinthians,Gremio,3,0,Visitante
+1,1º Turno,13/04/2024,Criciuma,Juventude,1,1,Mandante
+2,1º Turno,17/04/2024,Criciuma,Atletico-MG,1,1,Visitante
+3,1º Turno,24/07/2024,Criciuma,Fortaleza,1,1,Mandante
+4,1º Turno,27/04/2024,Criciuma,Vasco,4,0,Visitante
+5,1º Turno,25/09/2024,Criciuma,Gremio,2,1,Visitante
+6,1º Turno,09/06/2024,Criciuma,Cuiaba,2,5,Mandante
+7,1º Turno,02/06/2024,Criciuma,Palmeiras,1,2,Mandante
+8,1º Turno,13/06/2024,Criciuma,Athletico-PR,1,3,Visitante
+9,1º Turno,16/06/2024,Criciuma,Bahia,2,2,Mandante
+10,1º Turno,19/06/2024,Criciuma,Atletico-GO,2,1,Visitante
+11,1º Turno,22/06/2024,Criciuma,Botafogo-RJ,2,1,Mandante
+12,1º Turno,27/06/2024,Criciuma,Sao Paulo,1,2,Visitante
+13,1º Turno,30/06/2024,Criciuma,Internacional,1,1,Mandante
+14,1º Turno,03/07/2024,Criciuma,Cruzeiro,1,0,Mandante
+15,1º Turno,07/07/2024,Criciuma,Vitoria,1,2,Visitante
+16,1º Turno,11/07/2024,Criciuma,Fluminense,1,1,Mandante
+17,1º Turno,16/07/2024,Criciuma,Corinthians,1,2,Visitante
+18,1º Turno,20/07/2024,Criciuma,Flamengo,1,2,Visitante
+19,1º Turno,28/08/2024,Criciuma,Bragantino,1,0,Mandante
+20,2º Turno,27/07/2024,Criciuma,Juventude,2,1,Visitante
+21,2º Turno,03/08/2024,Criciuma,Atletico-MG,2,1,Mandante
+22,2º Turno,10/08/2024,Criciuma,Fortaleza,0,1,Visitante
+23,2º Turno,18/08/2024,Criciuma,Vasco,2,2,Mandante
+24,2º Turno,25/08/2024,Criciuma,Gremio,0,1,Mandante
+25,2º Turno,31/08/2024,Criciuma,Cuiaba,1,2,Visitante
+26,2º Turno,15/09/2024,Criciuma,Palmeiras,0,5,Visitante
+27,2º Turno,22/09/2024,Criciuma,Athletico-PR,0,0,Mandante
+28,2º Turno,29/09/2024,Criciuma,Bahia,0,1,Visitante
+29,2º Turno,03/10/2024,Criciuma,Atletico-GO,2,0,Mandante
+30,2º Turno,18/10/2024,Criciuma,Botafogo-RJ,1,1,Visitante
+31,2º Turno,26/10/2024,Criciuma,Sao Paulo,1,1,Mandante
+32,2º Turno,05/11/2024,Criciuma,Internacional,0,2,Visitante
+33,2º Turno,09/11/2024,Criciuma,Cruzeiro,1,2,Visitante
+34,2º Turno,20/11/2024,Criciuma,Vitoria,0,1,Mandante
+35,2º Turno,26/11/2024,Criciuma,Fluminense,0,0,Visitante
+36,2º Turno,30/11/2024,Criciuma,Corinthians,2,4,Mandante
+37,2º Turno,04/12/2024,Criciuma,Flamengo,0,3,Mandante
+38,2º Turno,08/12/2024,Criciuma,Bragantino,1,5,Visitante
+1,1º Turno,14/04/2024,Cruzeiro,Botafogo-RJ,3,2,Mandante
+2,1º Turno,17/04/2024,Cruzeiro,Fortaleza,1,1,Visitante
+3,1º Turno,20/04/2024,Cruzeiro,Atletico-MG,0,3,Visitante
+4,1º Turno,28/04/2024,Cruzeiro,Vitoria,3,1,Mandante
+5,1º Turno,28/08/2024,Cruzeiro,Internacional,0,0,Mandante
+6,1º Turno,12/05/2024,Cruzeiro,Atletico-GO,1,0,Visitante
+7,1º Turno,02/06/2024,Cruzeiro,Sao Paulo,0,2,Visitante
+8,1º Turno,13/06/2024,Cruzeiro,Cuiaba,2,1,Mandante
+9,1º Turno,16/06/2024,Cruzeiro,Vasco,0,0,Visitante
+10,1º Turno,19/06/2024,Cruzeiro,Fluminense,2,0,Mandante
+11,1º Turno,23/06/2024,Cruzeiro,Bahia,1,4,Visitante
+12,1º Turno,26/06/2024,Cruzeiro,Athletico-PR,2,0,Mandante
+13,1º Turno,30/06/2024,Cruzeiro,Flamengo,1,2,Visitante
+14,1º Turno,03/07/2024,Cruzeiro,Criciuma,0,1,Visitante
+15,1º Turno,07/07/2024,Cruzeiro,Corinthians,3,0,Mandante
+16,1º Turno,10/07/2024,Cruzeiro,Gremio,2,0,Visitante
+17,1º Turno,13/07/2024,Cruzeiro,Bragantino,2,1,Mandante
+18,1º Turno,20/07/2024,Cruzeiro,Palmeiras,0,2,Visitante
+19,1º Turno,24/07/2024,Cruzeiro,Juventude,2,0,Mandante
+20,2º Turno,27/07/2024,Cruzeiro,Botafogo-RJ,3,0,Visitante
+21,2º Turno,05/08/2024,Cruzeiro,Fortaleza,1,2,Mandante
+22,2º Turno,10/08/2024,Cruzeiro,Atletico-MG,0,0,Mandante
+23,2º Turno,19/08/2024,Cruzeiro,Vitoria,2,2,Visitante
+24,2º Turno,25/08/2024,Cruzeiro,Internacional,0,1,Visitante
+25,2º Turno,01/09/2024,Cruzeiro,Atletico-GO,3,1,Mandante
+26,2º Turno,15/09/2024,Cruzeiro,Sao Paulo,0,1,Mandante
+27,2º Turno,22/09/2024,Cruzeiro,Cuiaba,0,0,Visitante
+28,2º Turno,29/09/2024,Cruzeiro,Vasco,1,1,Mandante
+29,2º Turno,03/10/2024,Cruzeiro,Fluminense,0,1,Visitante
+30,2º Turno,18/10/2024,Cruzeiro,Bahia,1,1,Mandante
+31,2º Turno,26/10/2024,Cruzeiro,Athletico-PR,0,3,Visitante
+32,2º Turno,06/11/2024,Cruzeiro,Flamengo,0,1,Mandante
+33,2º Turno,09/11/2024,Cruzeiro,Criciuma,2,1,Mandante
+34,2º Turno,20/11/2024,Cruzeiro,Corinthians,1,2,Visitante
+35,2º Turno,27/11/2024,Cruzeiro,Gremio,1,1,Mandante
+36,2º Turno,01/12/2024,Cruzeiro,Bragantino,1,1,Visitante
+37,2º Turno,04/12/2024,Cruzeiro,Palmeiras,1,2,Mandante
+38,2º Turno,08/12/2024,Cruzeiro,Juventude,1,0,Visitante
+1,1º Turno,14/04/2024,Cuiaba,Athletico-PR,0,4,Visitante
+2,1º Turno,05/06/2024,Cuiaba,Vitoria,0,0,Mandante
+3,1º Turno,20/04/2024,Cuiaba,Gremio,0,1,Visitante
+4,1º Turno,27/04/2024,Cuiaba,Atletico-MG,0,3,Mandante
+5,1º Turno,05/05/2024,Cuiaba,Palmeiras,0,2,Mandante
+6,1º Turno,09/06/2024,Cuiaba,Criciuma,5,2,Visitante
+7,1º Turno,01/06/2024,Cuiaba,Internacional,0,1,Mandante
+8,1º Turno,13/06/2024,Cuiaba,Cruzeiro,1,2,Visitante
+9,1º Turno,16/06/2024,Cuiaba,Fortaleza,5,0,Mandante
+10,1º Turno,19/06/2024,Cuiaba,Sao Paulo,1,0,Visitante
+11,1º Turno,22/06/2024,Cuiaba,Atletico-GO,0,0,Mandante
+12,1º Turno,26/06/2024,Cuiaba,Corinthians,1,1,Visitante
+13,1º Turno,29/06/2024,Cuiaba,Bragantino,1,1,Mandante
+14,1º Turno,03/07/2024,Cuiaba,Botafogo-RJ,1,2,Mandante
+15,1º Turno,06/07/2024,Cuiaba,Flamengo,1,1,Visitante
+16,1º Turno,05/09/2024,Cuiaba,Juventude,0,0,Mandante
+17,1º Turno,13/07/2024,Cuiaba,Bahia,2,1,Visitante
+18,1º Turno,21/07/2024,Cuiaba,Fluminense,0,1,Mandante
+19,1º Turno,24/10/2024,Cuiaba,Vasco,0,1,Visitante
+20,2º Turno,28/07/2024,Cuiaba,Athletico-PR,1,2,Mandante
+21,2º Turno,03/08/2024,Cuiaba,Vitoria,0,1,Visitante
+22,2º Turno,10/08/2024,Cuiaba,Gremio,1,3,Mandante
+23,2º Turno,17/08/2024,Cuiaba,Atletico-MG,1,1,Visitante
+24,2º Turno,24/08/2024,Cuiaba,Palmeiras,0,5,Visitante
+25,2º Turno,31/08/2024,Cuiaba,Criciuma,2,1,Mandante
+26,2º Turno,16/09/2024,Cuiaba,Internacional,0,3,Visitante
+27,2º Turno,22/09/2024,Cuiaba,Cruzeiro,0,0,Mandante
+28,2º Turno,29/09/2024,Cuiaba,Fortaleza,0,1,Visitante
+29,2º Turno,05/10/2024,Cuiaba,Sao Paulo,2,0,Mandante
+30,2º Turno,18/10/2024,Cuiaba,Atletico-GO,0,0,Visitante
+31,2º Turno,28/10/2024,Cuiaba,Corinthians,0,1,Mandante
+32,2º Turno,02/11/2024,Cuiaba,Bragantino,0,0,Visitante
+33,2º Turno,09/11/2024,Cuiaba,Botafogo-RJ,0,0,Visitante
+34,2º Turno,20/11/2024,Cuiaba,Flamengo,1,2,Mandante
+35,2º Turno,23/11/2024,Cuiaba,Juventude,1,1,Visitante
+36,2º Turno,30/11/2024,Cuiaba,Bahia,1,2,Mandante
+37,2º Turno,05/12/2024,Cuiaba,Fluminense,0,1,Visitante
+38,2º Turno,08/12/2024,Cuiaba,Vasco,1,2,Mandante
+1,1º Turno,14/04/2024,Flamengo,Atletico-GO,2,1,Visitante
+2,1º Turno,17/04/2024,Flamengo,Sao Paulo,2,1,Mandante
+3,1º Turno,21/04/2024,Flamengo,Palmeiras,0,0,Visitante
+4,1º Turno,28/04/2024,Flamengo,Botafogo-RJ,0,2,Mandante
+5,1º Turno,04/05/2024,Flamengo,Bragantino,1,1,Visitante
+6,1º Turno,11/05/2024,Flamengo,Corinthians,2,0,Mandante
+7,1º Turno,02/06/2024,Flamengo,Vasco,6,1,Visitante
+8,1º Turno,13/06/2024,Flamengo,Gremio,2,1,Mandante
+9,1º Turno,16/06/2024,Flamengo,Athletico-PR,1,1,Visitante
+10,1º Turno,20/06/2024,Flamengo,Bahia,2,1,Mandante
+11,1º Turno,23/06/2024,Flamengo,Fluminense,1,0,Visitante
+12,1º Turno,26/06/2024,Flamengo,Juventude,1,2,Visitante
+13,1º Turno,30/06/2024,Flamengo,Cruzeiro,2,1,Mandante
+14,1º Turno,03/07/2024,Flamengo,Atletico-MG,4,2,Visitante
+15,1º Turno,06/07/2024,Flamengo,Cuiaba,1,1,Mandante
+16,1º Turno,11/07/2024,Flamengo,Fortaleza,1,2,Mandante
+17,1º Turno,30/10/2024,Flamengo,Internacional,1,1,Visitante
+18,1º Turno,20/07/2024,Flamengo,Criciuma,2,1,Mandante
+19,1º Turno,24/07/2024,Flamengo,Vitoria,2,1,Visitante
+20,2º Turno,28/07/2024,Flamengo,Atletico-GO,2,0,Mandante
+21,2º Turno,03/08/2024,Flamengo,Sao Paulo,0,1,Visitante
+22,2º Turno,11/08/2024,Flamengo,Palmeiras,1,1,Mandante
+23,2º Turno,18/08/2024,Flamengo,Botafogo-RJ,1,4,Visitante
+24,2º Turno,25/08/2024,Flamengo,Bragantino,2,1,Mandante
+25,2º Turno,01/09/2024,Flamengo,Corinthians,1,2,Visitante
+26,2º Turno,15/09/2024,Flamengo,Vasco,1,1,Mandante
+27,2º Turno,22/09/2024,Flamengo,Gremio,2,3,Visitante
+28,2º Turno,29/09/2024,Flamengo,Athletico-PR,1,0,Mandante
+29,2º Turno,05/10/2024,Flamengo,Bahia,2,0,Visitante
+30,2º Turno,17/10/2024,Flamengo,Fluminense,0,2,Mandante
+31,2º Turno,26/10/2024,Flamengo,Juventude,4,2,Mandante
+32,2º Turno,06/11/2024,Flamengo,Cruzeiro,1,0,Visitante
+33,2º Turno,13/11/2024,Flamengo,Atletico-MG,0,0,Mandante
+34,2º Turno,20/11/2024,Flamengo,Cuiaba,2,1,Visitante
+35,2º Turno,26/11/2024,Flamengo,Fortaleza,0,0,Visitante
+36,2º Turno,01/12/2024,Flamengo,Internacional,3,2,Mandante
+37,2º Turno,04/12/2024,Flamengo,Criciuma,3,0,Visitante
+38,2º Turno,08/12/2024,Flamengo,Vitoria,2,2,Mandante
+1,1º Turno,13/04/2024,Fluminense,Bragantino,2,2,Mandante
+2,1º Turno,16/04/2024,Fluminense,Bahia,1,2,Visitante
+3,1º Turno,20/04/2024,Fluminense,Vasco,2,1,Mandante
+4,1º Turno,28/04/2024,Fluminense,Corinthians,0,3,Visitante
+5,1º Turno,04/05/2024,Fluminense,Atletico-MG,2,2,Mandante
+6,1º Turno,13/05/2024,Fluminense,Sao Paulo,1,2,Visitante
+7,1º Turno,01/06/2024,Fluminense,Juventude,1,1,Mandante
+8,1º Turno,11/06/2024,Fluminense,Botafogo-RJ,0,1,Visitante
+9,1º Turno,15/06/2024,Fluminense,Atletico-GO,1,2,Mandante
+10,1º Turno,19/06/2024,Fluminense,Cruzeiro,0,2,Visitante
+11,1º Turno,23/06/2024,Fluminense,Flamengo,0,1,Mandante
+12,1º Turno,27/06/2024,Fluminense,Vitoria,0,1,Mandante
+13,1º Turno,30/06/2024,Fluminense,Gremio,0,1,Visitante
+14,1º Turno,04/07/2024,Fluminense,Internacional,1,1,Mandante
+15,1º Turno,07/07/2024,Fluminense,Fortaleza,0,1,Visitante
+16,1º Turno,11/07/2024,Fluminense,Criciuma,1,1,Visitante
+17,1º Turno,22/10/2024,Fluminense,Athletico-PR,1,0,Mandante
+18,1º Turno,21/07/2024,Fluminense,Cuiaba,1,0,Visitante
+19,1º Turno,24/07/2024,Fluminense,Palmeiras,1,0,Mandante
+20,2º Turno,28/07/2024,Fluminense,Bragantino,1,0,Visitante
+21,2º Turno,04/08/2024,Fluminense,Bahia,1,0,Mandante
+22,2º Turno,10/08/2024,Fluminense,Vasco,0,2,Visitante
+23,2º Turno,17/08/2024,Fluminense,Corinthians,0,0,Mandante
+24,2º Turno,24/08/2024,Fluminense,Atletico-MG,2,0,Visitante
+25,2º Turno,01/09/2024,Fluminense,Sao Paulo,2,0,Mandante
+26,2º Turno,15/09/2024,Fluminense,Juventude,1,2,Visitante
+27,2º Turno,21/09/2024,Fluminense,Botafogo-RJ,0,1,Mandante
+28,2º Turno,29/09/2024,Fluminense,Atletico-GO,0,1,Visitante
+29,2º Turno,03/10/2024,Fluminense,Cruzeiro,1,0,Mandante
+30,2º Turno,17/10/2024,Fluminense,Flamengo,2,0,Visitante
+31,2º Turno,26/10/2024,Fluminense,Vitoria,1,2,Visitante
+32,2º Turno,01/11/2024,Fluminense,Gremio,2,2,Mandante
+33,2º Turno,08/11/2024,Fluminense,Internacional,0,2,Visitante
+34,2º Turno,22/11/2024,Fluminense,Fortaleza,2,2,Mandante
+35,2º Turno,26/11/2024,Fluminense,Criciuma,0,0,Mandante
+36,2º Turno,01/12/2024,Fluminense,Athletico-PR,1,1,Visitante
+37,2º Turno,05/12/2024,Fluminense,Cuiaba,1,0,Mandante
+38,2º Turno,08/12/2024,Fluminense,Palmeiras,1,0,Visitante
+1,1º Turno,13/04/2024,Fortaleza,Sao Paulo,2,1,Visitante
+2,1º Turno,17/04/2024,Fortaleza,Cruzeiro,1,1,Mandante
+3,1º Turno,24/07/2024,Fortaleza,Criciuma,1,1,Visitante
+4,1º Turno,28/04/2024,Fortaleza,Bragantino,1,1,Mandante
+5,1º Turno,04/05/2024,Fortaleza,Corinthians,0,0,Visitante
+6,1º Turno,12/05/2024,Fortaleza,Botafogo-RJ,1,1,Mandante
+7,1º Turno,02/06/2024,Fortaleza,Athletico-PR,1,0,Mandante
+8,1º Turno,13/06/2024,Fortaleza,Bahia,0,1,Visitante
+9,1º Turno,16/06/2024,Fortaleza,Cuiaba,0,5,Visitante
+10,1º Turno,19/06/2024,Fortaleza,Gremio,1,0,Mandante
+11,1º Turno,23/06/2024,Fortaleza,Atletico-MG,1,1,Visitante
+12,1º Turno,26/06/2024,Fortaleza,Palmeiras,3,0,Mandante
+13,1º Turno,30/06/2024,Fortaleza,Juventude,2,1,Mandante
+14,1º Turno,03/07/2024,Fortaleza,Vasco,0,2,Visitante
+15,1º Turno,07/07/2024,Fortaleza,Fluminense,1,0,Mandante
+16,1º Turno,11/07/2024,Fortaleza,Flamengo,2,1,Visitante
+17,1º Turno,17/07/2024,Fortaleza,Vitoria,3,1,Mandante
+18,1º Turno,21/07/2024,Fortaleza,Atletico-GO,3,1,Mandante
+19,1º Turno,11/09/2024,Fortaleza,Internacional,1,2,Visitante
+20,2º Turno,27/07/2024,Fortaleza,Sao Paulo,1,0,Mandante
+21,2º Turno,05/08/2024,Fortaleza,Cruzeiro,2,1,Visitante
+22,2º Turno,10/08/2024,Fortaleza,Criciuma,1,0,Mandante
+23,2º Turno,17/08/2024,Fortaleza,Bragantino,2,1,Visitante
+24,2º Turno,25/08/2024,Fortaleza,Corinthians,1,0,Mandante
+25,2º Turno,31/08/2024,Fortaleza,Botafogo-RJ,0,2,Visitante
+26,2º Turno,14/09/2024,Fortaleza,Athletico-PR,1,1,Visitante
+27,2º Turno,21/09/2024,Fortaleza,Bahia,4,1,Mandante
+28,2º Turno,29/09/2024,Fortaleza,Cuiaba,1,0,Mandante
+29,2º Turno,04/10/2024,Fortaleza,Gremio,1,3,Visitante
+30,2º Turno,16/10/2024,Fortaleza,Atletico-MG,1,1,Mandante
+31,2º Turno,26/10/2024,Fortaleza,Palmeiras,2,2,Visitante
+32,2º Turno,02/11/2024,Fortaleza,Juventude,3,0,Visitante
+33,2º Turno,09/11/2024,Fortaleza,Vasco,3,0,Mandante
+34,2º Turno,22/11/2024,Fortaleza,Fluminense,2,2,Visitante
+35,2º Turno,26/11/2024,Fortaleza,Flamengo,0,0,Mandante
+36,2º Turno,01/12/2024,Fortaleza,Vitoria,0,2,Visitante
+37,2º Turno,04/12/2024,Fortaleza,Atletico-GO,1,3,Visitante
+38,2º Turno,08/12/2024,Fortaleza,Internacional,3,0,Mandante
+1,1º Turno,14/04/2024,Gremio,Vasco,1,2,Visitante
+2,1º Turno,17/04/2024,Gremio,Athletico-PR,2,0,Mandante
+3,1º Turno,20/04/2024,Gremio,Cuiaba,1,0,Mandante
+4,1º Turno,27/04/2024,Gremio,Bahia,0,1,Visitante
+5,1º Turno,25/09/2024,Gremio,Criciuma,1,2,Mandante
+6,1º Turno,09/10/2024,Gremio,Atletico-MG,1,2,Visitante
+7,1º Turno,01/06/2024,Gremio,Bragantino,0,2,Mandante
+8,1º Turno,13/06/2024,Gremio,Flamengo,1,2,Visitante
+9,1º Turno,16/06/2024,Gremio,Botafogo-RJ,1,2,Mandante
+10,1º Turno,19/06/2024,Gremio,Fortaleza,0,1,Visitante
+11,1º Turno,22/06/2024,Gremio,Internacional,0,1,Mandante
+12,1º Turno,26/06/2024,Gremio,Atletico-GO,1,1,Visitante
+13,1º Turno,30/06/2024,Gremio,Fluminense,1,0,Mandante
+14,1º Turno,04/07/2024,Gremio,Palmeiras,2,2,Mandante
+15,1º Turno,07/07/2024,Gremio,Juventude,0,3,Visitante
+16,1º Turno,10/07/2024,Gremio,Cruzeiro,0,2,Mandante
+17,1º Turno,17/07/2024,Gremio,Sao Paulo,0,1,Visitante
+18,1º Turno,21/07/2024,Gremio,Vitoria,2,0,Mandante
+19,1º Turno,25/07/2024,Gremio,Corinthians,2,2,Visitante
+20,2º Turno,28/07/2024,Gremio,Vasco,1,0,Mandante
+21,2º Turno,04/08/2024,Gremio,Athletico-PR,2,0,Visitante
+22,2º Turno,10/08/2024,Gremio,Cuiaba,3,1,Visitante
+23,2º Turno,17/08/2024,Gremio,Bahia,0,2,Mandante
+24,2º Turno,25/08/2024,Gremio,Criciuma,1,0,Visitante
+25,2º Turno,01/09/2024,Gremio,Atletico-MG,2,3,Mandante
+26,2º Turno,15/09/2024,Gremio,Bragantino,2,2,Visitante
+27,2º Turno,22/09/2024,Gremio,Flamengo,3,2,Mandante
+28,2º Turno,28/09/2024,Gremio,Botafogo-RJ,0,0,Visitante
+29,2º Turno,04/10/2024,Gremio,Fortaleza,3,1,Mandante
+30,2º Turno,19/10/2024,Gremio,Internacional,0,1,Visitante
+31,2º Turno,26/10/2024,Gremio,Atletico-GO,3,1,Mandante
+32,2º Turno,01/11/2024,Gremio,Fluminense,2,2,Visitante
+33,2º Turno,08/11/2024,Gremio,Palmeiras,0,1,Visitante
+34,2º Turno,20/11/2024,Gremio,Juventude,2,2,Mandante
+35,2º Turno,27/11/2024,Gremio,Cruzeiro,1,1,Visitante
+36,2º Turno,01/12/2024,Gremio,Sao Paulo,2,1,Mandante
+37,2º Turno,04/12/2024,Gremio,Vitoria,1,1,Visitante
+38,2º Turno,08/12/2024,Gremio,Corinthians,0,3,Mandante
+1,1º Turno,13/04/2024,Internacional,Bahia,2,1,Mandante
+2,1º Turno,17/04/2024,Internacional,Palmeiras,1,0,Visitante
+3,1º Turno,21/04/2024,Internacional,Athletico-PR,0,1,Visitante
+4,1º Turno,28/04/2024,Internacional,Atletico-GO,1,1,Mandante
+5,1º Turno,28/08/2024,Internacional,Cruzeiro,0,0,Visitante
+6,1º Turno,14/08/2024,Internacional,Juventude,2,1,Mandante
+7,1º Turno,01/06/2024,Internacional,Cuiaba,1,0,Visitante
+8,1º Turno,13/06/2024,Internacional,Sao Paulo,0,0,Mandante
+9,1º Turno,16/06/2024,Internacional,Vitoria,1,2,Visitante
+10,1º Turno,19/06/2024,Internacional,Corinthians,1,0,Mandante
+11,1º Turno,22/06/2024,Internacional,Gremio,1,0,Visitante
+12,1º Turno,26/06/2024,Internacional,Atletico-MG,1,2,Mandante
+13,1º Turno,30/06/2024,Internacional,Criciuma,1,1,Visitante
+14,1º Turno,04/07/2024,Internacional,Fluminense,1,1,Visitante
+15,1º Turno,07/07/2024,Internacional,Vasco,1,2,Mandante
+16,1º Turno,25/09/2024,Internacional,Bragantino,2,2,Visitante
+17,1º Turno,30/10/2024,Internacional,Flamengo,1,1,Mandante
+18,1º Turno,20/07/2024,Internacional,Botafogo-RJ,0,1,Visitante
+19,1º Turno,11/09/2024,Internacional,Fortaleza,2,1,Mandante
+20,2º Turno,27/07/2024,Internacional,Bahia,1,1,Visitante
+21,2º Turno,04/08/2024,Internacional,Palmeiras,1,1,Mandante
+22,2º Turno,11/08/2024,Internacional,Athletico-PR,2,2,Mandante
+23,2º Turno,18/08/2024,Internacional,Atletico-GO,0,1,Visitante
+24,2º Turno,25/08/2024,Internacional,Cruzeiro,1,0,Mandante
+25,2º Turno,01/09/2024,Internacional,Juventude,3,1,Visitante
+26,2º Turno,16/09/2024,Internacional,Cuiaba,3,0,Mandante
+27,2º Turno,22/09/2024,Internacional,Sao Paulo,3,1,Visitante
+28,2º Turno,29/09/2024,Internacional,Vitoria,3,1,Mandante
+29,2º Turno,05/10/2024,Internacional,Corinthians,2,2,Visitante
+30,2º Turno,19/10/2024,Internacional,Gremio,1,0,Mandante
+31,2º Turno,26/10/2024,Internacional,Atletico-MG,3,1,Visitante
+32,2º Turno,05/11/2024,Internacional,Criciuma,2,0,Mandante
+33,2º Turno,08/11/2024,Internacional,Fluminense,2,0,Mandante
+34,2º Turno,21/11/2024,Internacional,Vasco,1,0,Visitante
+35,2º Turno,24/11/2024,Internacional,Bragantino,4,1,Mandante
+36,2º Turno,01/12/2024,Internacional,Flamengo,2,3,Visitante
+37,2º Turno,04/12/2024,Internacional,Botafogo-RJ,0,1,Mandante
+38,2º Turno,08/12/2024,Internacional,Fortaleza,0,3,Visitante
+1,1º Turno,13/04/2024,Juventude,Criciuma,1,1,Visitante
+2,1º Turno,17/04/2024,Juventude,Corinthians,2,0,Mandante
+3,1º Turno,21/04/2024,Juventude,Botafogo-RJ,1,5,Visitante
+4,1º Turno,28/04/2024,Juventude,Athletico-PR,1,1,Mandante
+5,1º Turno,05/06/2024,Juventude,Atletico-GO,1,0,Mandante
+6,1º Turno,14/08/2024,Juventude,Internacional,1,2,Visitante
+7,1º Turno,01/06/2024,Juventude,Fluminense,1,1,Visitante
+8,1º Turno,11/06/2024,Juventude,Vitoria,1,1,Mandante
+9,1º Turno,15/06/2024,Juventude,Bragantino,1,2,Visitante
+10,1º Turno,19/06/2024,Juventude,Vasco,2,0,Mandante
+11,1º Turno,23/06/2024,Juventude,Palmeiras,1,3,Visitante
+12,1º Turno,26/06/2024,Juventude,Flamengo,2,1,Mandante
+13,1º Turno,30/06/2024,Juventude,Fortaleza,1,2,Visitante
+14,1º Turno,04/07/2024,Juventude,Bahia,0,2,Visitante
+15,1º Turno,07/07/2024,Juventude,Gremio,3,0,Mandante
+16,1º Turno,05/09/2024,Juventude,Cuiaba,0,0,Visitante
+17,1º Turno,16/07/2024,Juventude,Atletico-MG,1,1,Mandante
+18,1º Turno,21/07/2024,Juventude,Sao Paulo,0,0,Mandante
+19,1º Turno,24/07/2024,Juventude,Cruzeiro,0,2,Visitante
+20,2º Turno,27/07/2024,Juventude,Criciuma,1,2,Mandante
+21,2º Turno,04/08/2024,Juventude,Corinthians,1,1,Visitante
+22,2º Turno,11/08/2024,Juventude,Botafogo-RJ,3,2,Mandante
+23,2º Turno,18/08/2024,Juventude,Athletico-PR,2,1,Visitante
+24,2º Turno,24/08/2024,Juventude,Atletico-GO,1,2,Visitante
+25,2º Turno,01/09/2024,Juventude,Internacional,1,3,Mandante
+26,2º Turno,15/09/2024,Juventude,Fluminense,2,1,Mandante
+27,2º Turno,21/09/2024,Juventude,Vitoria,0,1,Visitante
+28,2º Turno,29/09/2024,Juventude,Bragantino,1,1,Mandante
+29,2º Turno,05/10/2024,Juventude,Vasco,1,1,Visitante
+30,2º Turno,20/10/2024,Juventude,Palmeiras,3,5,Mandante
+31,2º Turno,26/10/2024,Juventude,Flamengo,2,4,Visitante
+32,2º Turno,02/11/2024,Juventude,Fortaleza,0,3,Mandante
+33,2º Turno,09/11/2024,Juventude,Bahia,2,1,Mandante
+34,2º Turno,20/11/2024,Juventude,Gremio,2,2,Visitante
+35,2º Turno,23/11/2024,Juventude,Cuiaba,1,1,Mandante
+36,2º Turno,26/11/2024,Juventude,Atletico-MG,3,2,Visitante
+37,2º Turno,04/12/2024,Juventude,Sao Paulo,2,1,Visitante
+38,2º Turno,08/12/2024,Juventude,Cruzeiro,0,1,Mandante
+1,1º Turno,14/04/2024,Palmeiras,Vitoria,1,0,Visitante
+2,1º Turno,17/04/2024,Palmeiras,Internacional,0,1,Mandante
+3,1º Turno,21/04/2024,Palmeiras,Flamengo,0,0,Mandante
+4,1º Turno,29/04/2024,Palmeiras,Sao Paulo,0,0,Visitante
+5,1º Turno,05/05/2024,Palmeiras,Cuiaba,2,0,Visitante
+6,1º Turno,12/05/2024,Palmeiras,Athletico-PR,0,2,Mandante
+7,1º Turno,02/06/2024,Palmeiras,Criciuma,2,1,Visitante
+8,1º Turno,13/06/2024,Palmeiras,Vasco,2,0,Mandante
+9,1º Turno,17/06/2024,Palmeiras,Atletico-MG,4,0,Visitante
+10,1º Turno,20/06/2024,Palmeiras,Bragantino,2,1,Mandante
+11,1º Turno,23/06/2024,Palmeiras,Juventude,3,1,Mandante
+12,1º Turno,26/06/2024,Palmeiras,Fortaleza,0,3,Visitante
+13,1º Turno,01/07/2024,Palmeiras,Corinthians,2,0,Mandante
+14,1º Turno,04/07/2024,Palmeiras,Gremio,2,2,Visitante
+15,1º Turno,07/07/2024,Palmeiras,Bahia,2,0,Mandante
+16,1º Turno,11/07/2024,Palmeiras,Atletico-GO,3,1,Mandante
+17,1º Turno,17/07/2024,Palmeiras,Botafogo-RJ,0,1,Visitante
+18,1º Turno,20/07/2024,Palmeiras,Cruzeiro,2,0,Mandante
+19,1º Turno,24/07/2024,Palmeiras,Fluminense,0,1,Visitante
+20,2º Turno,27/07/2024,Palmeiras,Vitoria,0,2,Mandante
+21,2º Turno,04/08/2024,Palmeiras,Internacional,1,1,Visitante
+22,2º Turno,11/08/2024,Palmeiras,Flamengo,1,1,Visitante
+23,2º Turno,18/08/2024,Palmeiras,Sao Paulo,2,1,Mandante
+24,2º Turno,24/08/2024,Palmeiras,Cuiaba,5,0,Mandante
+25,2º Turno,01/09/2024,Palmeiras,Athletico-PR,2,0,Visitante
+26,2º Turno,15/09/2024,Palmeiras,Criciuma,5,0,Mandante
+27,2º Turno,22/09/2024,Palmeiras,Vasco,1,0,Visitante
+28,2º Turno,28/09/2024,Palmeiras,Atletico-MG,2,1,Mandante
+29,2º Turno,05/10/2024,Palmeiras,Bragantino,0,0,Visitante
+30,2º Turno,20/10/2024,Palmeiras,Juventude,5,3,Visitante
+31,2º Turno,26/10/2024,Palmeiras,Fortaleza,2,2,Mandante
+32,2º Turno,04/11/2024,Palmeiras,Corinthians,0,2,Visitante
+33,2º Turno,08/11/2024,Palmeiras,Gremio,1,0,Mandante
+34,2º Turno,20/11/2024,Palmeiras,Bahia,2,1,Visitante
+35,2º Turno,23/11/2024,Palmeiras,Atletico-GO,1,0,Visitante
+36,2º Turno,26/11/2024,Palmeiras,Botafogo-RJ,1,3,Mandante
+37,2º Turno,04/12/2024,Palmeiras,Cruzeiro,2,1,Visitante
+38,2º Turno,08/12/2024,Palmeiras,Fluminense,0,1,Mandante
+1,1º Turno,13/04/2024,Sao Paulo,Fortaleza,1,2,Mandante
+2,1º Turno,17/04/2024,Sao Paulo,Flamengo,1,2,Visitante
+3,1º Turno,21/04/2024,Sao Paulo,Atletico-GO,3,0,Visitante
+4,1º Turno,29/04/2024,Sao Paulo,Palmeiras,0,0,Mandante
+5,1º Turno,05/05/2024,Sao Paulo,Vitoria,3,1,Visitante
+6,1º Turno,13/05/2024,Sao Paulo,Fluminense,2,1,Mandante
+7,1º Turno,02/06/2024,Sao Paulo,Cruzeiro,2,0,Mandante
+8,1º Turno,13/06/2024,Sao Paulo,Internacional,0,0,Visitante
+9,1º Turno,16/06/2024,Sao Paulo,Corinthians,2,2,Visitante
+10,1º Turno,19/06/2024,Sao Paulo,Cuiaba,0,1,Mandante
+11,1º Turno,22/06/2024,Sao Paulo,Vasco,1,4,Visitante
+12,1º Turno,27/06/2024,Sao Paulo,Criciuma,2,1,Mandante
+13,1º Turno,30/06/2024,Sao Paulo,Bahia,3,1,Mandante
+14,1º Turno,03/07/2024,Sao Paulo,Athletico-PR,2,1,Visitante
+15,1º Turno,06/07/2024,Sao Paulo,Bragantino,2,0,Mandante
+16,1º Turno,11/07/2024,Sao Paulo,Atletico-MG,1,2,Visitante
+17,1º Turno,17/07/2024,Sao Paulo,Gremio,1,0,Mandante
+18,1º Turno,21/07/2024,Sao Paulo,Juventude,0,0,Visitante
+19,1º Turno,24/07/2024,Sao Paulo,Botafogo-RJ,2,2,Mandante
+20,2º Turno,27/07/2024,Sao Paulo,Fortaleza,0,1,Visitante
+21,2º Turno,03/08/2024,Sao Paulo,Flamengo,1,0,Mandante
+22,2º Turno,11/08/2024,Sao Paulo,Atletico-GO,1,0,Mandante
+23,2º Turno,18/08/2024,Sao Paulo,Palmeiras,1,2,Visitante
+24,2º Turno,25/08/2024,Sao Paulo,Vitoria,2,1,Mandante
+25,2º Turno,01/09/2024,Sao Paulo,Fluminense,0,2,Visitante
+26,2º Turno,15/09/2024,Sao Paulo,Cruzeiro,1,0,Visitante
+27,2º Turno,22/09/2024,Sao Paulo,Internacional,1,3,Mandante
+28,2º Turno,29/09/2024,Sao Paulo,Corinthians,3,1,Mandante
+29,2º Turno,05/10/2024,Sao Paulo,Cuiaba,0,2,Visitante
+30,2º Turno,16/10/2024,Sao Paulo,Vasco,3,0,Mandante
+31,2º Turno,26/10/2024,Sao Paulo,Criciuma,1,1,Visitante
+32,2º Turno,05/11/2024,Sao Paulo,Bahia,3,0,Visitante
+33,2º Turno,09/11/2024,Sao Paulo,Athletico-PR,2,1,Mandante
+34,2º Turno,20/11/2024,Sao Paulo,Bragantino,1,1,Visitante
+35,2º Turno,23/11/2024,Sao Paulo,Atletico-MG,2,2,Mandante
+36,2º Turno,01/12/2024,Sao Paulo,Gremio,1,2,Visitante
+37,2º Turno,04/12/2024,Sao Paulo,Juventude,1,2,Mandante
+38,2º Turno,08/12/2024,Sao Paulo,Botafogo-RJ,1,2,Visitante
+1,1º Turno,14/04/2024,Vasco,Gremio,2,1,Mandante
+2,1º Turno,17/04/2024,Vasco,Bragantino,1,2,Visitante
+3,1º Turno,20/04/2024,Vasco,Fluminense,1,2,Visitante
+4,1º Turno,27/04/2024,Vasco,Criciuma,0,4,Mandante
+5,1º Turno,05/05/2024,Vasco,Athletico-PR,0,1,Visitante
+6,1º Turno,12/05/2024,Vasco,Vitoria,2,1,Mandante
+7,1º Turno,02/06/2024,Vasco,Flamengo,1,6,Mandante
+8,1º Turno,13/06/2024,Vasco,Palmeiras,0,2,Visitante
+9,1º Turno,16/06/2024,Vasco,Cruzeiro,0,0,Mandante
+10,1º Turno,19/06/2024,Vasco,Juventude,0,2,Visitante
+11,1º Turno,22/06/2024,Vasco,Sao Paulo,4,1,Mandante
+12,1º Turno,26/06/2024,Vasco,Bahia,1,2,Visitante
+13,1º Turno,29/06/2024,Vasco,Botafogo-RJ,1,1,Mandante
+14,1º Turno,03/07/2024,Vasco,Fortaleza,2,0,Mandante
+15,1º Turno,07/07/2024,Vasco,Internacional,2,1,Visitante
+16,1º Turno,10/07/2024,Vasco,Corinthians,2,0,Mandante
+17,1º Turno,17/07/2024,Vasco,Atletico-GO,1,0,Visitante
+18,1º Turno,21/07/2024,Vasco,Atletico-MG,0,2,Visitante
+19,1º Turno,24/10/2024,Vasco,Cuiaba,1,0,Mandante
+20,2º Turno,28/07/2024,Vasco,Gremio,0,1,Visitante
+21,2º Turno,03/08/2024,Vasco,Bragantino,2,2,Mandante
+22,2º Turno,10/08/2024,Vasco,Fluminense,2,0,Mandante
+23,2º Turno,18/08/2024,Vasco,Criciuma,2,2,Visitante
+24,2º Turno,26/08/2024,Vasco,Athletico-PR,2,1,Mandante
+25,2º Turno,01/09/2024,Vasco,Vitoria,1,0,Visitante
+26,2º Turno,15/09/2024,Vasco,Flamengo,1,1,Visitante
+27,2º Turno,22/09/2024,Vasco,Palmeiras,0,1,Mandante
+28,2º Turno,29/09/2024,Vasco,Cruzeiro,1,1,Visitante
+29,2º Turno,05/10/2024,Vasco,Juventude,1,1,Mandante
+30,2º Turno,16/10/2024,Vasco,Sao Paulo,0,3,Visitante
+31,2º Turno,28/10/2024,Vasco,Bahia,3,2,Mandante
+32,2º Turno,05/11/2024,Vasco,Botafogo-RJ,0,3,Visitante
+33,2º Turno,09/11/2024,Vasco,Fortaleza,0,3,Visitante
+34,2º Turno,21/11/2024,Vasco,Internacional,0,1,Mandante
+35,2º Turno,24/11/2024,Vasco,Corinthians,1,3,Visitante
+36,2º Turno,30/11/2024,Vasco,Atletico-GO,2,2,Mandante
+37,2º Turno,04/12/2024,Vasco,Atletico-MG,2,0,Mandante
+38,2º Turno,08/12/2024,Vasco,Cuiaba,2,1,Visitante
+1,1º Turno,14/04/2024,Vitoria,Palmeiras,0,1,Mandante
+2,1º Turno,05/06/2024,Vitoria,Cuiaba,0,0,Visitante
+3,1º Turno,21/04/2024,Vitoria,Bahia,2,2,Mandante
+4,1º Turno,28/04/2024,Vitoria,Cruzeiro,1,3,Visitante
+5,1º Turno,05/05/2024,Vitoria,Sao Paulo,1,3,Mandante
+6,1º Turno,12/05/2024,Vitoria,Vasco,1,2,Visitante
+7,1º Turno,01/06/2024,Vitoria,Atletico-GO,0,2,Mandante
+8,1º Turno,11/06/2024,Vitoria,Juventude,1,1,Visitante
+9,1º Turno,16/06/2024,Vitoria,Internacional,2,1,Mandante
+10,1º Turno,20/06/2024,Vitoria,Atletico-MG,4,2,Mandante
+11,1º Turno,23/06/2024,Vitoria,Bragantino,1,2,Visitante
+12,1º Turno,27/06/2024,Vitoria,Fluminense,1,0,Visitante
+13,1º Turno,30/06/2024,Vitoria,Athletico-PR,0,1,Mandante
+14,1º Turno,04/07/2024,Vitoria,Corinthians,2,3,Visitante
+15,1º Turno,07/07/2024,Vitoria,Criciuma,2,1,Mandante
+16,1º Turno,11/07/2024,Vitoria,Botafogo-RJ,0,1,Mandante
+17,1º Turno,17/07/2024,Vitoria,Fortaleza,1,3,Visitante
+18,1º Turno,21/07/2024,Vitoria,Gremio,0,2,Visitante
+19,1º Turno,24/07/2024,Vitoria,Flamengo,1,2,Mandante
+20,2º Turno,27/07/2024,Vitoria,Palmeiras,2,0,Visitante
+21,2º Turno,03/08/2024,Vitoria,Cuiaba,1,0,Mandante
+22,2º Turno,11/08/2024,Vitoria,Bahia,0,2,Visitante
+23,2º Turno,19/08/2024,Vitoria,Cruzeiro,2,2,Mandante
+24,2º Turno,25/08/2024,Vitoria,Sao Paulo,1,2,Visitante
+25,2º Turno,01/09/2024,Vitoria,Vasco,0,1,Mandante
+26,2º Turno,14/09/2024,Vitoria,Atletico-GO,2,0,Visitante
+27,2º Turno,21/09/2024,Vitoria,Juventude,1,0,Mandante
+28,2º Turno,29/09/2024,Vitoria,Internacional,1,3,Visitante
+29,2º Turno,05/10/2024,Vitoria,Atletico-MG,2,2,Visitante
+30,2º Turno,19/10/2024,Vitoria,Bragantino,1,0,Mandante
+31,2º Turno,26/10/2024,Vitoria,Fluminense,2,1,Mandante
+32,2º Turno,02/11/2024,Vitoria,Athletico-PR,2,1,Visitante
+33,2º Turno,09/11/2024,Vitoria,Corinthians,1,2,Mandante
+34,2º Turno,20/11/2024,Vitoria,Criciuma,1,0,Visitante
+35,2º Turno,23/11/2024,Vitoria,Botafogo-RJ,1,1,Visitante
+36,2º Turno,01/12/2024,Vitoria,Fortaleza,2,0,Mandante
+37,2º Turno,04/12/2024,Vitoria,Gremio,1,1,Mandante
+38,2º Turno,08/12/2024,Vitoria,Flamengo,2,2,Visitante
