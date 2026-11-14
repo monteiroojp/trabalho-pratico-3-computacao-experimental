@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 #Leitura do arquivo
-df = pd.read_csv("./consolidado_gols_2021.csv")
+df = pd.read_csv("./consolidado_gols_2025.csv")
 gols_time = defaultdict(int)
 
 #Soma dos gols marcados de acordo com a condição(Visitante ou Mandante)
