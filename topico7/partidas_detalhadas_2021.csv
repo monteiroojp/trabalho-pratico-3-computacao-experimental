@@ -1,0 +1,761 @@
+rodada,turno,data,time,adversario,gols_marcados,gols_sofridos,condicao
+1,1º Turno,30/05/2021,America-MG,Athletico-PR,0,1,Visitante
+2,1º Turno,06/06/2021,America-MG,Corinthians,0,1,Mandante
+3,1º Turno,13/06/2021,America-MG,Flamengo,0,2,Visitante
+4,1º Turno,17/06/2021,America-MG,Cuiaba,0,0,Mandante
+5,1º Turno,20/06/2021,America-MG,Palmeiras,1,2,Visitante
+6,1º Turno,24/06/2021,America-MG,Juventude,1,1,Mandante
+7,1º Turno,27/06/2021,America-MG,Internacional,1,1,Mandante
+8,1º Turno,30/06/2021,America-MG,Bahia,4,3,Visitante
+9,1º Turno,03/07/2021,America-MG,Santos,2,0,Mandante
+10,1º Turno,07/07/2021,America-MG,Fortaleza,0,4,Visitante
+11,1º Turno,10/07/2021,America-MG,Atletico-MG,0,1,Mandante
+12,1º Turno,19/07/2021,America-MG,Sport,0,1,Mandante
+13,1º Turno,24/07/2021,America-MG,Gremio,1,1,Visitante
+14,1º Turno,01/08/2021,America-MG,Atletico-GO,1,1,Visitante
+15,1º Turno,08/08/2021,America-MG,Fluminense,1,0,Mandante
+16,1º Turno,16/08/2021,America-MG,Chapecoense,1,1,Visitante
+17,1º Turno,23/08/2021,America-MG,Bragantino,0,2,Mandante
+18,1º Turno,29/08/2021,America-MG,Ceara,2,0,Mandante
+19,1º Turno,22/09/2021,America-MG,Sao Paulo,0,0,Visitante
+20,2º Turno,11/09/2021,America-MG,Athletico-PR,2,0,Mandante
+21,2º Turno,19/09/2021,America-MG,Corinthians,1,1,Visitante
+22,2º Turno,26/09/2021,America-MG,Flamengo,1,1,Mandante
+23,2º Turno,02/10/2021,America-MG,Cuiaba,2,0,Visitante
+24,2º Turno,06/10/2021,America-MG,Palmeiras,2,1,Mandante
+25,2º Turno,09/10/2021,America-MG,Juventude,1,1,Visitante
+26,2º Turno,13/10/2021,America-MG,Internacional,1,3,Visitante
+27,2º Turno,16/10/2021,America-MG,Bahia,0,0,Mandante
+28,2º Turno,23/10/2021,America-MG,Santos,2,0,Visitante
+29,2º Turno,30/10/2021,America-MG,Fortaleza,2,1,Mandante
+30,2º Turno,07/11/2021,America-MG,Atletico-MG,0,1,Visitante
+31,2º Turno,10/11/2021,America-MG,Sport,3,2,Visitante
+32,2º Turno,13/11/2021,America-MG,Gremio,3,1,Mandante
+33,2º Turno,17/11/2021,America-MG,Atletico-GO,0,0,Mandante
+34,2º Turno,21/11/2021,America-MG,Fluminense,0,2,Visitante
+35,2º Turno,30/11/2021,America-MG,Chapecoense,3,0,Mandante
+36,2º Turno,27/11/2021,America-MG,Bragantino,1,1,Visitante
+37,2º Turno,05/12/2021,America-MG,Ceara,0,0,Visitante
+38,2º Turno,09/12/2021,America-MG,Sao Paulo,2,0,Mandante
+1,1º Turno,30/05/2021,Athletico-PR,America-MG,1,0,Mandante
+2,1º Turno,06/06/2021,Athletico-PR,Juventude,3,0,Visitante
+3,1º Turno,13/06/2021,Athletico-PR,Gremio,1,0,Visitante
+4,1º Turno,02/11/2021,Athletico-PR,Flamengo,2,2,Mandante
+5,1º Turno,20/06/2021,Athletico-PR,Atletico-GO,2,1,Mandante
+6,1º Turno,24/06/2021,Athletico-PR,Bahia,1,2,Visitante
+7,1º Turno,27/06/2021,Athletico-PR,Chapecoense,2,2,Mandante
+8,1º Turno,30/06/2021,Athletico-PR,Fluminense,4,1,Visitante
+9,1º Turno,03/07/2021,Athletico-PR,Fortaleza,2,1,Mandante
+10,1º Turno,06/07/2021,Athletico-PR,Santos,1,2,Visitante
+11,1º Turno,10/07/2021,Athletico-PR,Bragantino,2,2,Mandante
+12,1º Turno,17/07/2021,Athletico-PR,Ceara,0,1,Visitante
+13,1º Turno,25/07/2021,Athletico-PR,Internacional,2,1,Mandante
+14,1º Turno,01/08/2021,Athletico-PR,Atletico-MG,0,2,Visitante
+15,1º Turno,07/08/2021,Athletico-PR,Sao Paulo,1,2,Mandante
+16,1º Turno,15/08/2021,Athletico-PR,Cuiaba,0,1,Visitante
+17,1º Turno,22/08/2021,Athletico-PR,Corinthians,0,1,Mandante
+18,1º Turno,28/08/2021,Athletico-PR,Palmeiras,1,2,Visitante
+19,1º Turno,05/09/2021,Athletico-PR,Sport,0,0,Mandante
+20,2º Turno,11/09/2021,Athletico-PR,America-MG,0,2,Visitante
+21,2º Turno,18/09/2021,Athletico-PR,Juventude,2,1,Mandante
+22,2º Turno,26/09/2021,Athletico-PR,Gremio,4,2,Mandante
+23,2º Turno,03/10/2021,Athletico-PR,Flamengo,0,3,Visitante
+24,2º Turno,06/10/2021,Athletico-PR,Atletico-GO,2,0,Visitante
+25,2º Turno,09/10/2021,Athletico-PR,Bahia,0,2,Mandante
+26,2º Turno,13/10/2021,Athletico-PR,Chapecoense,1,1,Visitante
+27,2º Turno,17/10/2021,Athletico-PR,Fluminense,0,1,Mandante
+28,2º Turno,23/10/2021,Athletico-PR,Fortaleza,0,3,Visitante
+29,2º Turno,30/10/2021,Athletico-PR,Santos,0,1,Mandante
+30,2º Turno,07/11/2021,Athletico-PR,Bragantino,2,0,Visitante
+31,2º Turno,10/11/2021,Athletico-PR,Ceara,2,1,Mandante
+32,2º Turno,13/11/2021,Athletico-PR,Internacional,1,2,Visitante
+33,2º Turno,16/11/2021,Athletico-PR,Atletico-MG,0,1,Mandante
+34,2º Turno,24/11/2021,Athletico-PR,Sao Paulo,0,0,Visitante
+35,2º Turno,03/12/2021,Athletico-PR,Cuiaba,1,0,Mandante
+36,2º Turno,28/11/2021,Athletico-PR,Corinthians,0,1,Visitante
+37,2º Turno,06/12/2021,Athletico-PR,Palmeiras,0,0,Mandante
+38,2º Turno,09/12/2021,Athletico-PR,Sport,1,1,Visitante
+1,1º Turno,30/05/2021,Atletico-GO,Corinthians,1,0,Visitante
+2,1º Turno,05/06/2021,Atletico-GO,Sao Paulo,2,0,Mandante
+3,1º Turno,21/07/2021,Atletico-GO,Cuiaba,1,2,Visitante
+4,1º Turno,17/06/2021,Atletico-GO,Fortaleza,0,0,Mandante
+5,1º Turno,20/06/2021,Atletico-GO,Athletico-PR,1,2,Visitante
+6,1º Turno,23/06/2021,Atletico-GO,Fluminense,1,0,Mandante
+7,1º Turno,28/06/2021,Atletico-GO,Bragantino,0,1,Mandante
+8,1º Turno,01/07/2021,Atletico-GO,Atletico-MG,1,4,Visitante
+9,1º Turno,04/07/2021,Atletico-GO,Gremio,1,0,Visitante
+10,1º Turno,07/07/2021,Atletico-GO,Sport,1,1,Mandante
+11,1º Turno,11/07/2021,Atletico-GO,Juventude,1,1,Visitante
+12,1º Turno,18/07/2021,Atletico-GO,Palmeiras,0,3,Mandante
+13,1º Turno,25/07/2021,Atletico-GO,Santos,1,0,Visitante
+14,1º Turno,01/08/2021,Atletico-GO,America-MG,1,1,Mandante
+15,1º Turno,08/08/2021,Atletico-GO,Ceara,0,0,Visitante
+16,1º Turno,15/08/2021,Atletico-GO,Bahia,2,1,Visitante
+17,1º Turno,21/08/2021,Atletico-GO,Chapecoense,1,1,Mandante
+18,1º Turno,29/08/2021,Atletico-GO,Internacional,0,0,Mandante
+19,1º Turno,05/11/2021,Atletico-GO,Flamengo,0,2,Visitante
+20,2º Turno,12/09/2021,Atletico-GO,Corinthians,1,1,Mandante
+21,2º Turno,19/09/2021,Atletico-GO,Sao Paulo,1,2,Visitante
+22,2º Turno,26/09/2021,Atletico-GO,Cuiaba,0,0,Mandante
+23,2º Turno,02/10/2021,Atletico-GO,Fortaleza,3,0,Visitante
+24,2º Turno,06/10/2021,Atletico-GO,Athletico-PR,0,2,Mandante
+25,2º Turno,09/10/2021,Atletico-GO,Fluminense,0,0,Visitante
+26,2º Turno,12/10/2021,Atletico-GO,Bragantino,0,1,Visitante
+27,2º Turno,17/10/2021,Atletico-GO,Atletico-MG,2,1,Mandante
+28,2º Turno,25/10/2021,Atletico-GO,Gremio,2,0,Mandante
+29,2º Turno,31/10/2021,Atletico-GO,Sport,0,2,Visitante
+30,2º Turno,23/11/2021,Atletico-GO,Juventude,1,1,Mandante
+31,2º Turno,10/11/2021,Atletico-GO,Palmeiras,0,4,Visitante
+32,2º Turno,13/11/2021,Atletico-GO,Santos,0,0,Mandante
+33,2º Turno,17/11/2021,Atletico-GO,America-MG,0,0,Visitante
+34,2º Turno,20/11/2021,Atletico-GO,Ceara,1,1,Mandante
+35,2º Turno,29/11/2021,Atletico-GO,Bahia,2,1,Mandante
+36,2º Turno,03/12/2021,Atletico-GO,Chapecoense,1,0,Visitante
+37,2º Turno,06/12/2021,Atletico-GO,Internacional,2,1,Visitante
+38,2º Turno,09/12/2021,Atletico-GO,Flamengo,2,0,Mandante
+1,1º Turno,30/05/2021,Atletico-MG,Fortaleza,1,2,Mandante
+2,1º Turno,06/06/2021,Atletico-MG,Sport,1,0,Visitante
+3,1º Turno,13/06/2021,Atletico-MG,Sao Paulo,1,0,Mandante
+4,1º Turno,16/06/2021,Atletico-MG,Internacional,1,0,Visitante
+5,1º Turno,21/06/2021,Atletico-MG,Chapecoense,1,1,Mandante
+6,1º Turno,24/06/2021,Atletico-MG,Ceara,1,2,Visitante
+7,1º Turno,27/06/2021,Atletico-MG,Santos,0,2,Visitante
+8,1º Turno,01/07/2021,Atletico-MG,Atletico-GO,4,1,Mandante
+9,1º Turno,04/07/2021,Atletico-MG,Cuiaba,1,0,Visitante
+10,1º Turno,07/07/2021,Atletico-MG,Flamengo,2,1,Mandante
+11,1º Turno,10/07/2021,Atletico-MG,America-MG,1,0,Visitante
+12,1º Turno,17/07/2021,Atletico-MG,Corinthians,2,1,Visitante
+13,1º Turno,25/07/2021,Atletico-MG,Bahia,3,0,Mandante
+14,1º Turno,01/08/2021,Atletico-MG,Athletico-PR,2,0,Mandante
+15,1º Turno,08/08/2021,Atletico-MG,Juventude,2,1,Visitante
+16,1º Turno,14/08/2021,Atletico-MG,Palmeiras,2,0,Mandante
+17,1º Turno,23/08/2021,Atletico-MG,Fluminense,1,1,Visitante
+18,1º Turno,29/08/2021,Atletico-MG,Bragantino,1,1,Visitante
+19,1º Turno,03/11/2021,Atletico-MG,Gremio,2,1,Mandante
+20,2º Turno,12/09/2021,Atletico-MG,Fortaleza,2,0,Visitante
+21,2º Turno,18/09/2021,Atletico-MG,Sport,3,0,Mandante
+22,2º Turno,25/09/2021,Atletico-MG,Sao Paulo,0,0,Visitante
+23,2º Turno,02/10/2021,Atletico-MG,Internacional,1,0,Mandante
+24,2º Turno,06/10/2021,Atletico-MG,Chapecoense,2,2,Visitante
+25,2º Turno,09/10/2021,Atletico-MG,Ceara,3,1,Mandante
+26,2º Turno,13/10/2021,Atletico-MG,Santos,3,1,Mandante
+27,2º Turno,17/10/2021,Atletico-MG,Atletico-GO,1,2,Visitante
+28,2º Turno,24/10/2021,Atletico-MG,Cuiaba,2,1,Mandante
+29,2º Turno,30/10/2021,Atletico-MG,Flamengo,0,1,Visitante
+30,2º Turno,07/11/2021,Atletico-MG,America-MG,1,0,Mandante
+31,2º Turno,10/11/2021,Atletico-MG,Corinthians,3,0,Mandante
+32,2º Turno,02/12/2021,Atletico-MG,Bahia,3,2,Visitante
+33,2º Turno,16/11/2021,Atletico-MG,Athletico-PR,1,0,Visitante
+34,2º Turno,20/11/2021,Atletico-MG,Juventude,2,0,Mandante
+35,2º Turno,23/11/2021,Atletico-MG,Palmeiras,2,2,Visitante
+36,2º Turno,28/11/2021,Atletico-MG,Fluminense,2,1,Mandante
+37,2º Turno,05/12/2021,Atletico-MG,Bragantino,4,3,Mandante
+38,2º Turno,09/12/2021,Atletico-MG,Gremio,3,4,Visitante
+1,1º Turno,29/05/2021,Bahia,Santos,3,0,Mandante
+2,1º Turno,05/06/2021,Bahia,Bragantino,3,3,Visitante
+3,1º Turno,13/06/2021,Bahia,Internacional,0,1,Mandante
+4,1º Turno,17/06/2021,Bahia,Ceara,2,1,Visitante
+5,1º Turno,20/06/2021,Bahia,Corinthians,0,0,Mandante
+6,1º Turno,24/06/2021,Bahia,Athletico-PR,2,1,Mandante
+7,1º Turno,27/06/2021,Bahia,Palmeiras,2,3,Visitante
+8,1º Turno,30/06/2021,Bahia,America-MG,3,4,Mandante
+9,1º Turno,04/07/2021,Bahia,Chapecoense,2,0,Visitante
+10,1º Turno,07/07/2021,Bahia,Juventude,1,0,Mandante
+11,1º Turno,10/07/2021,Bahia,Sao Paulo,0,1,Visitante
+12,1º Turno,18/07/2021,Bahia,Flamengo,0,5,Mandante
+13,1º Turno,25/07/2021,Bahia,Atletico-MG,0,3,Visitante
+14,1º Turno,01/08/2021,Bahia,Sport,0,1,Mandante
+15,1º Turno,07/08/2021,Bahia,Cuiaba,1,1,Visitante
+16,1º Turno,15/08/2021,Bahia,Atletico-GO,1,2,Mandante
+17,1º Turno,21/08/2021,Bahia,Gremio,0,2,Visitante
+18,1º Turno,30/08/2021,Bahia,Fluminense,0,2,Visitante
+19,1º Turno,04/09/2021,Bahia,Fortaleza,4,2,Mandante
+20,2º Turno,11/09/2021,Bahia,Santos,0,0,Visitante
+21,2º Turno,18/09/2021,Bahia,Bragantino,1,1,Mandante
+22,2º Turno,26/09/2021,Bahia,Internacional,0,2,Visitante
+23,2º Turno,27/10/2021,Bahia,Ceara,1,1,Mandante
+24,2º Turno,05/10/2021,Bahia,Corinthians,1,3,Visitante
+25,2º Turno,09/10/2021,Bahia,Athletico-PR,2,0,Visitante
+26,2º Turno,12/10/2021,Bahia,Palmeiras,0,0,Mandante
+27,2º Turno,16/10/2021,Bahia,America-MG,0,0,Visitante
+28,2º Turno,24/10/2021,Bahia,Chapecoense,3,0,Mandante
+29,2º Turno,30/10/2021,Bahia,Juventude,0,0,Visitante
+30,2º Turno,07/11/2021,Bahia,Sao Paulo,1,0,Mandante
+31,2º Turno,11/11/2021,Bahia,Flamengo,0,3,Visitante
+32,2º Turno,02/12/2021,Bahia,Atletico-MG,2,3,Mandante
+33,2º Turno,18/11/2021,Bahia,Sport,0,1,Visitante
+34,2º Turno,21/11/2021,Bahia,Cuiaba,0,0,Mandante
+35,2º Turno,29/11/2021,Bahia,Atletico-GO,1,2,Visitante
+36,2º Turno,26/11/2021,Bahia,Gremio,3,1,Mandante
+37,2º Turno,05/12/2021,Bahia,Fluminense,2,0,Mandante
+38,2º Turno,09/12/2021,Bahia,Fortaleza,1,2,Visitante
+1,1º Turno,30/05/2021,Bragantino,Chapecoense,3,0,Visitante
+2,1º Turno,05/06/2021,Bragantino,Bahia,3,3,Mandante
+3,1º Turno,13/06/2021,Bragantino,Fluminense,2,2,Mandante
+4,1º Turno,16/06/2021,Bragantino,Corinthians,2,1,Visitante
+5,1º Turno,19/06/2021,Bragantino,Flamengo,3,2,Visitante
+6,1º Turno,23/06/2021,Bragantino,Palmeiras,3,1,Mandante
+7,1º Turno,28/06/2021,Bragantino,Atletico-GO,1,0,Visitante
+8,1º Turno,01/07/2021,Bragantino,Ceara,0,0,Mandante
+9,1º Turno,04/07/2021,Bragantino,Sao Paulo,2,1,Visitante
+10,1º Turno,07/07/2021,Bragantino,Cuiaba,1,1,Mandante
+11,1º Turno,10/07/2021,Bragantino,Athletico-PR,2,2,Visitante
+12,1º Turno,18/07/2021,Bragantino,Santos,2,2,Mandante
+13,1º Turno,25/07/2021,Bragantino,Fortaleza,0,1,Visitante
+14,1º Turno,31/07/2021,Bragantino,Gremio,1,0,Mandante
+15,1º Turno,06/08/2021,Bragantino,Sport,0,0,Visitante
+16,1º Turno,14/08/2021,Bragantino,Juventude,1,2,Mandante
+17,1º Turno,23/08/2021,Bragantino,America-MG,2,0,Visitante
+18,1º Turno,29/08/2021,Bragantino,Atletico-MG,1,1,Mandante
+19,1º Turno,21/10/2021,Bragantino,Internacional,1,1,Visitante
+20,2º Turno,11/09/2021,Bragantino,Chapecoense,1,2,Mandante
+21,2º Turno,18/09/2021,Bragantino,Bahia,1,1,Visitante
+22,2º Turno,26/09/2021,Bragantino,Fluminense,1,2,Visitante
+23,2º Turno,02/10/2021,Bragantino,Corinthians,2,2,Mandante
+24,2º Turno,06/10/2021,Bragantino,Flamengo,1,1,Mandante
+25,2º Turno,09/10/2021,Bragantino,Palmeiras,4,2,Visitante
+26,2º Turno,12/10/2021,Bragantino,Atletico-GO,1,0,Mandante
+27,2º Turno,17/10/2021,Bragantino,Ceara,2,2,Visitante
+28,2º Turno,24/10/2021,Bragantino,Sao Paulo,1,0,Mandante
+29,2º Turno,01/11/2021,Bragantino,Cuiaba,0,1,Visitante
+30,2º Turno,07/11/2021,Bragantino,Athletico-PR,0,2,Mandante
+31,2º Turno,10/11/2021,Bragantino,Santos,0,2,Visitante
+32,2º Turno,13/11/2021,Bragantino,Fortaleza,3,0,Mandante
+33,2º Turno,16/11/2021,Bragantino,Gremio,0,3,Visitante
+34,2º Turno,28/10/2021,Bragantino,Sport,3,0,Mandante
+35,2º Turno,30/11/2021,Bragantino,Juventude,0,1,Visitante
+36,2º Turno,27/11/2021,Bragantino,America-MG,1,1,Mandante
+37,2º Turno,05/12/2021,Bragantino,Atletico-MG,3,4,Visitante
+38,2º Turno,09/12/2021,Bragantino,Internacional,1,0,Mandante
+1,1º Turno,30/05/2021,Ceara,Gremio,3,2,Mandante
+2,1º Turno,05/06/2021,Ceara,Santos,1,3,Visitante
+3,1º Turno,13/06/2021,Ceara,Chapecoense,0,0,Visitante
+4,1º Turno,17/06/2021,Ceara,Bahia,1,2,Mandante
+5,1º Turno,20/06/2021,Ceara,Internacional,1,1,Visitante
+6,1º Turno,24/06/2021,Ceara,Atletico-MG,2,1,Mandante
+7,1º Turno,27/06/2021,Ceara,Sao Paulo,1,1,Mandante
+8,1º Turno,01/07/2021,Ceara,Bragantino,0,0,Visitante
+9,1º Turno,04/07/2021,Ceara,Juventude,2,0,Mandante
+10,1º Turno,07/07/2021,Ceara,Fluminense,0,0,Visitante
+11,1º Turno,11/07/2021,Ceara,Cuiaba,2,2,Visitante
+12,1º Turno,17/07/2021,Ceara,Athletico-PR,1,0,Mandante
+13,1º Turno,25/07/2021,Ceara,Sport,0,0,Visitante
+14,1º Turno,01/08/2021,Ceara,Fortaleza,3,1,Mandante
+15,1º Turno,08/08/2021,Ceara,Atletico-GO,0,0,Mandante
+16,1º Turno,15/08/2021,Ceara,Corinthians,1,3,Visitante
+17,1º Turno,22/08/2021,Ceara,Flamengo,1,1,Mandante
+18,1º Turno,29/08/2021,Ceara,America-MG,0,2,Visitante
+19,1º Turno,20/10/2021,Ceara,Palmeiras,1,2,Mandante
+20,2º Turno,12/09/2021,Ceara,Gremio,0,2,Visitante
+21,2º Turno,18/09/2021,Ceara,Santos,0,0,Mandante
+22,2º Turno,25/09/2021,Ceara,Chapecoense,1,0,Mandante
+23,2º Turno,27/10/2021,Ceara,Bahia,1,1,Visitante
+24,2º Turno,06/10/2021,Ceara,Internacional,0,0,Mandante
+25,2º Turno,09/10/2021,Ceara,Atletico-MG,1,3,Visitante
+26,2º Turno,14/10/2021,Ceara,Sao Paulo,1,1,Visitante
+27,2º Turno,17/10/2021,Ceara,Bragantino,2,2,Mandante
+28,2º Turno,23/10/2021,Ceara,Juventude,0,0,Visitante
+29,2º Turno,31/10/2021,Ceara,Fluminense,1,0,Mandante
+30,2º Turno,07/11/2021,Ceara,Cuiaba,1,0,Mandante
+31,2º Turno,10/11/2021,Ceara,Athletico-PR,1,2,Visitante
+32,2º Turno,14/11/2021,Ceara,Sport,2,1,Mandante
+33,2º Turno,17/11/2021,Ceara,Fortaleza,4,0,Visitante
+34,2º Turno,20/11/2021,Ceara,Atletico-GO,1,1,Visitante
+35,2º Turno,25/11/2021,Ceara,Corinthians,2,1,Mandante
+36,2º Turno,30/11/2021,Ceara,Flamengo,1,2,Visitante
+37,2º Turno,05/12/2021,Ceara,America-MG,0,0,Mandante
+38,2º Turno,09/12/2021,Ceara,Palmeiras,0,1,Visitante
+1,1º Turno,30/05/2021,Chapecoense,Bragantino,0,3,Mandante
+2,1º Turno,06/06/2021,Chapecoense,Palmeiras,1,3,Visitante
+3,1º Turno,13/06/2021,Chapecoense,Ceara,0,0,Mandante
+4,1º Turno,16/06/2021,Chapecoense,Sao Paulo,1,1,Visitante
+5,1º Turno,21/06/2021,Chapecoense,Atletico-MG,1,1,Visitante
+6,1º Turno,24/06/2021,Chapecoense,Internacional,1,2,Mandante
+7,1º Turno,27/06/2021,Chapecoense,Athletico-PR,2,2,Visitante
+8,1º Turno,30/06/2021,Chapecoense,Fortaleza,2,3,Visitante
+9,1º Turno,04/07/2021,Chapecoense,Bahia,0,2,Mandante
+10,1º Turno,08/07/2021,Chapecoense,Corinthians,0,1,Mandante
+11,1º Turno,11/07/2021,Chapecoense,Flamengo,1,2,Visitante
+12,1º Turno,18/07/2021,Chapecoense,Cuiaba,2,3,Mandante
+13,1º Turno,26/07/2021,Chapecoense,Juventude,0,1,Visitante
+14,1º Turno,01/08/2021,Chapecoense,Santos,0,1,Mandante
+15,1º Turno,09/08/2021,Chapecoense,Gremio,1,2,Visitante
+16,1º Turno,16/08/2021,Chapecoense,America-MG,1,1,Mandante
+17,1º Turno,21/08/2021,Chapecoense,Atletico-GO,1,1,Visitante
+18,1º Turno,28/08/2021,Chapecoense,Sport,0,0,Visitante
+19,1º Turno,07/09/2021,Chapecoense,Fluminense,1,2,Mandante
+20,2º Turno,11/09/2021,Chapecoense,Bragantino,2,1,Visitante
+21,2º Turno,18/09/2021,Chapecoense,Palmeiras,0,2,Mandante
+22,2º Turno,25/09/2021,Chapecoense,Ceara,0,1,Visitante
+23,2º Turno,03/10/2021,Chapecoense,Sao Paulo,1,1,Mandante
+24,2º Turno,06/10/2021,Chapecoense,Atletico-MG,2,2,Mandante
+25,2º Turno,10/10/2021,Chapecoense,Internacional,2,5,Visitante
+26,2º Turno,13/10/2021,Chapecoense,Athletico-PR,1,1,Mandante
+27,2º Turno,16/10/2021,Chapecoense,Fortaleza,1,2,Mandante
+28,2º Turno,24/10/2021,Chapecoense,Bahia,0,3,Visitante
+29,2º Turno,01/11/2021,Chapecoense,Corinthians,0,1,Visitante
+30,2º Turno,08/11/2021,Chapecoense,Flamengo,2,2,Mandante
+31,2º Turno,04/11/2021,Chapecoense,Cuiaba,0,0,Visitante
+32,2º Turno,14/11/2021,Chapecoense,Juventude,0,2,Mandante
+33,2º Turno,17/11/2021,Chapecoense,Santos,0,2,Visitante
+34,2º Turno,20/11/2021,Chapecoense,Gremio,1,3,Mandante
+35,2º Turno,30/11/2021,Chapecoense,America-MG,0,3,Visitante
+36,2º Turno,03/12/2021,Chapecoense,Atletico-GO,0,1,Mandante
+37,2º Turno,06/12/2021,Chapecoense,Sport,0,1,Mandante
+38,2º Turno,09/12/2021,Chapecoense,Fluminense,0,3,Visitante
+1,1º Turno,30/05/2021,Corinthians,Atletico-GO,0,1,Mandante
+2,1º Turno,06/06/2021,Corinthians,America-MG,1,0,Visitante
+3,1º Turno,12/06/2021,Corinthians,Palmeiras,1,1,Visitante
+4,1º Turno,16/06/2021,Corinthians,Bragantino,1,2,Mandante
+5,1º Turno,20/06/2021,Corinthians,Bahia,0,0,Visitante
+6,1º Turno,24/06/2021,Corinthians,Sport,2,1,Mandante
+7,1º Turno,27/06/2021,Corinthians,Fluminense,1,1,Visitante
+8,1º Turno,30/06/2021,Corinthians,Sao Paulo,0,0,Mandante
+9,1º Turno,03/07/2021,Corinthians,Internacional,1,1,Mandante
+10,1º Turno,08/07/2021,Corinthians,Chapecoense,1,0,Visitante
+11,1º Turno,11/07/2021,Corinthians,Fortaleza,0,1,Visitante
+12,1º Turno,17/07/2021,Corinthians,Atletico-MG,1,2,Mandante
+13,1º Turno,26/07/2021,Corinthians,Cuiaba,2,1,Visitante
+14,1º Turno,01/08/2021,Corinthians,Flamengo,1,3,Mandante
+15,1º Turno,08/08/2021,Corinthians,Santos,0,0,Visitante
+16,1º Turno,15/08/2021,Corinthians,Ceara,3,1,Mandante
+17,1º Turno,22/08/2021,Corinthians,Athletico-PR,1,0,Visitante
+18,1º Turno,28/08/2021,Corinthians,Gremio,1,0,Visitante
+19,1º Turno,07/09/2021,Corinthians,Juventude,1,1,Mandante
+20,2º Turno,12/09/2021,Corinthians,Atletico-GO,1,1,Visitante
+21,2º Turno,19/09/2021,Corinthians,America-MG,1,1,Mandante
+22,2º Turno,25/09/2021,Corinthians,Palmeiras,2,1,Mandante
+23,2º Turno,02/10/2021,Corinthians,Bragantino,2,2,Visitante
+24,2º Turno,05/10/2021,Corinthians,Bahia,3,1,Mandante
+25,2º Turno,09/10/2021,Corinthians,Sport,0,1,Visitante
+26,2º Turno,13/10/2021,Corinthians,Fluminense,1,0,Mandante
+27,2º Turno,18/10/2021,Corinthians,Sao Paulo,0,1,Visitante
+28,2º Turno,24/10/2021,Corinthians,Internacional,2,2,Visitante
+29,2º Turno,01/11/2021,Corinthians,Chapecoense,1,0,Mandante
+30,2º Turno,06/11/2021,Corinthians,Fortaleza,1,0,Mandante
+31,2º Turno,10/11/2021,Corinthians,Atletico-MG,0,3,Visitante
+32,2º Turno,13/11/2021,Corinthians,Cuiaba,3,2,Mandante
+33,2º Turno,17/11/2021,Corinthians,Flamengo,0,1,Visitante
+34,2º Turno,21/11/2021,Corinthians,Santos,2,0,Mandante
+35,2º Turno,25/11/2021,Corinthians,Ceara,1,2,Visitante
+36,2º Turno,28/11/2021,Corinthians,Athletico-PR,1,0,Mandante
+37,2º Turno,05/12/2021,Corinthians,Gremio,1,1,Mandante
+38,2º Turno,09/12/2021,Corinthians,Juventude,0,1,Visitante
+1,1º Turno,29/05/2021,Cuiaba,Juventude,2,2,Mandante
+2,1º Turno,06/06/2021,Cuiaba,Fluminense,0,1,Visitante
+3,1º Turno,21/07/2021,Cuiaba,Atletico-GO,2,1,Mandante
+4,1º Turno,17/06/2021,Cuiaba,America-MG,0,0,Visitante
+5,1º Turno,18/08/2021,Cuiaba,Gremio,0,1,Mandante
+6,1º Turno,23/06/2021,Cuiaba,Sao Paulo,2,2,Visitante
+7,1º Turno,27/06/2021,Cuiaba,Sport,0,0,Visitante
+8,1º Turno,01/07/2021,Cuiaba,Flamengo,0,2,Mandante
+9,1º Turno,04/07/2021,Cuiaba,Atletico-MG,0,1,Mandante
+10,1º Turno,07/07/2021,Cuiaba,Bragantino,1,1,Visitante
+11,1º Turno,11/07/2021,Cuiaba,Ceara,2,2,Mandante
+12,1º Turno,18/07/2021,Cuiaba,Chapecoense,3,2,Visitante
+13,1º Turno,26/07/2021,Cuiaba,Corinthians,1,2,Mandante
+14,1º Turno,31/07/2021,Cuiaba,Internacional,0,0,Visitante
+15,1º Turno,07/08/2021,Cuiaba,Bahia,1,1,Mandante
+16,1º Turno,15/08/2021,Cuiaba,Athletico-PR,1,0,Mandante
+17,1º Turno,22/08/2021,Cuiaba,Palmeiras,2,0,Visitante
+18,1º Turno,30/08/2021,Cuiaba,Fortaleza,0,0,Visitante
+19,1º Turno,04/09/2021,Cuiaba,Santos,2,1,Mandante
+20,2º Turno,11/09/2021,Cuiaba,Juventude,2,1,Visitante
+21,2º Turno,20/09/2021,Cuiaba,Fluminense,2,2,Mandante
+22,2º Turno,26/09/2021,Cuiaba,Atletico-GO,0,0,Visitante
+23,2º Turno,02/10/2021,Cuiaba,America-MG,0,2,Mandante
+24,2º Turno,06/10/2021,Cuiaba,Gremio,2,2,Visitante
+25,2º Turno,11/10/2021,Cuiaba,Sao Paulo,0,0,Mandante
+26,2º Turno,14/10/2021,Cuiaba,Sport,1,0,Mandante
+27,2º Turno,17/10/2021,Cuiaba,Flamengo,0,0,Visitante
+28,2º Turno,24/10/2021,Cuiaba,Atletico-MG,1,2,Visitante
+29,2º Turno,01/11/2021,Cuiaba,Bragantino,1,0,Mandante
+30,2º Turno,07/11/2021,Cuiaba,Ceara,0,1,Visitante
+31,2º Turno,04/11/2021,Cuiaba,Chapecoense,0,0,Mandante
+32,2º Turno,13/11/2021,Cuiaba,Corinthians,2,3,Visitante
+33,2º Turno,17/11/2021,Cuiaba,Internacional,1,0,Mandante
+34,2º Turno,21/11/2021,Cuiaba,Bahia,0,0,Visitante
+35,2º Turno,03/12/2021,Cuiaba,Athletico-PR,0,1,Visitante
+36,2º Turno,30/11/2021,Cuiaba,Palmeiras,1,3,Mandante
+37,2º Turno,06/12/2021,Cuiaba,Fortaleza,1,0,Mandante
+38,2º Turno,09/12/2021,Cuiaba,Santos,1,1,Visitante
+1,1º Turno,30/05/2021,Flamengo,Palmeiras,1,0,Mandante
+2,1º Turno,23/11/2021,Flamengo,Gremio,2,2,Visitante
+3,1º Turno,13/06/2021,Flamengo,America-MG,2,0,Mandante
+4,1º Turno,02/11/2021,Flamengo,Athletico-PR,2,2,Visitante
+5,1º Turno,19/06/2021,Flamengo,Bragantino,2,3,Mandante
+6,1º Turno,23/06/2021,Flamengo,Fortaleza,2,1,Mandante
+7,1º Turno,27/06/2021,Flamengo,Juventude,0,1,Visitante
+8,1º Turno,01/07/2021,Flamengo,Cuiaba,2,0,Visitante
+9,1º Turno,04/07/2021,Flamengo,Fluminense,0,1,Mandante
+10,1º Turno,07/07/2021,Flamengo,Atletico-MG,1,2,Visitante
+11,1º Turno,11/07/2021,Flamengo,Chapecoense,2,1,Mandante
+12,1º Turno,18/07/2021,Flamengo,Bahia,5,0,Visitante
+13,1º Turno,25/07/2021,Flamengo,Sao Paulo,5,1,Mandante
+14,1º Turno,01/08/2021,Flamengo,Corinthians,3,1,Visitante
+15,1º Turno,08/08/2021,Flamengo,Internacional,0,4,Mandante
+16,1º Turno,15/08/2021,Flamengo,Sport,2,0,Mandante
+17,1º Turno,22/08/2021,Flamengo,Ceara,1,1,Visitante
+18,1º Turno,28/08/2021,Flamengo,Santos,4,0,Visitante
+19,1º Turno,05/11/2021,Flamengo,Atletico-GO,2,0,Mandante
+20,2º Turno,12/09/2021,Flamengo,Palmeiras,3,1,Visitante
+21,2º Turno,19/09/2021,Flamengo,Gremio,0,1,Mandante
+22,2º Turno,26/09/2021,Flamengo,America-MG,1,1,Visitante
+23,2º Turno,03/10/2021,Flamengo,Athletico-PR,3,0,Mandante
+24,2º Turno,06/10/2021,Flamengo,Bragantino,1,1,Visitante
+25,2º Turno,09/10/2021,Flamengo,Fortaleza,3,0,Visitante
+26,2º Turno,13/10/2021,Flamengo,Juventude,3,1,Mandante
+27,2º Turno,17/10/2021,Flamengo,Cuiaba,0,0,Mandante
+28,2º Turno,23/10/2021,Flamengo,Fluminense,1,3,Visitante
+29,2º Turno,30/10/2021,Flamengo,Atletico-MG,1,0,Mandante
+30,2º Turno,08/11/2021,Flamengo,Chapecoense,2,2,Visitante
+31,2º Turno,11/11/2021,Flamengo,Bahia,3,0,Mandante
+32,2º Turno,14/11/2021,Flamengo,Sao Paulo,4,0,Visitante
+33,2º Turno,17/11/2021,Flamengo,Corinthians,1,0,Mandante
+34,2º Turno,20/11/2021,Flamengo,Internacional,2,1,Visitante
+35,2º Turno,03/12/2021,Flamengo,Sport,1,1,Visitante
+36,2º Turno,30/11/2021,Flamengo,Ceara,2,1,Mandante
+37,2º Turno,06/12/2021,Flamengo,Santos,0,1,Mandante
+38,2º Turno,09/12/2021,Flamengo,Atletico-GO,0,2,Visitante
+1,1º Turno,29/05/2021,Fluminense,Sao Paulo,0,0,Visitante
+2,1º Turno,06/06/2021,Fluminense,Cuiaba,1,0,Mandante
+3,1º Turno,13/06/2021,Fluminense,Bragantino,2,2,Visitante
+4,1º Turno,17/06/2021,Fluminense,Santos,1,0,Mandante
+5,1º Turno,20/06/2021,Fluminense,Fortaleza,1,1,Visitante
+6,1º Turno,23/06/2021,Fluminense,Atletico-GO,0,1,Visitante
+7,1º Turno,27/06/2021,Fluminense,Corinthians,1,1,Mandante
+8,1º Turno,30/06/2021,Fluminense,Athletico-PR,1,4,Mandante
+9,1º Turno,04/07/2021,Fluminense,Flamengo,1,0,Visitante
+10,1º Turno,07/07/2021,Fluminense,Ceara,0,0,Mandante
+11,1º Turno,10/07/2021,Fluminense,Sport,2,1,Visitante
+12,1º Turno,17/07/2021,Fluminense,Gremio,0,1,Mandante
+13,1º Turno,24/07/2021,Fluminense,Palmeiras,0,1,Visitante
+14,1º Turno,02/09/2021,Fluminense,Juventude,1,1,Mandante
+15,1º Turno,08/08/2021,Fluminense,America-MG,0,1,Visitante
+16,1º Turno,15/08/2021,Fluminense,Internacional,2,4,Visitante
+17,1º Turno,23/08/2021,Fluminense,Atletico-MG,1,1,Mandante
+18,1º Turno,30/08/2021,Fluminense,Bahia,2,0,Mandante
+19,1º Turno,07/09/2021,Fluminense,Chapecoense,2,1,Visitante
+20,2º Turno,12/09/2021,Fluminense,Sao Paulo,2,1,Mandante
+21,2º Turno,20/09/2021,Fluminense,Cuiaba,2,2,Visitante
+22,2º Turno,26/09/2021,Fluminense,Bragantino,2,1,Mandante
+23,2º Turno,27/10/2021,Fluminense,Santos,0,2,Visitante
+24,2º Turno,06/10/2021,Fluminense,Fortaleza,0,2,Mandante
+25,2º Turno,09/10/2021,Fluminense,Atletico-GO,0,0,Mandante
+26,2º Turno,13/10/2021,Fluminense,Corinthians,0,1,Visitante
+27,2º Turno,17/10/2021,Fluminense,Athletico-PR,1,0,Visitante
+28,2º Turno,23/10/2021,Fluminense,Flamengo,3,1,Mandante
+29,2º Turno,31/10/2021,Fluminense,Ceara,0,1,Visitante
+30,2º Turno,06/11/2021,Fluminense,Sport,1,0,Mandante
+31,2º Turno,09/11/2021,Fluminense,Gremio,0,1,Visitante
+32,2º Turno,14/11/2021,Fluminense,Palmeiras,2,1,Mandante
+33,2º Turno,17/11/2021,Fluminense,Juventude,0,1,Visitante
+34,2º Turno,21/11/2021,Fluminense,America-MG,2,0,Mandante
+35,2º Turno,24/11/2021,Fluminense,Internacional,1,0,Mandante
+36,2º Turno,28/11/2021,Fluminense,Atletico-MG,1,2,Visitante
+37,2º Turno,05/12/2021,Fluminense,Bahia,0,2,Visitante
+38,2º Turno,09/12/2021,Fluminense,Chapecoense,3,0,Mandante
+1,1º Turno,30/05/2021,Fortaleza,Atletico-MG,2,1,Visitante
+2,1º Turno,06/06/2021,Fortaleza,Internacional,5,1,Mandante
+3,1º Turno,13/06/2021,Fortaleza,Sport,1,0,Mandante
+4,1º Turno,17/06/2021,Fortaleza,Atletico-GO,0,0,Visitante
+5,1º Turno,20/06/2021,Fortaleza,Fluminense,1,1,Mandante
+6,1º Turno,23/06/2021,Fortaleza,Flamengo,1,2,Visitante
+7,1º Turno,27/06/2021,Fortaleza,Gremio,0,0,Visitante
+8,1º Turno,30/06/2021,Fortaleza,Chapecoense,3,2,Mandante
+9,1º Turno,03/07/2021,Fortaleza,Athletico-PR,1,2,Visitante
+10,1º Turno,07/07/2021,Fortaleza,America-MG,4,0,Mandante
+11,1º Turno,11/07/2021,Fortaleza,Corinthians,1,0,Mandante
+12,1º Turno,17/07/2021,Fortaleza,Sao Paulo,1,0,Visitante
+13,1º Turno,25/07/2021,Fortaleza,Bragantino,1,0,Mandante
+14,1º Turno,01/08/2021,Fortaleza,Ceara,1,3,Visitante
+15,1º Turno,07/08/2021,Fortaleza,Palmeiras,3,2,Visitante
+16,1º Turno,15/08/2021,Fortaleza,Santos,1,1,Mandante
+17,1º Turno,21/08/2021,Fortaleza,Juventude,1,1,Visitante
+18,1º Turno,30/08/2021,Fortaleza,Cuiaba,0,0,Mandante
+19,1º Turno,04/09/2021,Fortaleza,Bahia,2,4,Visitante
+20,2º Turno,12/09/2021,Fortaleza,Atletico-MG,0,2,Mandante
+21,2º Turno,19/09/2021,Fortaleza,Internacional,0,1,Visitante
+22,2º Turno,26/09/2021,Fortaleza,Sport,1,0,Visitante
+23,2º Turno,02/10/2021,Fortaleza,Atletico-GO,0,3,Mandante
+24,2º Turno,06/10/2021,Fortaleza,Fluminense,2,0,Visitante
+25,2º Turno,09/10/2021,Fortaleza,Flamengo,0,3,Mandante
+26,2º Turno,13/10/2021,Fortaleza,Gremio,1,0,Mandante
+27,2º Turno,16/10/2021,Fortaleza,Chapecoense,2,1,Visitante
+28,2º Turno,23/10/2021,Fortaleza,Athletico-PR,3,0,Mandante
+29,2º Turno,30/10/2021,Fortaleza,America-MG,1,2,Visitante
+30,2º Turno,06/11/2021,Fortaleza,Corinthians,0,1,Visitante
+31,2º Turno,10/11/2021,Fortaleza,Sao Paulo,1,1,Mandante
+32,2º Turno,13/11/2021,Fortaleza,Bragantino,0,3,Visitante
+33,2º Turno,17/11/2021,Fortaleza,Ceara,0,4,Mandante
+34,2º Turno,20/11/2021,Fortaleza,Palmeiras,1,0,Mandante
+35,2º Turno,25/11/2021,Fortaleza,Santos,0,2,Visitante
+36,2º Turno,03/12/2021,Fortaleza,Juventude,1,0,Mandante
+37,2º Turno,06/12/2021,Fortaleza,Cuiaba,0,1,Visitante
+38,2º Turno,09/12/2021,Fortaleza,Bahia,2,1,Mandante
+1,1º Turno,30/05/2021,Gremio,Ceara,2,3,Visitante
+2,1º Turno,23/11/2021,Gremio,Flamengo,2,2,Mandante
+3,1º Turno,13/06/2021,Gremio,Athletico-PR,0,1,Mandante
+4,1º Turno,17/06/2021,Gremio,Sport,0,1,Visitante
+5,1º Turno,18/08/2021,Gremio,Cuiaba,1,0,Visitante
+6,1º Turno,24/06/2021,Gremio,Santos,2,2,Mandante
+7,1º Turno,27/06/2021,Gremio,Fortaleza,0,0,Mandante
+8,1º Turno,30/06/2021,Gremio,Juventude,0,2,Visitante
+9,1º Turno,04/07/2021,Gremio,Atletico-GO,0,1,Mandante
+10,1º Turno,07/07/2021,Gremio,Palmeiras,0,2,Visitante
+11,1º Turno,10/07/2021,Gremio,Internacional,0,0,Mandante
+12,1º Turno,17/07/2021,Gremio,Fluminense,1,0,Visitante
+13,1º Turno,24/07/2021,Gremio,America-MG,1,1,Mandante
+14,1º Turno,31/07/2021,Gremio,Bragantino,0,1,Visitante
+15,1º Turno,09/08/2021,Gremio,Chapecoense,2,1,Mandante
+16,1º Turno,14/08/2021,Gremio,Sao Paulo,1,2,Visitante
+17,1º Turno,21/08/2021,Gremio,Bahia,2,0,Mandante
+18,1º Turno,28/08/2021,Gremio,Corinthians,0,1,Mandante
+19,1º Turno,03/11/2021,Gremio,Atletico-MG,1,2,Visitante
+20,2º Turno,12/09/2021,Gremio,Ceara,2,0,Mandante
+21,2º Turno,19/09/2021,Gremio,Flamengo,1,0,Visitante
+22,2º Turno,26/09/2021,Gremio,Athletico-PR,2,4,Visitante
+23,2º Turno,03/10/2021,Gremio,Sport,1,2,Mandante
+24,2º Turno,06/10/2021,Gremio,Cuiaba,2,2,Mandante
+25,2º Turno,10/10/2021,Gremio,Santos,0,1,Visitante
+26,2º Turno,13/10/2021,Gremio,Fortaleza,0,1,Visitante
+27,2º Turno,17/10/2021,Gremio,Juventude,3,2,Mandante
+28,2º Turno,25/10/2021,Gremio,Atletico-GO,0,2,Visitante
+29,2º Turno,31/10/2021,Gremio,Palmeiras,1,3,Mandante
+30,2º Turno,06/11/2021,Gremio,Internacional,0,1,Visitante
+31,2º Turno,09/11/2021,Gremio,Fluminense,1,0,Mandante
+32,2º Turno,13/11/2021,Gremio,America-MG,1,3,Visitante
+33,2º Turno,16/11/2021,Gremio,Bragantino,3,0,Mandante
+34,2º Turno,20/11/2021,Gremio,Chapecoense,3,1,Visitante
+35,2º Turno,02/12/2021,Gremio,Sao Paulo,3,0,Mandante
+36,2º Turno,26/11/2021,Gremio,Bahia,1,3,Visitante
+37,2º Turno,05/12/2021,Gremio,Corinthians,1,1,Visitante
+38,2º Turno,09/12/2021,Gremio,Atletico-MG,4,3,Mandante
+1,1º Turno,30/05/2021,Internacional,Sport,2,2,Mandante
+2,1º Turno,06/06/2021,Internacional,Fortaleza,1,5,Visitante
+3,1º Turno,13/06/2021,Internacional,Bahia,1,0,Visitante
+4,1º Turno,16/06/2021,Internacional,Atletico-MG,0,1,Mandante
+5,1º Turno,20/06/2021,Internacional,Ceara,1,1,Mandante
+6,1º Turno,24/06/2021,Internacional,Chapecoense,2,1,Visitante
+7,1º Turno,27/06/2021,Internacional,America-MG,1,1,Visitante
+8,1º Turno,30/06/2021,Internacional,Palmeiras,1,2,Mandante
+9,1º Turno,03/07/2021,Internacional,Corinthians,1,1,Visitante
+10,1º Turno,07/07/2021,Internacional,Sao Paulo,0,2,Mandante
+11,1º Turno,10/07/2021,Internacional,Gremio,0,0,Visitante
+12,1º Turno,18/07/2021,Internacional,Juventude,1,0,Mandante
+13,1º Turno,25/07/2021,Internacional,Athletico-PR,1,2,Visitante
+14,1º Turno,31/07/2021,Internacional,Cuiaba,0,0,Mandante
+15,1º Turno,08/08/2021,Internacional,Flamengo,4,0,Visitante
+16,1º Turno,15/08/2021,Internacional,Fluminense,4,2,Mandante
+17,1º Turno,22/08/2021,Internacional,Santos,2,2,Visitante
+18,1º Turno,29/08/2021,Internacional,Atletico-GO,0,0,Visitante
+19,1º Turno,21/10/2021,Internacional,Bragantino,1,1,Mandante
+20,2º Turno,13/09/2021,Internacional,Sport,1,0,Visitante
+21,2º Turno,19/09/2021,Internacional,Fortaleza,1,0,Mandante
+22,2º Turno,26/09/2021,Internacional,Bahia,2,0,Mandante
+23,2º Turno,02/10/2021,Internacional,Atletico-MG,0,1,Visitante
+24,2º Turno,06/10/2021,Internacional,Ceara,0,0,Visitante
+25,2º Turno,10/10/2021,Internacional,Chapecoense,5,2,Mandante
+26,2º Turno,13/10/2021,Internacional,America-MG,3,1,Mandante
+27,2º Turno,17/10/2021,Internacional,Palmeiras,0,1,Visitante
+28,2º Turno,24/10/2021,Internacional,Corinthians,2,2,Mandante
+29,2º Turno,31/10/2021,Internacional,Sao Paulo,0,1,Visitante
+30,2º Turno,06/11/2021,Internacional,Gremio,1,0,Mandante
+31,2º Turno,10/11/2021,Internacional,Juventude,1,2,Visitante
+32,2º Turno,13/11/2021,Internacional,Athletico-PR,2,1,Mandante
+33,2º Turno,17/11/2021,Internacional,Cuiaba,0,1,Visitante
+34,2º Turno,20/11/2021,Internacional,Flamengo,1,2,Mandante
+35,2º Turno,24/11/2021,Internacional,Fluminense,0,1,Visitante
+36,2º Turno,28/11/2021,Internacional,Santos,1,1,Mandante
+37,2º Turno,06/12/2021,Internacional,Atletico-GO,1,2,Mandante
+38,2º Turno,09/12/2021,Internacional,Bragantino,0,1,Visitante
+1,1º Turno,29/05/2021,Juventude,Cuiaba,2,2,Visitante
+2,1º Turno,06/06/2021,Juventude,Athletico-PR,0,3,Mandante
+3,1º Turno,12/06/2021,Juventude,Santos,0,0,Visitante
+4,1º Turno,16/06/2021,Juventude,Palmeiras,0,3,Mandante
+5,1º Turno,20/06/2021,Juventude,Sport,1,0,Mandante
+6,1º Turno,24/06/2021,Juventude,America-MG,1,1,Visitante
+7,1º Turno,27/06/2021,Juventude,Flamengo,1,0,Mandante
+8,1º Turno,30/06/2021,Juventude,Gremio,2,0,Mandante
+9,1º Turno,04/07/2021,Juventude,Ceara,0,2,Visitante
+10,1º Turno,07/07/2021,Juventude,Bahia,0,1,Visitante
+11,1º Turno,11/07/2021,Juventude,Atletico-GO,1,1,Mandante
+12,1º Turno,18/07/2021,Juventude,Internacional,0,1,Visitante
+13,1º Turno,26/07/2021,Juventude,Chapecoense,1,0,Mandante
+14,1º Turno,02/09/2021,Juventude,Fluminense,1,1,Visitante
+15,1º Turno,08/08/2021,Juventude,Atletico-MG,1,2,Mandante
+16,1º Turno,14/08/2021,Juventude,Bragantino,2,1,Visitante
+17,1º Turno,21/08/2021,Juventude,Fortaleza,1,1,Mandante
+18,1º Turno,29/08/2021,Juventude,Sao Paulo,1,1,Mandante
+19,1º Turno,07/09/2021,Juventude,Corinthians,1,1,Visitante
+20,2º Turno,11/09/2021,Juventude,Cuiaba,1,2,Mandante
+21,2º Turno,18/09/2021,Juventude,Athletico-PR,1,2,Visitante
+22,2º Turno,26/09/2021,Juventude,Santos,3,0,Mandante
+23,2º Turno,03/10/2021,Juventude,Palmeiras,1,1,Visitante
+24,2º Turno,06/10/2021,Juventude,Sport,1,3,Visitante
+25,2º Turno,09/10/2021,Juventude,America-MG,1,1,Mandante
+26,2º Turno,13/10/2021,Juventude,Flamengo,1,3,Visitante
+27,2º Turno,17/10/2021,Juventude,Gremio,2,3,Visitante
+28,2º Turno,23/10/2021,Juventude,Ceara,0,0,Mandante
+29,2º Turno,30/10/2021,Juventude,Bahia,0,0,Mandante
+30,2º Turno,23/11/2021,Juventude,Atletico-GO,1,1,Visitante
+31,2º Turno,10/11/2021,Juventude,Internacional,2,1,Mandante
+32,2º Turno,14/11/2021,Juventude,Chapecoense,2,0,Visitante
+33,2º Turno,17/11/2021,Juventude,Fluminense,1,0,Mandante
+34,2º Turno,20/11/2021,Juventude,Atletico-MG,0,2,Visitante
+35,2º Turno,30/11/2021,Juventude,Bragantino,1,0,Mandante
+36,2º Turno,03/12/2021,Juventude,Fortaleza,0,1,Visitante
+37,2º Turno,06/12/2021,Juventude,Sao Paulo,1,3,Visitante
+38,2º Turno,09/12/2021,Juventude,Corinthians,1,0,Mandante
+1,1º Turno,30/05/2021,Palmeiras,Flamengo,0,1,Visitante
+2,1º Turno,06/06/2021,Palmeiras,Chapecoense,3,1,Mandante
+3,1º Turno,12/06/2021,Palmeiras,Corinthians,1,1,Mandante
+4,1º Turno,16/06/2021,Palmeiras,Juventude,3,0,Visitante
+5,1º Turno,20/06/2021,Palmeiras,America-MG,2,1,Mandante
+6,1º Turno,23/06/2021,Palmeiras,Bragantino,1,3,Visitante
+7,1º Turno,27/06/2021,Palmeiras,Bahia,3,2,Mandante
+8,1º Turno,30/06/2021,Palmeiras,Internacional,2,1,Visitante
+9,1º Turno,04/07/2021,Palmeiras,Sport,1,0,Visitante
+10,1º Turno,07/07/2021,Palmeiras,Gremio,2,0,Mandante
+11,1º Turno,10/07/2021,Palmeiras,Santos,3,2,Mandante
+12,1º Turno,18/07/2021,Palmeiras,Atletico-GO,3,0,Visitante
+13,1º Turno,24/07/2021,Palmeiras,Fluminense,1,0,Mandante
+14,1º Turno,31/07/2021,Palmeiras,Sao Paulo,0,0,Visitante
+15,1º Turno,07/08/2021,Palmeiras,Fortaleza,2,3,Mandante
+16,1º Turno,14/08/2021,Palmeiras,Atletico-MG,0,2,Visitante
+17,1º Turno,22/08/2021,Palmeiras,Cuiaba,0,2,Mandante
+18,1º Turno,28/08/2021,Palmeiras,Athletico-PR,2,1,Mandante
+19,1º Turno,20/10/2021,Palmeiras,Ceara,2,1,Visitante
+20,2º Turno,12/09/2021,Palmeiras,Flamengo,1,3,Mandante
+21,2º Turno,18/09/2021,Palmeiras,Chapecoense,2,0,Visitante
+22,2º Turno,25/09/2021,Palmeiras,Corinthians,1,2,Visitante
+23,2º Turno,03/10/2021,Palmeiras,Juventude,1,1,Mandante
+24,2º Turno,06/10/2021,Palmeiras,America-MG,1,2,Visitante
+25,2º Turno,09/10/2021,Palmeiras,Bragantino,2,4,Mandante
+26,2º Turno,12/10/2021,Palmeiras,Bahia,0,0,Visitante
+27,2º Turno,17/10/2021,Palmeiras,Internacional,1,0,Mandante
+28,2º Turno,25/10/2021,Palmeiras,Sport,2,1,Mandante
+29,2º Turno,31/10/2021,Palmeiras,Gremio,3,1,Visitante
+30,2º Turno,07/11/2021,Palmeiras,Santos,2,0,Visitante
+31,2º Turno,10/11/2021,Palmeiras,Atletico-GO,4,0,Mandante
+32,2º Turno,14/11/2021,Palmeiras,Fluminense,1,2,Visitante
+33,2º Turno,17/11/2021,Palmeiras,Sao Paulo,0,2,Mandante
+34,2º Turno,20/11/2021,Palmeiras,Fortaleza,0,1,Visitante
+35,2º Turno,23/11/2021,Palmeiras,Atletico-MG,2,2,Mandante
+36,2º Turno,30/11/2021,Palmeiras,Cuiaba,3,1,Visitante
+37,2º Turno,06/12/2021,Palmeiras,Athletico-PR,0,0,Visitante
+38,2º Turno,09/12/2021,Palmeiras,Ceara,1,0,Mandante
+1,1º Turno,29/05/2021,Santos,Bahia,0,3,Visitante
+2,1º Turno,05/06/2021,Santos,Ceara,3,1,Mandante
+3,1º Turno,12/06/2021,Santos,Juventude,0,0,Mandante
+4,1º Turno,17/06/2021,Santos,Fluminense,0,1,Visitante
+5,1º Turno,20/06/2021,Santos,Sao Paulo,2,0,Mandante
+6,1º Turno,24/06/2021,Santos,Gremio,2,2,Visitante
+7,1º Turno,27/06/2021,Santos,Atletico-MG,2,0,Mandante
+8,1º Turno,30/06/2021,Santos,Sport,0,0,Mandante
+9,1º Turno,03/07/2021,Santos,America-MG,0,2,Visitante
+10,1º Turno,06/07/2021,Santos,Athletico-PR,2,1,Mandante
+11,1º Turno,10/07/2021,Santos,Palmeiras,2,3,Visitante
+12,1º Turno,18/07/2021,Santos,Bragantino,2,2,Visitante
+13,1º Turno,25/07/2021,Santos,Atletico-GO,0,1,Mandante
+14,1º Turno,01/08/2021,Santos,Chapecoense,1,0,Visitante
+15,1º Turno,08/08/2021,Santos,Corinthians,0,0,Mandante
+16,1º Turno,15/08/2021,Santos,Fortaleza,1,1,Visitante
+17,1º Turno,22/08/2021,Santos,Internacional,2,2,Mandante
+18,1º Turno,28/08/2021,Santos,Flamengo,0,4,Mandante
+19,1º Turno,04/09/2021,Santos,Cuiaba,1,2,Visitante
+20,2º Turno,11/09/2021,Santos,Bahia,0,0,Mandante
+21,2º Turno,18/09/2021,Santos,Ceara,0,0,Visitante
+22,2º Turno,26/09/2021,Santos,Juventude,0,3,Visitante
+23,2º Turno,27/10/2021,Santos,Fluminense,2,0,Mandante
+24,2º Turno,07/10/2021,Santos,Sao Paulo,1,1,Visitante
+25,2º Turno,10/10/2021,Santos,Gremio,1,0,Mandante
+26,2º Turno,13/10/2021,Santos,Atletico-MG,1,3,Visitante
+27,2º Turno,17/10/2021,Santos,Sport,0,0,Visitante
+28,2º Turno,23/10/2021,Santos,America-MG,0,2,Mandante
+29,2º Turno,30/10/2021,Santos,Athletico-PR,1,0,Visitante
+30,2º Turno,07/11/2021,Santos,Palmeiras,0,2,Mandante
+31,2º Turno,10/11/2021,Santos,Bragantino,2,0,Mandante
+32,2º Turno,13/11/2021,Santos,Atletico-GO,0,0,Visitante
+33,2º Turno,17/11/2021,Santos,Chapecoense,2,0,Mandante
+34,2º Turno,21/11/2021,Santos,Corinthians,0,2,Visitante
+35,2º Turno,25/11/2021,Santos,Fortaleza,2,0,Mandante
+36,2º Turno,28/11/2021,Santos,Internacional,1,1,Visitante
+37,2º Turno,06/12/2021,Santos,Flamengo,1,0,Visitante
+38,2º Turno,09/12/2021,Santos,Cuiaba,1,1,Mandante
+1,1º Turno,29/05/2021,Sao Paulo,Fluminense,0,0,Mandante
+2,1º Turno,05/06/2021,Sao Paulo,Atletico-GO,0,2,Visitante
+3,1º Turno,13/06/2021,Sao Paulo,Atletico-MG,0,1,Visitante
+4,1º Turno,16/06/2021,Sao Paulo,Chapecoense,1,1,Mandante
+5,1º Turno,20/06/2021,Sao Paulo,Santos,0,2,Visitante
+6,1º Turno,23/06/2021,Sao Paulo,Cuiaba,2,2,Mandante
+7,1º Turno,27/06/2021,Sao Paulo,Ceara,1,1,Visitante
+8,1º Turno,30/06/2021,Sao Paulo,Corinthians,0,0,Visitante
+9,1º Turno,04/07/2021,Sao Paulo,Bragantino,1,2,Mandante
+10,1º Turno,07/07/2021,Sao Paulo,Internacional,2,0,Visitante
+11,1º Turno,10/07/2021,Sao Paulo,Bahia,1,0,Mandante
+12,1º Turno,17/07/2021,Sao Paulo,Fortaleza,0,1,Mandante
+13,1º Turno,25/07/2021,Sao Paulo,Flamengo,1,5,Visitante
+14,1º Turno,31/07/2021,Sao Paulo,Palmeiras,0,0,Mandante
+15,1º Turno,07/08/2021,Sao Paulo,Athletico-PR,2,1,Visitante
+16,1º Turno,14/08/2021,Sao Paulo,Gremio,2,1,Mandante
+17,1º Turno,22/08/2021,Sao Paulo,Sport,1,0,Visitante
+18,1º Turno,29/08/2021,Sao Paulo,Juventude,1,1,Visitante
+19,1º Turno,22/09/2021,Sao Paulo,America-MG,0,0,Mandante
+20,2º Turno,12/09/2021,Sao Paulo,Fluminense,1,2,Visitante
+21,2º Turno,19/09/2021,Sao Paulo,Atletico-GO,2,1,Mandante
+22,2º Turno,25/09/2021,Sao Paulo,Atletico-MG,0,0,Mandante
+23,2º Turno,03/10/2021,Sao Paulo,Chapecoense,1,1,Visitante
+24,2º Turno,07/10/2021,Sao Paulo,Santos,1,1,Mandante
+25,2º Turno,11/10/2021,Sao Paulo,Cuiaba,0,0,Visitante
+26,2º Turno,14/10/2021,Sao Paulo,Ceara,1,1,Mandante
+27,2º Turno,18/10/2021,Sao Paulo,Corinthians,1,0,Mandante
+28,2º Turno,24/10/2021,Sao Paulo,Bragantino,0,1,Visitante
+29,2º Turno,31/10/2021,Sao Paulo,Internacional,1,0,Mandante
+30,2º Turno,07/11/2021,Sao Paulo,Bahia,0,1,Visitante
+31,2º Turno,10/11/2021,Sao Paulo,Fortaleza,1,1,Visitante
+32,2º Turno,14/11/2021,Sao Paulo,Flamengo,0,4,Mandante
+33,2º Turno,17/11/2021,Sao Paulo,Palmeiras,2,0,Visitante
+34,2º Turno,24/11/2021,Sao Paulo,Athletico-PR,0,0,Mandante
+35,2º Turno,02/12/2021,Sao Paulo,Gremio,0,3,Visitante
+36,2º Turno,27/11/2021,Sao Paulo,Sport,2,0,Mandante
+37,2º Turno,06/12/2021,Sao Paulo,Juventude,3,1,Mandante
+38,2º Turno,09/12/2021,Sao Paulo,America-MG,0,2,Visitante
+1,1º Turno,30/05/2021,Sport,Internacional,2,2,Visitante
+2,1º Turno,06/06/2021,Sport,Atletico-MG,0,1,Mandante
+3,1º Turno,13/06/2021,Sport,Fortaleza,0,1,Visitante
+4,1º Turno,17/06/2021,Sport,Gremio,1,0,Mandante
+5,1º Turno,20/06/2021,Sport,Juventude,0,1,Visitante
+6,1º Turno,24/06/2021,Sport,Corinthians,1,2,Visitante
+7,1º Turno,27/06/2021,Sport,Cuiaba,0,0,Mandante
+8,1º Turno,30/06/2021,Sport,Santos,0,0,Visitante
+9,1º Turno,04/07/2021,Sport,Palmeiras,0,1,Mandante
+10,1º Turno,07/07/2021,Sport,Atletico-GO,1,1,Visitante
+11,1º Turno,10/07/2021,Sport,Fluminense,1,2,Mandante
+12,1º Turno,19/07/2021,Sport,America-MG,1,0,Visitante
+13,1º Turno,25/07/2021,Sport,Ceara,0,0,Mandante
+14,1º Turno,01/08/2021,Sport,Bahia,1,0,Visitante
+15,1º Turno,06/08/2021,Sport,Bragantino,0,0,Mandante
+16,1º Turno,15/08/2021,Sport,Flamengo,0,2,Visitante
+17,1º Turno,22/08/2021,Sport,Sao Paulo,0,1,Mandante
+18,1º Turno,28/08/2021,Sport,Chapecoense,0,0,Mandante
+19,1º Turno,05/09/2021,Sport,Athletico-PR,0,0,Visitante
+20,2º Turno,13/09/2021,Sport,Internacional,0,1,Mandante
+21,2º Turno,18/09/2021,Sport,Atletico-MG,0,3,Visitante
+22,2º Turno,26/09/2021,Sport,Fortaleza,0,1,Mandante
+23,2º Turno,03/10/2021,Sport,Gremio,2,1,Visitante
+24,2º Turno,06/10/2021,Sport,Juventude,3,1,Mandante
+25,2º Turno,09/10/2021,Sport,Corinthians,1,0,Mandante
+26,2º Turno,14/10/2021,Sport,Cuiaba,0,1,Visitante
+27,2º Turno,17/10/2021,Sport,Santos,0,0,Mandante
+28,2º Turno,25/10/2021,Sport,Palmeiras,1,2,Visitante
+29,2º Turno,31/10/2021,Sport,Atletico-GO,2,0,Mandante
+30,2º Turno,06/11/2021,Sport,Fluminense,0,1,Visitante
+31,2º Turno,10/11/2021,Sport,America-MG,2,3,Mandante
+32,2º Turno,14/11/2021,Sport,Ceara,1,2,Visitante
+33,2º Turno,18/11/2021,Sport,Bahia,1,0,Mandante
+34,2º Turno,28/10/2021,Sport,Bragantino,0,3,Visitante
+35,2º Turno,03/12/2021,Sport,Flamengo,1,1,Mandante
+36,2º Turno,27/11/2021,Sport,Sao Paulo,0,2,Visitante
+37,2º Turno,06/12/2021,Sport,Chapecoense,1,0,Visitante
+38,2º Turno,09/12/2021,Sport,Athletico-PR,1,1,Mandante
